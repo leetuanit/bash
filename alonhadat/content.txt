@@ -1,0 +1,922 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><meta http-equiv="Content-Language" content="vi" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="author" content="Alonhadat.com.vn" /><meta name="copyright" content="Copyright 2013 - 2018 Mua bán nhà đất" /><link href="/publish/img/icon.png" rel="shortcut icon" type="image/x-icon" /><link rel="Stylesheet" href="/publish/css/pc-master.css?v=201807210904" />
+<meta content='noindex,nofollow' name='robots'><link rel='prev' href='/can-ban-nha/trang-59.htm'><link rel='next' href='/can-ban-nha/trang-61.htm'>
+<meta name="description" content="Bán nhà tại trên toàn quốc 2019 chính chủ, vị trí đẹp, đường rộng, cho thuê, mua bán nhà gấp giá rẻ. Bán nhà ở trên toàn quốc  có giấy tờ sổ đỏ, sổ hồng, nhiều diện tích, hướng đông, tây, nam, bắc, đáp ứng cho mọi đối tượng...  - Trang 60 ">
+<meta name="keywords" content="Bán nhà trên toàn quốc, nhà Bán trên toàn quốc, Cần bán nhà trên toàn quốc">
+<title>
+	Bán nhà  2019 - Trang 60
+</title></head>
+<body>  
+    <div id="wrapper">	
+        <div id="ctl00_pc_header">
+	        <div id="header">
+	            <div class="logo"><a href="/" title='Mua bán nhà đất' ><img src="/publish/img/logo.png" alt="Mua bán nhà đất"></a></div>
+	            <div class="banner-top"> 
+	            </div>   
+	        </div>
+	        <div class="reg-menu-box">		
+                 <div class="reg-menu">
+                 <span class="view-mobile" onclick="ViewWebVersion(2)">Mobile</span>
+                 <a class="regular-post" href="/dang-tin-nha-dat.html">Đăng tin nhà đất</a>
+                		   
+			        <a href="javascript:void(0)" class="register" onclick = "ShowRegisterForm()">Đăng ký thành viên</a>
+			        <a href="javascript:void(0)" class="login" onclick = "ShowLoginForm()">Đăng nhập</a>   
+		        
+		        </div>			    
+	        </div>	        	
+	        <div id="menu">  
+                <ul class="menu">
+                    <li><a href="/" class="home" title='Mua bán nhà đất'></a></li>
+                    <li class='list-sale'><a href="/nha-dat/can-ban.html">Nhà Đất Bán</a>
+                        <ul>
+                            <li class="type0"><a href="/can-ban-nha.htm">Bán nhà</a></li>
+                            <li class="type12"><a href="/nha-dat/can-ban/dat-tho-cu-dat-o.html">Bán đất thổ cư, đất ở</a></li>		                		                
+                            <li class="type5"><a href="/nha-dat/can-ban/phong-tro-nha-tro.html">Bán phòng trọ, nhà trọ</a></li>
+                            <li class="type1"><a href="/nha-dat/can-ban/nha-mat-tien.html">Bán nhà mặt tiền</a></li>		                
+                            <li class="type13"><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an.html">Bán đất nền, liền kề, đất dự án</a></li>		                
+                            <li class="type8"><a href="/nha-dat/can-ban/nha-hang-khach-san.html">Bán nhà hàng, khách sạn</a></li>
+                            <li class="type2"><a href="/nha-dat/can-ban/nha-trong-hem.html">Bán nhà trong hẻm</a></li>		               
+                            <li class="type14"><a href="/nha-dat/can-ban/dat-nong-lam-nghiep.html">Bán đất nông, lâm nghiệp</a></li>		                
+                            <li class="type9"><a href="/nha-dat/can-ban/shop-kiot-quan.html">Bán/Sang nhượng shop, kiot, quán</a></li>
+                            <li class="type3"><a href="/nha-dat/can-ban/biet-thu-nha-lien-ke.html">Bán biệt thự, nhà liền kề</a></li>
+                            <li class="type10"><a href="/nha-dat/can-ban/trang-trai.html">Bán trang trại</a></li>		                
+                            <li class="type7"><a href="/nha-dat/can-ban/kho-xuong.html">Bán kho, xưởng</a></li>		
+                            <li class="type4"><a href="/nha-dat/can-ban/can-ho-chung-cu.html">Bán căn hộ chung cư</a></li>     		                           		                		                
+                            <li class="type11"><a href="/nha-dat/can-ban/mat-bang.html">Bán mặt bằng</a></li> 
+                            <li class="type15"><a href="/nha-dat/can-ban/cac-loai-khac.html">Bán các loại BĐS khác</a></li>
+                            <li class="type6"><a href="/nha-dat/can-ban/van-phong.html">Bán văn phòng</a></li>
+                            <li></li>
+                            <li></li>
+                            
+                        </ul>
+                    </li>
+                    <li class='list-rent'><a href="/nha-dat/cho-thue.html">Nhà Đất Cho Thuê</a>
+                        <ul>
+                            <li class="type0"><a href="/cho-thue-nha.htm">Cho thuê nhà</a></li>		                
+                            <li class="type12"><a href="/nha-dat/cho-thue/dat-tho-cu-dat-o.html">Cho thuê đất thổ cư, đất ở</a></li>
+                            <li class="type5"><a href="/nha-dat/cho-thue/phong-tro-nha-tro.html">Cho thuê phòng trọ, nhà trọ</a></li>
+                            <li class="type1"><a href="/nha-dat/cho-thue/nha-mat-tien.html">Cho thuê nhà mặt tiền</a></li>		                
+                            <li class="type13"><a href="/nha-dat/cho-thue/dat-nen-lien-ke-dat-du-an.html">Cho thuê đất nền, liền kề, đất dự án</a></li>		                
+                            <li class="type8"><a href="/nha-dat/cho-thue/nha-hang-khach-san.html">Cho thuê nhà hàng, khách sạn</a></li>
+                            <li class="type2"><a href="/nha-dat/cho-thue/nha-trong-hem.html">Cho thuê nhà trong hẻm</a></li>		                
+                            <li class="type14"><a href="/nha-dat/cho-thue/dat-nong-lam-nghiep.html">Cho thuê đất nông, lâm nghiệp</a></li>
+                            <li class="type9"><a href="/nha-dat/cho-thue/shop-kiot-quan.html">Cho thuê shop, kiot, quán</a></li>
+                            <li class="type3"><a href="/nha-dat/cho-thue/biet-thu-nha-lien-ke.html">Cho thuê biệt thự, nhà liền kề</a></li>		                		                
+                            <li class="type10"><a href="/nha-dat/cho-thue/trang-trai.html">Cho thuê trang trại</a></li>		                
+                            <li class="type7"><a href="/nha-dat/cho-thue/kho-xuong.html">Cho thuê kho, xưởng</a></li>		     
+                            <li class="type4"><a href="/nha-dat/cho-thue/can-ho-chung-cu.html">Cho thuê căn hộ chung cư</a></li>		                
+                            <li class="type11"><a href="/nha-dat/cho-thue/mat-bang.html">Cho thuê mặt bằng</a></li> 
+                            <li class="type15"><a href="/nha-dat/cho-thue/cac-loai-khac.html">Cho thuê các loại BĐS khác</a></li>
+                            <li class="type6"><a href="/nha-dat/cho-thue/van-phong.html">Cho thuê văn phòng</a></li> 
+                            <li></li>
+                            <li></li>          		                		                
+                        </ul>		
+                    </li>               
+                   <li>                
+                        <a href="/du-an-bat-dong-san">DỰ ÁN</a>
+                        <ul>
+                          <li><a href="/du-an-can-ho-chung-cu-pc1">Căn hộ/ Chung cư</a></li>
+                          <li><a href="/du-an-khu-biet-thu-pc2">Khu biệt thự</a></li>
+                          <li><a href="/du-an-nha-pho-pc9">Nhà phố</a></li>
+                          <li><a href="/du-an-cao-oc-van-phong-pc3">Cao ốc văn phòng</a></li>
+                          <li><a href="/du-an-khu-thuong-mai-pc4">Khu thương mại</a></li>
+                          <li><a href="/du-an-khu-dan-cu-pc5">Khu dân cư</a></li>
+                          <li><a href="/du-an-nha-o-xa-hoi-pc6">Nhà ở xã hội</a></li>
+                          <li><a href="/du-an-khu-do-thi-moi-pc7">Khu đô thị mới</a></li>
+                          <li><a href="/du-an-khu-tai-dinh-cu-pc8">Khu tái định cư</a></li>
+                          <li><a href="/du-an-khu-phuc-hop-pc10">Khu phức hợp</a></li>                          
+                          <li><a href="/du-an-can-ho-dich-vu-pc11">Căn hộ dịch vụ</a></li>
+                          <li><a href="/du-an-khu-nghi-duong-pc12">Khu nghỉ dưỡng</a></li>  
+                        </ul>
+                    </li> 
+                    <li><a href="/nha-moi-gioi.html">NHÀ MÔI GIỚI</a></li>
+                    <li>                
+                        <a href="/chuyen-muc/kinh-nghiem.html">KINH NGHIỆM</a>
+                    </li> 
+                    <li>                
+                        <a href="/tin-tuc-c8/mau-nha-dep.html">Mẫu nhà đẹp</a>
+                        <ul>
+                            <li><a href="/tin-tuc-c9/mau-mau-nha-dep/nha-dep.html">Nhà đẹp</a>
+                                  <ul>
+                                      <li><a href="/tin-tuc-c10/mau-nha-dep/nha-dep/nha-ong.html">- Nhà ống</a></li>
+                                      <li><a href="/tin-tuc-c11/mau-nha-dep/nha-dep/nha-cap-4.html">- Nhà cấp 4</a></li>
+                                      <li><a href="/tin-tuc-c12/mau-nha-dep/nha-dep/biet-thu.html">- Biệt thự</a></li>
+                                      <li><a href="/tin-tuc-c13/mau-nha-dep/nha-dep/chung-cu.html">- Chung cư</a></li>
+                                      <li><a href="/tin-tuc-c14/mau-nha-dep/nha-dep/van-phong.html">- Văn phòng</a></li>
+                                  </ul>
+                             </li>
+                              <li><a href="/tin-tuc-c15/mau-nha-dep/ngoai-that.html">Ngoại thất</a></li>
+                              <li><a href="/tin-tuc-c16/mau-nha-dep/noi-that.html">Nội thất</a>
+                                   <ul>
+                                      <li><a href="/tin-tuc-c17/mau-nha-dep/noi-that/phong-khach.html">- Phòng khách</a></li>
+                                      <li><a href="/tin-tuc-c18/mau-nha-dep/noi-that/phong-ngu.html">- Phòng ngủ</a></li>
+                                      <li><a href="/tin-tuc-c19/mau-nha-dep/noi-that/phong-bep.html">- Phòng bếp</a></li>
+                                      <li><a href="/tin-tuc-c20/mau-nha-dep/noi-that/phong-tam.html">- Phòng tắm</a></li>
+                                    </ul>
+                              </li>          
+                        </ul>
+                    </li> 
+                    <li><a href="/lien-he.html">LIÊN HỆ - GÓP Ý</a></li>                                                        
+                     <li>                
+                        <a href="#">LIÊN KẾT</a>
+                        <ul style="list-style:none">
+                          <li><a href="/bando.html">Xem Bản Đồ</a></li>    
+                          <li><a target="_blank" href="https://banxehoicu.vn" rel='nofollow'>Bán xe hơi cũ</a></li>                          
+                        </ul>
+                    </li> 
+                </ul> 	        
+            </div>
+        </div>
+        
+        
+        <div class='body'>
+            
+<div class="top-link" itemscope itemtype="http://schema.org/BreadcrumbList"> <span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' href='/'><span itemprop='name'>Trang chủ</span></a></span><span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' class='title' href='/nha-dat/can-ban.html'><span itemprop='name'>Cần bán</span></a></span><span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' class='title' href='/can-ban-nha.htm'><span itemprop='name'>Bán nhà</span></a></span></div>
+<div class="top-line"></div>
+<div id="ctl00_content_pc_content" class="plp">	
+        <h1 class="h1title">Mua bán nhà  trên toàn quốc</h1>
+		<div class="line"></div>    			
+		<div id="content-body">
+			<div id="left">			
+				<div class="content-items">												
+					<div class='content-item'><div><div class='ct_title'><a href='/nha-2-lau-4-7x18m-mt-tran-hung-dao-ho-hao-hon-co-giang-quan-1-gia-25-ty-4181375.html' class='vip'>Nhà 2 Lầu, 4.7x18m, MT Trần Hưng Đạo-Hồ Hảo Hớn, Cô Giang, Quận 1. Giá 25 tỷ</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-2-lau-4-7x18m-mt-tran-hung-dao-ho-hao-hon-co-giang-quan-1-gia-25-ty-4181375.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Nhà 2 Lầu, 4.7x18m, MT Trần Hưng Đạo-Hồ Hảo Hớn, Cô Giang, Quận 1. Giá 25 tỷ'/></a></div><div class='text'><div class='ct_brief'>Giá: 25 tỷ  Diện tích: 84.6m²
+Chính chủ cần bán gấp nhà mặt tiền đoạn Trần Hưng Đạo - Hồ Hảo Hớn, Cô Giang, Quận 1. 
++ Diện tích: 4.7x18m, vuông vắn. 
++ Kết cấu: 1 trệt, 2 lầu. 
++ Vị trí đắc địa ngay trung tâm quận 1... <a href='/nha-2-lau-4-7x18m-mt-tran-hung-dao-ho-hao-hon-co-giang-quan-1-gia-25-ty-4181375.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 84 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 4,7x18m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='2 lầu'>2 lầu</span><span class='bedroom' title='5 phòng ngủ'>5 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 25 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-tran-hung-dao-quan-1-d1168.htm' title='Bán nhà Đường Trần Hưng Đạo'>Đường Trần Hưng Đạo</a>, <a href='/can-ban-nha-phuong-co-giang-quan-1-p763.htm' title='Bán nhà Phường Cô Giang'>Phường Cô Giang</a>, <a href='/can-ban-nha-quan-1-ho-chi-minh-q132.htm' title='Bán nhà Quận 1'>Quận 1</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/nha-5-lau-4x17m-mt-dinh-tien-hoang-da-kao-quan-1-gia-36-8-ty-4181390.html' class='vip'>Nhà 5 Lầu, 4x17m, MT Đinh Tiên Hoàng, Đa Kao, Quận 1. Giá 36.8 tỷ</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-5-lau-4x17m-mt-dinh-tien-hoang-da-kao-quan-1-gia-36-8-ty-4181390.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Nhà 5 Lầu, 4x17m, MT Đinh Tiên Hoàng, Đa Kao, Quận 1. Giá 36.8 tỷ'/></a></div><div class='text'><div class='ct_brief'>Giá: 36.8 tỷ  Diện tích: 68m²
+Định cư cần bán nhà phố mặt tiền phường Đa Kao, quận 1, khu phố sang trọng nhiều văn phòng công ty, đường rộng 2 chiều ô tô đậu thoải mái, nhà còn mới đẹp thích hợp làm văn phòng công ty ho... <a href='/nha-5-lau-4x17m-mt-dinh-tien-hoang-da-kao-quan-1-gia-36-8-ty-4181390.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 68 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 4x17m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='5 lầu'>5 lầu</span><span class='bedroom' title='8 phòng ngủ'>8 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 36,8 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-dinh-tien-hoang-quan-1-d1188.htm' title='Bán nhà Đường Đinh Tiên Hoàng'>Đường Đinh Tiên Hoàng</a>, <a href='/can-ban-nha-phuong-da-kao-quan-1-p769.htm' title='Bán nhà Phường Đa Kao'>Phường Đa Kao</a>, <a href='/can-ban-nha-quan-1-ho-chi-minh-q132.htm' title='Bán nhà Quận 1'>Quận 1</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/nha-3-lau-3-8x16m-mt-dang-tran-con-ben-thanh-quan-1-gia-29-ty-4179427.html' class='vip'>Nhà 3 Lầu, 3.8x16m, MT Đặng Trần Côn, Bến Thành, Quận 1. Giá 29 tỷ</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-3-lau-3-8x16m-mt-dang-tran-con-ben-thanh-quan-1-gia-29-ty-4179427.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Nhà 3 Lầu, 3.8x16m, MT Đặng Trần Côn, Bến Thành, Quận 1. Giá 29 tỷ'/></a></div><div class='text'><div class='ct_brief'>Giá: 29 tỷ  Diện tích: 60m²
+- Mặt tiền Đặng Trần Côn, P. Bến Thành, Quận 1.
+- Diện tích: 3.8x16m.
+- Kết cấu: Trệt, 3 lầu, Sân thượng.
+- Khu trung tâm sầm uất, gần siêu thị, khu kinh doanh buôn bán, giải trí, trường h... <a href='/nha-3-lau-3-8x16m-mt-dang-tran-con-ben-thanh-quan-1-gia-29-ty-4179427.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 60 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 3,8x16m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='3 lầu'>3 lầu</span><span class='bedroom' title='5 phòng ngủ'>5 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 29 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-dang-tran-con-quan-1-d1184.htm' title='Bán nhà Đường Đặng Trần Côn'>Đường Đặng Trần Côn</a>, <a href='/can-ban-nha-phuong-ben-thanh-quan-1-p760.htm' title='Bán nhà Phường Bến Thành'>Phường Bến Thành</a>, <a href='/can-ban-nha-quan-1-ho-chi-minh-q132.htm' title='Bán nhà Quận 1'>Quận 1</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/nha-3-lau-4x16m-mt-thai-van-lung-ben-nghe-quan-1-gia-38-ty-4179404.html' class='vip'>Nhà 3 Lầu, 4x16m, MT Thái Văn Lung, Bến Nghé, Quận 1. Giá 38 tỷ</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-3-lau-4x16m-mt-thai-van-lung-ben-nghe-quan-1-gia-38-ty-4179404.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Nhà 3 Lầu, 4x16m, MT Thái Văn Lung, Bến Nghé, Quận 1. Giá 38 tỷ'/></a></div><div class='text'><div class='ct_brief'>Giá: 38 tỷ  Diện tích: 64m²
+- Diện tích: 4x16m.
+- Kết cấu: Trệt + 3 lầu 
+- Vị trí đắc địa, khu vực trung tâm, tập trung buôn bán, kinh doanh sầm uất.
+- Pháp lý rõ ràng, không tranh chấp, sổ hồng chính chủ, giấy phép ... <a href='/nha-3-lau-4x16m-mt-thai-van-lung-ben-nghe-quan-1-gia-38-ty-4179404.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 64 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 4x16m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='3 lầu'>3 lầu</span><span class='bedroom' title='5 phòng ngủ'>5 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 38 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-thai-van-lung-quan-1-d1159.htm' title='Bán nhà Đường Thái Văn Lung'>Đường Thái Văn Lung</a>, <a href='/can-ban-nha-phuong-ben-nghe-quan-1-p759.htm' title='Bán nhà Phường Bến Nghé'>Phường Bến Nghé</a>, <a href='/can-ban-nha-quan-1-ho-chi-minh-q132.htm' title='Bán nhà Quận 1'>Quận 1</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/nha-2-lau-8x20m-mt-tran-hung-dao-cau-ong-lanh-quan-1-hd-178tr-th-gia-46-ty-4179448.html' class='vip'>Nhà 2 Lầu, 8x20m, MT Trần Hưng Đạo, Cầu Ông Lãnh, Quận 1. HĐ 178tr/th. Giá 46 tỷ</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-2-lau-8x20m-mt-tran-hung-dao-cau-ong-lanh-quan-1-hd-178tr-th-gia-46-ty-4179448.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Nhà 2 Lầu, 8x20m, MT Trần Hưng Đạo, Cầu Ông Lãnh, Quận 1. HĐ 178tr/th. Giá 46 tỷ'/></a></div><div class='text'><div class='ct_brief'>Giá: 46 tỷ  Diện tích: 160m²
+Bán nhà MT 335 - 337 Trần Hưng Đạo, Q. 1.
+Dành cho khách hàng mua để ở - đầu tư - kinh doanh 
+Cần bán nhà mặt tiền đường Trần Hưnng Đạo, Phường Cầu Ông Lãnh, Quận 1.
+- Diện tích: 8x20m.
+... <a href='/nha-2-lau-8x20m-mt-tran-hung-dao-cau-ong-lanh-quan-1-hd-178tr-th-gia-46-ty-4179448.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 160 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 8x20m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='2 lầu'>2 lầu</span><span class='bedroom' title='4 phòng ngủ'>4 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 46 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-tran-hung-dao-quan-1-d1168.htm' title='Bán nhà Đường Trần Hưng Đạo'>Đường Trần Hưng Đạo</a>, <a href='/can-ban-nha-phuong-cau-ong-lanh-quan-1-p762.htm' title='Bán nhà Phường Cầu Ông Lãnh'>Phường Cầu Ông Lãnh</a>, <a href='/can-ban-nha-quan-1-ho-chi-minh-q132.htm' title='Bán nhà Quận 1'>Quận 1</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/nha-4-lau-4-5x20m-mt-nguyen-dinh-chieu-phuong-2-quan-3-hd-100tr-th-gia-32-ty-4177589.html' class='vip'>Nhà 4 Lầu, 4.5x20m, MT Nguyễn Đình Chiểu, Phường 2, Quận 3. HĐ 100tr/th. Giá 32 tỷ</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-4-lau-4-5x20m-mt-nguyen-dinh-chieu-phuong-2-quan-3-hd-100tr-th-gia-32-ty-4177589.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Nhà 4 Lầu, 4.5x20m, MT Nguyễn Đình Chiểu, Phường 2, Quận 3. HĐ 100tr/th. Giá 32 tỷ'/></a></div><div class='text'><div class='ct_brief'>Giá: 32 tỷ  Diện tích: 100m²
+Bán nhà mặt tiền đường Nguyễn Đình Chiểu, phường 2, Quận 3.
+- Diện tích: 4.5x20m, 4 lầu.
+- Hiện đang cho thuê 100 triệu/tháng.
+- Vị trí siêu đẹp đoạn 2 chiều gần Cao Thắng, kinh doanh sầm... <a href='/nha-4-lau-4-5x20m-mt-nguyen-dinh-chieu-phuong-2-quan-3-hd-100tr-th-gia-32-ty-4177589.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 100 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 4,5x20m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='4 lầu'>4 lầu</span><span class='bedroom' title='6 phòng ngủ'>6 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 32 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-nguyen-dinh-chieu-quan-3-d1318.htm' title='Bán nhà Đường Nguyễn Đình Chiểu'>Đường Nguyễn Đình Chiểu</a>, <a href='/can-ban-nha-phuong-2-quan-3-p787.htm' title='Bán nhà Phường 2'>Phường 2</a>, <a href='/can-ban-nha-quan-3-ho-chi-minh-q134.htm' title='Bán nhà Quận 3'>Quận 3</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/nha-5-lau-6x12m-mt-nguyen-dinh-chieu-cho-ban-co-phuong-3-quan-3-gia-33-5-ty-4177592.html' class='vip'>Nhà 5 Lầu, 6x12m, MT Nguyễn Đình Chiểu-chợ Bàn Cờ, Phường 3, Quận 3. Giá 33.5 tỷ</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-5-lau-6x12m-mt-nguyen-dinh-chieu-cho-ban-co-phuong-3-quan-3-gia-33-5-ty-4177592.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Nhà 5 Lầu, 6x12m, MT Nguyễn Đình Chiểu-chợ Bàn Cờ, Phường 3, Quận 3. Giá 33.5 tỷ'/></a></div><div class='text'><div class='ct_brief'>Giá: 33.5 tỷ  Diện tích: 72m²
+Cần bán gấp shop thời trang tại mặt tiền đường Nguyễn Đình Chiểu, Quận 3, kinh doanh sầm uất - nhộn nhịp, nơi tập trung các nhãn hiệu giày, quần áo - con đường thời trang.
+
+Vị trí cực đắc... <a href='/nha-5-lau-6x12m-mt-nguyen-dinh-chieu-cho-ban-co-phuong-3-quan-3-gia-33-5-ty-4177592.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 72 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 6x12m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='5 lầu'>5 lầu</span><span class='bedroom' title='8 phòng ngủ'>8 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 33,5 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-nguyen-dinh-chieu-quan-3-d1318.htm' title='Bán nhà Đường Nguyễn Đình Chiểu'>Đường Nguyễn Đình Chiểu</a>, <a href='/can-ban-nha-phuong-3-quan-3-p788.htm' title='Bán nhà Phường 3'>Phường 3</a>, <a href='/can-ban-nha-quan-3-ho-chi-minh-q134.htm' title='Bán nhà Quận 3'>Quận 3</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/nha-2-lau-dep-4x25m-mt-dien-bien-phu-phuong-1-quan-3-gia-22-5-ty-4177586.html' class='vip'>Nhà 2 Lầu đẹp, 4x25m, MT Điện Biên Phủ, Phường 1, Quận 3. Giá 22.5 tỷ</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-2-lau-dep-4x25m-mt-dien-bien-phu-phuong-1-quan-3-gia-22-5-ty-4177586.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Nhà 2 Lầu đẹp, 4x25m, MT Điện Biên Phủ, Phường 1, Quận 3. Giá 22.5 tỷ'/></a></div><div class='text'><div class='ct_brief'>Giá: 22.5 tỷ  Diện tích: 100m²
+Bán gấp nhà MT Điện Biên Phủ, Phường 1, Quận 3.
+- Diện tích: 4 x 25m, vuông vức 100% không 1 lỗi phong thủy, nhà 2 lầu đẹp, vỉa hè rộng 5m
+- Kết cấu: Nhà 2 lầu mới tuyệt đẹp.
+- Đường rộ... <a href='/nha-2-lau-dep-4x25m-mt-dien-bien-phu-phuong-1-quan-3-gia-22-5-ty-4177586.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 100 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 4x25m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='2 lầu'>2 lầu</span><span class='bedroom' title='4 phòng ngủ'>4 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 22,5 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-dien-bien-phu-quan-3-d1339.htm' title='Bán nhà Đường Điện Biên Phủ'>Đường Điện Biên Phủ</a>, <a href='/can-ban-nha-phuong-1-quan-3-p781.htm' title='Bán nhà Phường 1'>Phường 1</a>, <a href='/can-ban-nha-quan-3-ho-chi-minh-q134.htm' title='Bán nhà Quận 3'>Quận 3</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/hxh-nguyen-dinh-chieu-p5-q3-dt-4-05-12-1-t-l-3l-gia-12-6-ty-3975066.html' class='vip'>HXH Nguyễn Đình Chiểu P5 Q3 DT 4.05*12.1 T,L,3L. Giá 12.7tỷ .L/h Phúc Hoàng 0936661909 .</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/hxh-nguyen-dinh-chieu-p5-q3-dt-4-05-12-1-t-l-3l-gia-12-6-ty-3975066.html'/><img src='/files/properties/2019/3/27/thumbnails/20190327_124412_3975066_0.jpg' alt='HXH Nguyễn Đình Chiểu P5 Q3 DT 4.05*12.1 T,L,3L. Giá 12.7tỷ .L/h Phúc Hoàng 0936661909 .'/></a></div><div class='text'><div class='ct_brief'>HXH Nguyễn Đình Chiểu P5 Q3  
+* Diện tích: 4.05x12.1 T,L,3L
+* Ưu điểm: Vị trí có một không hai, khu tập trung những tòa nhà văn phòng công ty, nhà hàng, SPA, café thương hiệu nước ngoài
+* Pháp lý rõ ràng, sổ hồng chín... <a href='/hxh-nguyen-dinh-chieu-p5-q3-dt-4-05-12-1-t-l-3l-gia-12-6-ty-3975066.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 40 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 4x12m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 6m'>6m</span><span class='floors' title='3 lầu'>3 lầu</span><span class='bedroom' title='6 phòng ngủ'>6 phòng ngủ</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 12,7 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-vo-van-tan-quan-3-d1337.htm' title='Bán nhà Đường Võ Văn Tần'>Đường Võ Văn Tần</a>, <a href='/can-ban-nha-phuong-5-quan-3-p790.htm' title='Bán nhà Phường 5'>Phường 5</a>, <a href='/can-ban-nha-quan-3-ho-chi-minh-q134.htm' title='Bán nhà Quận 3'>Quận 3</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/toi-can-ban-gap-day-tro-14phong-va-lo-dat-5x20m-co-shr-gia-1ty950-3436301.html' class='vip'>Mở bán đợt 1 biệt thự nghỉ dưỡng view sông, giá chỉ 2.8tỷ/căn, thanh toán 50% góp 5 năm</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/toi-can-ban-gap-day-tro-14phong-va-lo-dat-5x20m-co-shr-gia-1ty950-3436301.html'/><img src='/files/properties/2019/3/20/thumbnails/20190320_091357_3436301_0.jpg' alt='Mở bán đợt 1 biệt thự nghỉ dưỡng view sông, giá chỉ 2.8tỷ/căn, thanh toán 50% góp 5 năm'/></a></div><div class='text'><div class='ct_brief'>Khu đô thị nghỉ dưỡng VSIP II chính thức mở bán đợt 1 gồm 480 căn biệt thự view sông và 2000 căn condotel.
+Giá khởi điểm cho nhà đầu tư chỉ 2.8 tỷ /1 căn biệt thự 6x18m.
+Với phương thức thanh toán linh hoạt, trả trước ... <a href='/toi-can-ban-gap-day-tro-14phong-va-lo-dat-5x20m-co-shr-gia-1ty950-3436301.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 108 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 8x20m</div><div class='ct_direct'><label>Hướng:</label> Nam</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 12m'>12m</span><span class='floors' title='2 lầu'>2 lầu</span><span class='bedroom' title='4 phòng ngủ'>4 phòng ngủ</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 2,8 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-cu-xa-lu-gia-quan-11-d14937.htm' title='Bán nhà Đường Cư Xá Lữ Gia'>Đường Cư Xá Lữ Gia</a>, <a href='/can-ban-nha-phuong-11-quan-11-p898.htm' title='Bán nhà Phường 11'>Phường 11</a>, <a href='/can-ban-nha-quan-11-ho-chi-minh-q142.htm' title='Bán nhà Quận 11'>Quận 11</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-nha-hot-xung-dang-de-suong-tien-2mt-phuong-ben-thanh-dt-4x14m-no-hau-6m-hdt-7-4187634.html' class='vip'>Bán nhà HOT xứng đáng để suống tiền . 2MT phường Bến Thành . Dt: 4x14m. Nở hậu : 6m. HĐT 7</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/ban-nha-hot-xung-dang-de-suong-tien-2mt-phuong-ben-thanh-dt-4x14m-no-hau-6m-hdt-7-4187634.html'/><img src='/files/properties/2019/3/29/thumbnails/20190329_030854_4187634_0.jpg' alt='Bán nhà HOT xứng đáng để suống tiền . 2MT phường Bến Thành . Dt: 4x14m. Nở hậu : 6m. HĐT 7'/></a></div><div class='text'><div class='ct_brief'>Gia chủ định cư nước ngoài nên Bán gấp nhà 2MT gần Nguyễn Trãi- Lê Thị riêng - Lê Lai. 
+
+- Diện tích : 4m x 14m . Nở hậu : 6m. 
+- Kết cấu : 4 tầng . mới , siêu đẹp , sang trọng *nhìn là ghiền* 
+
+* Đây là khu vực đượ... <a href='/ban-nha-hot-xung-dang-de-suong-tien-2mt-phuong-ben-thanh-dt-4x14m-no-hau-6m-hdt-7-4187634.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 56 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 4x14m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 4m'>4m</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 28,4 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-nguyen-trai-quan-1-d1131.htm' title='Bán nhà Đường Nguyễn Trãi'>Đường Nguyễn Trãi</a>, <a href='/can-ban-nha-phuong-pham-ngu-lao-quan-1-p767.htm' title='Bán nhà Phường Phạm Ngũ Lão'>Phường Phạm Ngũ Lão</a>, <a href='/can-ban-nha-quan-1-ho-chi-minh-q132.htm' title='Bán nhà Quận 1'>Quận 1</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-nha-time-city-minh-khai-2-06-ty-5-tang-lo-goc-doi-dien-timecity-gan-oto-4179957.html' class='vip'>Bán nhà Time City Minh Khai 2.06 tỷ 5 tầng lô góc, đối diện Timecity gần oto</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/ban-nha-time-city-minh-khai-2-06-ty-5-tang-lo-goc-doi-dien-timecity-gan-oto-4179957.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Bán nhà Time City Minh Khai 2.06 tỷ 5 tầng lô góc, đối diện Timecity gần oto'/></a></div><div class='text'><div class='ct_brief'>Cần bán nhà Minh Khai đối diện timecity, Hai Bà Trưng, Hà Nội.
++ Diện tích gần 20m2 xây 5 tầng khung bê tông chịu lực, mặt tiền 3.3m.
++ Nhà 5 tầng chắc chắn, thiết kế tầng 1 thông sàn 1 vệ sinh cầu thang cuối nhà, có t... <a href='/ban-nha-time-city-minh-khai-2-06-ty-5-tang-lo-goc-doi-dien-timecity-gan-oto-4179957.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 20 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 3,3x6,6m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 2,5m'>2,5m</span><span class='floors' title='5 lầu'>5 lầu</span><span class='bedroom' title='3 phòng ngủ'>3 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 2,06 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-minh-khai-quan-hai-ba-trung-d380.htm' title='Bán nhà Đường Minh Khai'>Đường Minh Khai</a>, <a href='/can-ban-nha-phuong-minh-khai-quan-hai-ba-trung-p70.htm' title='Bán nhà Phường Minh Khai'>Phường Minh Khai</a>, <a href='/can-ban-nha-quan-hai-ba-trung-ha-noi-q411.htm' title='Bán nhà Quận Hai Bà Trưng'>Quận Hai Bà Trưng</a>, Hà Nội</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-toa-nha-pham-huy-thong-ba-dinh-9-tang-hon-20-ty-doanh-thu-khung-4168932.html' class='vip'>Bán Tòa Nhà Phạm Huy Thông, Ba Đình 9 Tầng hơn 20 tỷ doanh thu khủng</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/ban-toa-nha-pham-huy-thong-ba-dinh-9-tang-hon-20-ty-doanh-thu-khung-4168932.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Bán Tòa Nhà Phạm Huy Thông, Ba Đình 9 Tầng hơn 20 tỷ doanh thu khủng'/></a></div><div class='text'><div class='ct_brief'>Cần bán tòa nhà Apartment cho khách Nhật Bản thuê lâu dài Phố Phạm Huy Thông, Ba Đình, Hà Nội.
++ Diện tích: 65m2 x 9 Tầng, mặt tiền 5.5m.
++ Thiết kế tầng 1 căn hộ cao cấp đủ công năng gồm: 1 phòng khách rộng, 1 phòng b... <a href='/ban-toa-nha-pham-huy-thong-ba-dinh-9-tang-hon-20-ty-doanh-thu-khung-4168932.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 65 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 5,5x12m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 5m'>5m</span><span class='floors' title='9 lầu'>9 lầu</span><span class='bedroom' title='7 phòng ngủ'>7 phòng ngủ</span><span class='parking' title='có chỗ để ô tô'>chỗ để xe</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 20,5 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-nguyen-huy-thong-quan-ba-dinh-d82.htm' title='Bán nhà Đường Nguyễn Huy Thông'>Đường Nguyễn Huy Thông</a>, <a href='/can-ban-nha-phuong-ngoc-khanh-quan-ba-dinh-p6.htm' title='Bán nhà Phường Ngọc Khánh'>Phường Ngọc Khánh</a>, <a href='/can-ban-nha-quan-ba-dinh-ha-noi-q407.htm' title='Bán nhà Quận Ba Đình'>Quận Ba Đình</a>, Hà Nội</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-nha-nat-tien-xay-moi-duong-ngo-tat-to-phuong-21-binh-thanh-4187588.html' class='vip'>Bán nhà nát tiện xây mới đường Ngô Tất Tố, phường 21, Bình Thạnh</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/ban-nha-nat-tien-xay-moi-duong-ngo-tat-to-phuong-21-binh-thanh-4187588.html'/><img src='/files/properties/2019/3/29/thumbnails/20190329_030404_4187588_0.jpg' alt='Bán nhà nát tiện xây mới đường Ngô Tất Tố, phường 21, Bình Thạnh'/></a></div><div class='text'><div class='ct_brief'>Bán nhà nát tiện xây mới Ngô Tất Tố, P21, Q.Bình Thạnh. 
+Khu vực giao thông tiện qua lại các quận trung tâm
+- Diện tích 58m2 ( công nhận 54m2)
+- Giá 5.4 tỷ. 
+- Đường trước nhà rộng 6m
+- Nhanh tay li... <a href='/ban-nha-nat-tien-xay-moi-duong-ngo-tat-to-phuong-21-binh-thanh-4187588.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 58 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 4,5x12,5m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 6m'>6m</span><span class='floors' title='1 lầu'>1 lầu</span><span class='bedroom' title='1 phòng ngủ'>1 phòng ngủ</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 5,4 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-ngo-tat-to-quan-binh-thanh-d2027.htm' title='Bán nhà Đường Ngô Tất Tố'>Đường Ngô Tất Tố</a>, <a href='/can-ban-nha-phuong-21-quan-binh-thanh-p947.htm' title='Bán nhà Phường 21'>Phường 21</a>, <a href='/can-ban-nha-quan-binh-thanh-ho-chi-minh-q145.htm' title='Bán nhà Quận Bình Thạnh'>Quận Bình Thạnh</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/nha-mat-tien-gan-goc-le-thi-hong-gam-calmette-p-nguyen-thai-binh-q1-dt-8-1x20m-4187629.html' class='vip'>Nhà mặt tiền gần góc Lê Thị Hồng Gấm - Calmette, P Nguyễn Thái Bình, Q1 DT: 8.1x20m</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-mat-tien-gan-goc-le-thi-hong-gam-calmette-p-nguyen-thai-binh-q1-dt-8-1x20m-4187629.html'/><img src='/files/properties/2019/3/29/thumbnails/20190329_030819_4187629_0.jpg' alt='Nhà mặt tiền gần góc Lê Thị Hồng Gấm - Calmette, P Nguyễn Thái Bình, Q1 DT: 8.1x20m'/></a></div><div class='text'><div class='ct_brief'>Bán khuôn đất duy nhất, đẹp tuyệt vời tọa lạc mặt tiền phường Nguyễn Thái Bình, quận 1:
+- Diện tích: 8.1x20m. Đất vuông vắn, không 1 lỗi phong thuỷ nhỏ nào.
+- Kết cấu: Trệt + 4 lầu + sân thượng.
+- Nhà mặt tiền gần Góc... <a href='/nha-mat-tien-gan-goc-le-thi-hong-gam-calmette-p-nguyen-thai-binh-q1-dt-8-1x20m-4187629.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 168 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 8x20m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='4 lầu'>4 lầu</span><span class='bedroom' title='4 phòng ngủ'>4 phòng ngủ</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 82,9 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-le-thi-hong-gam-quan-1-d1098.htm' title='Bán nhà Đường Lê Thị Hồng Gấm'>Đường Lê Thị Hồng Gấm</a>, <a href='/can-ban-nha-phuong-nguyen-thai-binh-quan-1-p766.htm' title='Bán nhà Phường Nguyễn Thái Bình'>Phường Nguyễn Thái Bình</a>, <a href='/can-ban-nha-quan-1-ho-chi-minh-q132.htm' title='Bán nhà Quận 1'>Quận 1</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/chu-gui-ban-can-nha-2-mt-toa-lac-o-d-dang-van-bi-truong-tho-duong-12-5-m--4187628.html' class='vip'>Chủ gửi bán căn nhà 2 MT tọa lạc ở Đ.Đặng Văn Bi- Trường Thọ.Đường 12.5 m,</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/chu-gui-ban-can-nha-2-mt-toa-lac-o-d-dang-van-bi-truong-tho-duong-12-5-m--4187628.html'/><img src='/files/properties/2019/3/29/thumbnails/20190329_030817_4187628_0.jpg' alt='Chủ gửi bán căn nhà 2 MT tọa lạc ở Đ.Đặng Văn Bi- Trường Thọ.Đường 12.5 m,'/></a></div><div class='text'><div class='ct_brief'>Chủ gửi bán căn nhà 2 MT tọa lạc ở Đ.Đặng Văn Bi- Trường Thọ.Đường 12.5 m, Nhà 1 trệt 1 lầu,3pn,1wc.131m2/16 tỷ
+DT:6 x28 dtcn 131m2.
+Pháp lý: sổ hồng chính chủ.
+Nhà tọa lạc tại hẻm 3m Đ.Đặng Văn Bi- trường thọ.
+Hướng... <a href='/chu-gui-ban-can-nha-2-mt-toa-lac-o-d-dang-van-bi-truong-tho-duong-12-5-m--4187628.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 131 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 6x28m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 12m'>12m</span><span class='floors' title='1 lầu'>1 lầu</span><span class='bedroom' title='3 phòng ngủ'>3 phòng ngủ</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 16 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-dang-van-bi-quan-thu-duc-d2498.htm' title='Bán nhà Đường Đặng Văn Bi'>Đường Đặng Văn Bi</a>, <a href='/can-ban-nha-phuong-truong-tho-quan-thu-duc-p1024.htm' title='Bán nhà Phường Trường Thọ'>Phường Trường Thọ</a>, <a href='/can-ban-nha-quan-thu-duc-ho-chi-minh-q150.htm' title='Bán nhà Quận Thủ Đức'>Quận Thủ Đức</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-nha-mt-tran-van-can-p-tan-thoi-hoa-4x16m-2-lau-gia-6-5-ty--4182341.html' class='vip'>Bán nhà MT Trần Văn Cẩn, P.Tân Thới Hòa (4x16m, 2 lầu, giá 6.5 tỷ)</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/ban-nha-mt-tran-van-can-p-tan-thoi-hoa-4x16m-2-lau-gia-6-5-ty--4182341.html'/><img src='/files/properties/2019/3/28/thumbnails/20190328_044524_4182341_0.jpg' alt='Bán nhà MT Trần Văn Cẩn, P.Tân Thới Hòa (4x16m, 2 lầu, giá 6.5 tỷ)'/></a></div><div class='text'><div class='ct_brief'>Vị trí: MT Trần văn Cẩn, P.Tân Thới Hòa, Q.Tân Phú
+Diện tích: 4x16
+Kết cấu: 1 trệt + 2 lầu + ST
+Hướng: Tây Nam
+Tiện ích: 4 phòng ngủ, 1 phòng thờ, nhà mặt tiền tiện kinh doanh mua bán, gần chợ, trường học, nhà c... <a href='/ban-nha-mt-tran-van-can-p-tan-thoi-hoa-4x16m-2-lau-gia-6-5-ty--4182341.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 64 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 4x16m</div><div class='ct_direct'><label>Hướng:</label> Tây Nam</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 8m'>8m</span><span class='floors' title='2 lầu'>2 lầu</span><span class='bedroom' title='4 phòng ngủ'>4 phòng ngủ</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 6,5 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-tran-van-can-quan-tan-phu-d2416.htm' title='Bán nhà Đường Trần Văn Cẩn'>Đường Trần Văn Cẩn</a>, <a href='/can-ban-nha-phuong-tan-thoi-hoa-quan-tan-phu-p1008.htm' title='Bán nhà Phường Tân Thới Hòa'>Phường Tân Thới Hòa</a>, <a href='/can-ban-nha-quan-tan-phu-ho-chi-minh-q149.htm' title='Bán nhà Quận Tân Phú'>Quận Tân Phú</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-nha-mat-tien-nguyen-van-cu-phuong-an-khanh-4187622.html' class='vip'>Bân nhà mặt tiền Nguyễn Văn Cừ phường An Khánh</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/ban-nha-mat-tien-nguyen-van-cu-phuong-an-khanh-4187622.html'/><img src='/files/properties/2019/3/29/thumbnails/20190329_030755_4187622_0.jpg' alt='Bân nhà mặt tiền Nguyễn Văn Cừ phường An Khánh'/></a></div><div class='text'><div class='ct_brief'>📕Bán đất mặt tiền Nguyễn Văn Cừ (cồn Khương), phường An Khánh , Q NK, TPCT, đang cho thuê bán quán Cô 2 Còi.
++ Diện tích: 40m x 44,77m= 1.671m2. (Gồm 2 giấy).
++ Đất thổ cư 100%, sổ hồng.
+ 💰 Giá bán: 45 tỷ (thương lư... <a href='/ban-nha-mat-tien-nguyen-van-cu-phuong-an-khanh-4187622.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 1.671 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 40x44m</div><div class='ct_direct'><label>Hướng:</label> Đông Nam</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 6m'>6m</span><span class='floors' title='4 lầu'>4 lầu</span><span class='bedroom' title='6 phòng ngủ'>6 phòng ngủ</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 45 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-nguyen-van-cu-quan-ninh-kieu-d3327.htm' title='Bán nhà Đường Nguyễn Văn Cừ'>Đường Nguyễn Văn Cừ</a>, <a href='/can-ban-nha-phuong-an-khanh-quan-ninh-kieu-p1374.htm' title='Bán nhà Phường An Khánh'>Phường An Khánh</a>, <a href='/can-ban-nha-quan-ninh-kieu-can-tho-q165.htm' title='Bán nhà Quận Ninh Kiều'>Quận Ninh Kiều</a>, Cần Thơ</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/nha-cityland-emart-5x19m-1-tret-3-lau-ke-ben-truong-hoc-viet-uc-ngay-emart-15-6-ty-4160554.html' class='vip'>nhà Cityland -  Emart. 5x19m. 1 trệt 3 lầu. kế bên trường học Việt Úc. Ngay Emart. 15.6 tỷ</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/nha-cityland-emart-5x19m-1-tret-3-lau-ke-ben-truong-hoc-viet-uc-ngay-emart-15-6-ty-4160554.html'/><img src='/files/properties/2019/3/25/thumbnails/20190325_083618_4160554_0.jpg' alt='nhà Cityland -  Emart. 5x19m. 1 trệt 3 lầu. kế bên trường học Việt Úc. Ngay Emart. 15.6 tỷ'/></a></div><div class='text'><div class='ct_brief'>dt: 5x19m. công nhận đủ 95m2
+
+kết cấu. nhà hoàn thiện cực đẹp. 1 trệt 3 lầu.
+
+khu cao cấp hiện đại bậc nhất Gò Vấp. ngay siêu thị Emart. trường học Việt Úc ngay trong khu KDC. hướng về quận 1 chỉ 15p. sân bay 10p...... <a href='/nha-cityland-emart-5x19m-1-tret-3-lau-ke-ben-truong-hoc-viet-uc-ngay-emart-15-6-ty-4160554.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 95 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 5x19m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 12m'>12m</span><span class='floors' title='3 lầu'>3 lầu</span><span class='bedroom' title='5 phòng ngủ'>5 phòng ngủ</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 15,6 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-phan-van-tri-quan-go-vap-d2111.htm' title='Bán nhà Đường Phan Văn Trị'>Đường Phan Văn Trị</a>, <a href='/can-ban-nha-phuong-5-quan-go-vap-p969.htm' title='Bán nhà Phường 5'>Phường 5</a>, <a href='/can-ban-nha-quan-go-vap-ho-chi-minh-q146.htm' title='Bán nhà Quận Gò Vấp'>Quận Gò Vấp</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-cao-oc-cao-cap-ham-8-tang-mat-tien-quan-1-dt-8-8x20m-cho-thue-400-trieu-thang-4187617.html' class='vip'>Bán cao ốc cao cấp hầm + 8 tầng mặt tiền Quận 1, DT: 8.8x20m, cho thuê 400 triệu/tháng</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='vipstar vip-5'></div><div class='thumbnail'><a href='/ban-cao-oc-cao-cap-ham-8-tang-mat-tien-quan-1-dt-8-8x20m-cho-thue-400-trieu-thang-4187617.html'/><img src='/files/properties/2019/3/29/thumbnails/20190329_030704_4187617_0.jpg' alt='Bán cao ốc cao cấp hầm + 8 tầng mặt tiền Quận 1, DT: 8.8x20m, cho thuê 400 triệu/tháng'/></a></div><div class='text'><div class='ct_brief'>Cao ốc hiện đại, cao cấp xây mới tinh 100% cần bán:
+
+- Diện tích: 8.8m x 20m.
+- Kết cấu: Hầm + trệt + 8 lầu.
+- Diện tích sử dụng hơn 1.300 m2.
+- Cao ốc xây vô cùng hiện đại và cao cấp, với 22 phòng căn hộ dịch vụ đẳ... <a href='/ban-cao-oc-cao-cap-ham-8-tang-mat-tien-quan-1-dt-8-8x20m-cho-thue-400-trieu-thang-4187617.html'><< xem chi tiết >></a></div><div class='square-direct'><div class='ct_dt'><label>Diện tích:</label> 176 m<sup>2</sup></div><div class='ct_kt'><label>KT:</label> 9x20m</div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span><span class='floors' title='8 lầu'>8 lầu</span><span class='bedroom' title='8 phòng ngủ'>8 phòng ngủ</span></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 72 tỷ </div><div class='ct_dis'><a href='/can-ban-nha-duong-bui-thi-xuan-quan-1-d1064.htm' title='Bán nhà Đường Bùi Thị Xuân'>Đường Bùi Thị Xuân</a>, <a href='/can-ban-nha-phuong-ben-thanh-quan-1-p760.htm' title='Bán nhà Phường Bến Thành'>Phường Bến Thành</a>, <a href='/can-ban-nha-quan-1-ho-chi-minh-q132.htm' title='Bán nhà Quận 1'>Quận 1</a>, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div>
+				</div>
+				<div class="page">
+				    <a href='/can-ban-nha.htm'>Trang đầu</a><a rel='nofollow' href='/can-ban-nha/trang-56.htm'><<</a><a rel='nofollow' href='/can-ban-nha/trang-57.htm'>57</a><a rel='nofollow' href='/can-ban-nha/trang-58.htm'>58</a><a rel='nofollow' href='/can-ban-nha/trang-59.htm'>59</a><a class='active' href='#'>60</a><a rel='nofollow' href='/can-ban-nha/trang-61.htm'>61</a><a rel='nofollow' href='/can-ban-nha/trang-62.htm'>62</a><a rel='nofollow' href='/can-ban-nha/trang-63.htm'>63</a><a rel='nofollow' href='/can-ban-nha/trang-64.htm'>>></a>
+				</div>			
+				<div class="recommend-properties">
+				    
+				</div>    
+				<div class="bottom-navigation groupbyproject" >
+				    
+				 </div>			 
+			</div>
+
+			<div id="right">
+			    <div style='position:relative'>   
+                    <div class="review">
+                        <div>
+	                        <div class="text">
+		                        <div class="name"><span style='color:#000'>Chuyên mục:</span> <span>Bán nhà  2019 - Trang 60</span></div>
+		                        <div class="rating-box">
+			                        <div>
+				                        <span>
+					                        <span class='star'>
+							                        <img src="/publish/img/star-on.png" alt="star">
+							                        <img src="/publish/img/star-on.png" alt="star">
+							                        <img src="/publish/img/star-on.png" alt="star">
+							                        <img src="/publish/img/star-on.png" alt="star">
+							                        <img src="/publish/img/star-off.png" alt="star">
+					                        </span>
+					                        <span>9</span>
+					                        /
+					                        <span>10</span> điểm
+				                        </span>, 
+				                        <label>24.064</label> đánh giá.
+			                        </div>
+			                        <div>
+					                        <input name="rate" type="radio" />
+					                        <input name="rate"type="radio" />
+					                        <input name="rate"type="radio" />
+					                        <input name="rate"type="radio" />
+					                        <input name="rate"type="radio" />
+					                        <input type="button" value="Đánh giá" />
+				                        </div>
+		                        </div>
+	                        </div>
+	                        <div class="clear"></div>
+                         </div>    
+                    </div>
+                 </div>
+                 
+				<div class="search-box">				 
+    <div>
+	    <input type="text" class='location' placeholder='Nhập địa điểm cần tìm' />
+	    <div class='suggesstion'>
+	        <div class='title'>Gợi ý</div>
+	        <ul>
+	            <li>
+	            <span>
+	                Nhập tên đường/phố, phường/xã, quận/huyện, tỉnh/thành phố hoặc tên dự án. Ví dụ: 
+	                <br /><span style='color:#000000'>- Nguyễn Xí, Bình Thạnh</span> 
+	                <br /><span style='color:#000000'>- Láng Hạ, Đống Đa</span>
+	                <br /><span style='color:#000000'>- Vũng Tàu</span>		
+	                <br /><span style='color:#000000'>- Times City</span>	                
+	            </span>
+	            </li>
+	            <li><span>Phải chọn các gợi ý chúng tôi đề xuất bên dưới để kết quả chính xác</span></li>
+	            <li><span>Nếu không nhập địa điểm ở đây, Quý vị có thể chọn lựa khu vực bằng các ô phía dưới trong công cụ tìm kiếm này</span></li>
+	        </ul>
+	    </div>
+	</div>   	
+	<div class="demand-container">
+		<div class="text">Cần bán</div>
+		<div class="view">
+		    <div>
+			    <ul>
+				    <li name="1">Cần bán</li>
+				    <li name="2">Cho thuê</li>
+				    <li name="3">Cần mua</li>
+				    <li name="4">Cần thuê</li>
+			    </ul>
+			</div>
+			
+		</div>
+	</div>			
+	<div class="property-type-container multicolumns">
+		<div class="text">Nhà mặt tiền</div>
+		<div class="view">
+		    <span class="exit">Loại bất động sản</span>
+		    <div>
+			    <ul>
+			        <li name="nha">NHÀ</li>
+			        <li name="nha-mat-tien" style='text-indent:20px;'>Nhà mặt tiền</li>
+                    <li name="nha-trong-hem" style="text-indent:20px;">Nhà trong hẻm</li>
+                    <li name="biet-thu-nha-lien-ke">Biệt thự, nhà liền kề</li>
+                    <li name="can-ho-chung-cu">Căn hộ chung cư</li>	
+                    <li name="phong-tro-nha-tro">Phòng trọ, nhà trọ</li>			             
+                   
+                </ul>
+                 <ul>
+                    <li name="van-phong">Văn phòng</li>	
+                    <li name="kho-xuong">Kho, xưởng</li>
+                    <li name="nha-hang-khach-san">Nhà hàng, khách sạn</li>	
+                    <li name="shop-kiot-quan">Shop, kiot, quán</li>			                    				                    			                    
+                    <li name="trang-trai">Trang trại</li>				                    
+                 </ul>
+                 <ul>
+                    <li name="mat-bang">Mặt bằng</li>
+                    <li name="dat-tho-cu-dat-o" style="font-weight:bold">Đất thổ cư, đất ở</li>
+                    <li name="dat-nen-lien-ke-dat-du-an">Đất nền, liền kề, đất dự án</li>
+                    <li name="dat-nong-lam-nghiep">Đất nông, lâm nghiệp</li>
+                    <li name="cac-loai-khac">Các loại khác</li>
+			    </ul>
+			</div>
+										
+		</div>
+	</div>
+	<div class="province-container multicolumns">			
+		<div class="text" name="0">--- Tỉnh/Thành --</div>
+		<div class="view">	
+		    <span class="exit">Tỉnh/Thành</span>	
+		    <div>
+			    <ul>
+				    <h3>Miền Nam</h3>									
+				    <li name="2">Hồ Chí Minh</li>
+				    <li name="7">Bà Rịa-Vũng Tàu</li>								
+				    <li name="14">Bình Dương</li>			
+				    <li name="23">Đồng Nai</li>				
+				    <li name="5">Cần Thơ</li>				
+				    <li name="39">Long An</li>
+				    <li name="6">An Giang</li>	
+				    <li name="8">Bạc Liêu</li>									
+				    <li name="13">Bến Tre</li>									
+				    <li name="16">Bình Phước</li>								
+				    <li name="18">Cà Mau</li>										
+				    <li name="20">Đắk Lắk</li>								
+				    <li name="21">Đăk Nông</li>										
+				    <li name="24">Đồng Tháp</li>								
+				    <li name="25">Gia Lai</li>															
+				    <li name="29">Hậu Giang</li>								
+				    <li name="33">Kiên Giang</li>								
+				    <li name="34">Kon Tum</li>																
+				    <li name="36">Lâm Đồng</li>								
+				    <li name="51">Sóc Trăng</li>								
+				    <li name="53">Tây Ninh</li>								
+				    <li name="58">Tiền Giang</li>								
+				    <li name="59">Trà Vinh</li>								
+				    <li name="61">Vĩnh Long</li>	
+			    </ul>
+			    <ul>
+				    <h3>Miền Trung</h3>									
+				    <li name="15">Bình Định</li>																
+				    <li name="17">Bình Thuận</li>																								
+				    <li name="3">Đà Nẵng</li>								
+				    <li name="28">Hà Tĩnh</li>																
+				    <li name="57">Thừa Thiên-Huế</li>								
+				    <li name="32">Khánh Hòa</li>						
+				    <li name="41">Nghệ An</li>													
+				    <li name="43">Ninh Thuận</li>															
+				    <li name="45">Phú Yên</li>								
+				    <li name="46">Quảng Bình</li>								
+				    <li name="47">Quảng Nam</li>								
+				    <li name="48">Quảng Ngãi</li>								
+				    <li name="50">Quảng Trị</li>	
+			    </ul>
+			    <ul>
+				    <h3>Miền Bắc</h3>									
+				    <li name="1">Hà Nội</li>								
+				    <li name="11">Hải Dương</li>								
+				    <li name="4">Hải Phòng</li>																
+				    <li name="9">Bắc Kạn</li>								
+				    <li name="10">Bắc Giang</li>								
+				    <li name="12">Bắc Ninh</li>								
+				    <li name="19">Cao Bằng</li>														
+				    <li name="22">Điện Biên</li>								
+				    <li name="26">Hà Giang</li>								
+				    <li name="27">Hà Nam</li>								
+				    <li name="30">Hòa Bình</li>								
+				    <li name="31">Hưng Yên</li>								
+				    <li name="37">Lạng Sơn</li>								
+				    <li name="38">Lào Cai</li>
+				    <li name="35">Lai Châu</li>								
+				    <li name="40">Nam Định</li>								
+				    <li name="42">Ninh Bình</li>								
+				    <li name="44">Phú Thọ</li>								
+				    <li name="49">Quảng Ninh</li>															
+				    <li name="52">Sơn La</li>															
+				    <li name="54">Thái Bình</li>								
+				    <li name="55">Thái Nguyên</li>								
+				    <li name="56">Thanh Hóa</li>																
+				    <li name="60">Tuyên Quang</li>																
+				    <li name="62">Vĩnh Phúc</li>								
+				    <li name="63">Yên Bái</li>	
+			    </ul>
+			 </div>								
+				
+		</div>					
+	</div>	
+	<div class="district-container multicolumns">			
+		<div class="text" name="0">--- Quận/Huyện ---</div>
+		<div class="view">	
+		    <span class="exit">Quận/Huyện</span>	
+		    <div class="district">
+			    
+			</div>								
+			<div class="ajax-loading"></div>					
+				
+		</div>					
+	</div>	
+	<div class="price-container multicolumns">			
+		<div class="text" name="0">---------- Giá --------</div>
+		<div class="view">	
+		    <span class="exit">Mức giá</span>
+		    <div>
+		        <ul>							
+				    <li name="1">0 - 1 triệu</li>								
+				    <li name="2">1 - 3 triệu</li>			
+				    <li name="3">3 - 5 triệu</li>				
+				    <li name="4">5 - 10 triệu</li>				
+				    <li name="5">10 - 15 triệu</li>
+				    <li name="6">15 - 20 triệu</li>	
+				    <li name="7">20 - 30 triệu</li>	
+				    <li name="8">30 - 40 triệu</li>	
+				    <li name="9">40 - 60 triệu</li>																
+			    </ul>									
+			    <ul>
+				    <li name="10">60 - 80 triệu</li>	
+				    <li name="11">80 - 100 triệu</li>													
+				    <li name="12">100 - 300 triệu</li>
+				    <li name="13">300 - 500 triệu</li>								
+				    <li name="14">500 - 800 triệu</li>			
+				    <li name="15">800 - 1 tỷ</li>				
+				    <li name="16">1 - 2 tỷ</li>				
+				    <li name="17">2 - 3 tỷ</li>	
+				    <li name="18">3 - 4 tỷ</li>										
+			    </ul>	
+			    <ul>							
+				    <li name="19">4 - 6 tỷ</li>	
+				    <li name="20">6 - 8 tỷ</li>	
+				    <li name="21">8 - 10 tỷ</li>	
+				    <li name="22">10 - 15 tỷ</li>
+				    <li name="23">15 - 20 tỷ</li>	
+				    <li name="24">20 - 30 tỷ</li>	
+				    <li name="25">30 - 60 tỷ</li>
+				    <li name="26">Trên 60 tỷ</li>
+				    <li name="0"><b>Chọn tất cả</b></li>								
+			    </ul>		
+			</div>	
+		</div>					
+	</div>	
+	<div class="square-container multicolumns">			
+		<div class="text" name="0">----- Diện tích ---</div>
+		<div class="view">	
+		    <span class="exit">Diện tích</span>									
+			<div>
+			    <ul>							
+				    <li name="1">0 - 30m<sup>2</sup></li>
+				    <li name="2">30 - 50m<sup>2</sup></li>							
+				    <li name="3">50 - 70m<sup>2</sup></li>
+				    <li name="4">70 - 100m<sup>2</sup></li>
+				    <li name="5">100 - 150m<sup>2</sup></li>
+			    </ul>	
+			    <ul>							
+					
+				    <li name="6">150 - 200<sup>2</sup></li>	
+				    <li name="7">200 - 250m<sup>2</sup></li>
+				    <li name="8">250 - 300m<sup>2</sup></li>
+				    <li name="9">300 - 350m<sup>2</sup></li>	
+				    <li name="10">350 - 400m<sup>2</sup></li>						
+			    </ul>	
+			    <ul>									
+				    <li name="11">400 - 600m<sup>2</sup></li>
+				    <li name="12">600 - 800m<sup>2</sup></li>
+				    <li name="13">800 - 1000m<sup>2</sup></li>	
+				    <li name="14">Trên 1000m<sup>2</sup></li>
+				    <li name="0"><b>Chọn tất cả</b></li>						
+			    </ul>	
+			</div>				
+				
+		</div>					
+	</div>	
+	<div class="direct-container multicolumns">			
+		<div class="text" name="0">------ Hướng -----</div>
+		<div class="view">	
+		    <span class="exit">Hướng</span>		
+		    <div>
+			    <ul>														
+				    <li name="1">Đông</li>
+				    <li name="6">Đông Bắc</li>								
+				    <li name="5">Đông Nam</li>										
+			    </ul>
+			    <ul>
+			        <li name="2">Tây</li>
+			        <li name="8">Tây Bắc</li>				
+				    <li name="7">Tây Nam</li>							
+			    </ul>
+			    <ul>												
+				    <li name="3">Nam</li>
+				    <li name="4">Bắc</li>
+                    <li name="0"><b>Chọn tất cả</b></li>     																							
+			    </ul>	
+			</div>
+		</div>					
+	</div>			
+	<div class="button-search">Tìm nhanh</div>
+	<div class="advanced-search"><a href="/tim-kiem-nang-cao.html" rel="nofollow">Tìm kiếm nâng cao</a></div>						
+</div>
+				
+				<div class="banner-center"></div>
+				
+                
+				<div class="right-navigation-box">
+				    <div class='item'><h2 class='title'>Bán nhà toàn quốc</h2><ul style='max-height: 100%'><li><a href='/can-ban-nha-ha-noi-t1.htm' title='Ban nha Ha Noi'>Bán nhà Hà Nội</a></li><li><a href='/can-ban-nha-ho-chi-minh-t2.htm' title='Ban nha Ho Chi Minh'>Bán nhà Hồ Chí Minh</a></li><li><a href='/can-ban-nha-da-nang-t3.htm' title='Ban nha Da Nang'>Bán nhà Đà Nẵng</a></li><li><a href='/can-ban-nha-hai-phong-t4.htm' title='Ban nha Hai Phong'>Bán nhà Hải Phòng</a></li><li><a href='/can-ban-nha-can-tho-t5.htm' title='Ban nha Can Tho'>Bán nhà Cần Thơ</a></li><li><a href='/can-ban-nha-an-giang-t6.htm' title='Ban nha An Giang'>Bán nhà An Giang</a></li><li><a href='/can-ban-nha-ba-ria-vung-tau-t7.htm' title='Ban nha Ba Ria Vung Tau'>Bán nhà Bà Rịa Vũng Tàu</a></li><li><a href='/can-ban-nha-bac-lieu-t8.htm' title='Ban nha Bac Lieu'>Bán nhà Bạc Liêu</a></li><li><a href='/can-ban-nha-bac-kan-t9.htm' title='Ban nha Bac Kan'>Bán nhà Bắc Kạn</a></li><li><a href='/can-ban-nha-bac-giang-t10.htm' title='Ban nha Bac Giang'>Bán nhà Bắc Giang</a></li><li><a href='/can-ban-nha-hai-duong-t11.htm' title='Ban nha Hai Duong'>Bán nhà Hải Dương</a></li><li><a href='/can-ban-nha-bac-ninh-t12.htm' title='Ban nha Bac Ninh'>Bán nhà Bắc Ninh</a></li><li><a href='/can-ban-nha-ben-tre-t13.htm' title='Ban nha Ben Tre'>Bán nhà Bến Tre</a></li><li><a href='/can-ban-nha-binh-duong-t14.htm' title='Ban nha Binh Duong'>Bán nhà Bình Dương</a></li><li><a href='/can-ban-nha-binh-dinh-t15.htm' title='Ban nha Binh Dinh'>Bán nhà Bình Định</a></li><li><a href='/can-ban-nha-binh-phuoc-t16.htm' title='Ban nha Binh Phuoc'>Bán nhà Bình Phước</a></li><li><a href='/can-ban-nha-binh-thuan-t17.htm' title='Ban nha Binh Thuan'>Bán nhà Bình Thuận</a></li><li><a href='/can-ban-nha-ca-mau-t18.htm' title='Ban nha Ca Mau'>Bán nhà Cà Mau</a></li><li><a href='/can-ban-nha-cao-bang-t19.htm' title='Ban nha Cao Bang'>Bán nhà Cao Bằng</a></li><li><a href='/can-ban-nha-dak-lak-t20.htm' title='Ban nha Dak Lak'>Bán nhà Đắk Lắk</a></li><li><a href='/can-ban-nha-dak-nong-t21.htm' title='Ban nha Dak Nong'>Bán nhà Đăk Nông</a></li><li><a href='/can-ban-nha-dien-bien-t22.htm' title='Ban nha Dien Bien'>Bán nhà Điện Biên</a></li><li><a href='/can-ban-nha-dong-nai-t23.htm' title='Ban nha Dong Nai'>Bán nhà Đồng Nai</a></li><li><a href='/can-ban-nha-dong-thap-t24.htm' title='Ban nha Dong Thap'>Bán nhà Đồng Tháp</a></li><li><a href='/can-ban-nha-gia-lai-t25.htm' title='Ban nha Gia Lai'>Bán nhà Gia Lai</a></li><li><a href='/can-ban-nha-ha-giang-t26.htm' title='Ban nha Ha Giang'>Bán nhà Hà Giang</a></li><li><a href='/can-ban-nha-ha-nam-t27.htm' title='Ban nha Ha Nam'>Bán nhà Hà Nam</a></li><li><a href='/can-ban-nha-ha-tinh-t28.htm' title='Ban nha Ha Tinh'>Bán nhà Hà Tĩnh</a></li><li><a href='/can-ban-nha-hau-giang-t29.htm' title='Ban nha Hau Giang'>Bán nhà Hậu Giang</a></li><li><a href='/can-ban-nha-hoa-binh-t30.htm' title='Ban nha Hoa Binh'>Bán nhà Hòa Bình</a></li><li><a href='/can-ban-nha-hung-yen-t31.htm' title='Ban nha Hung Yen'>Bán nhà Hưng Yên</a></li><li><a href='/can-ban-nha-khanh-hoa-t32.htm' title='Ban nha Khanh Hoa'>Bán nhà Khánh Hòa</a></li><li><a href='/can-ban-nha-kien-giang-t33.htm' title='Ban nha Kien Giang'>Bán nhà Kiên Giang</a></li><li><a href='/can-ban-nha-kon-tum-t34.htm' title='Ban nha Kon Tum'>Bán nhà Kon Tum</a></li><li><a href='/can-ban-nha-lai-chau-t35.htm' title='Ban nha Lai Chau'>Bán nhà Lai Châu</a></li><li><a href='/can-ban-nha-lam-dong-t36.htm' title='Ban nha Lam Dong'>Bán nhà Lâm Đồng</a></li><li><a href='/can-ban-nha-lang-son-t37.htm' title='Ban nha Lang Son'>Bán nhà Lạng Sơn</a></li><li><a href='/can-ban-nha-lao-cai-t38.htm' title='Ban nha Lao Cai'>Bán nhà Lào Cai</a></li><li><a href='/can-ban-nha-long-an-t39.htm' title='Ban nha Long An'>Bán nhà Long An</a></li><li><a href='/can-ban-nha-nam-dinh-t40.htm' title='Ban nha Nam Dinh'>Bán nhà Nam Định</a></li><li><a href='/can-ban-nha-nghe-an-t41.htm' title='Ban nha Nghe An'>Bán nhà Nghệ An</a></li><li><a href='/can-ban-nha-ninh-binh-t42.htm' title='Ban nha Ninh Binh'>Bán nhà Ninh Bình</a></li><li><a href='/can-ban-nha-ninh-thuan-t43.htm' title='Ban nha Ninh Thuan'>Bán nhà Ninh Thuận</a></li><li><a href='/can-ban-nha-phu-tho-t44.htm' title='Ban nha Phu Tho'>Bán nhà Phú Thọ</a></li><li><a href='/can-ban-nha-phu-yen-t45.htm' title='Ban nha Phu Yen'>Bán nhà Phú Yên</a></li><li><a href='/can-ban-nha-quang-binh-t46.htm' title='Ban nha Quang Binh'>Bán nhà Quảng Bình</a></li><li><a href='/can-ban-nha-quang-nam-t47.htm' title='Ban nha Quang Nam'>Bán nhà Quảng Nam</a></li><li><a href='/can-ban-nha-quang-ngai-t48.htm' title='Ban nha Quang Ngai'>Bán nhà Quảng Ngãi</a></li><li><a href='/can-ban-nha-quang-ninh-t49.htm' title='Ban nha Quang Ninh'>Bán nhà Quảng Ninh</a></li><li><a href='/can-ban-nha-quang-tri-t50.htm' title='Ban nha Quang Tri'>Bán nhà Quảng Trị</a></li><li><a href='/can-ban-nha-soc-trang-t51.htm' title='Ban nha Soc Trang'>Bán nhà Sóc Trăng</a></li><li><a href='/can-ban-nha-son-la-t52.htm' title='Ban nha Son La'>Bán nhà Sơn La</a></li><li><a href='/can-ban-nha-tay-ninh-t53.htm' title='Ban nha Tay Ninh'>Bán nhà Tây Ninh</a></li><li><a href='/can-ban-nha-thai-binh-t54.htm' title='Ban nha Thai Binh'>Bán nhà Thái Bình</a></li><li><a href='/can-ban-nha-thai-nguyen-t55.htm' title='Ban nha Thai Nguyen'>Bán nhà Thái Nguyên</a></li><li><a href='/can-ban-nha-thanh-hoa-t56.htm' title='Ban nha Thanh Hoa'>Bán nhà Thanh Hóa</a></li><li><a href='/can-ban-nha-hue-t57.htm' title='Ban nha Hue'>Bán nhà Huế</a></li><li><a href='/can-ban-nha-tien-giang-t58.htm' title='Ban nha Tien Giang'>Bán nhà Tiền Giang</a></li><li><a href='/can-ban-nha-tra-vinh-t59.htm' title='Ban nha Tra Vinh'>Bán nhà Trà Vinh</a></li><li><a href='/can-ban-nha-tuyen-quang-t60.htm' title='Ban nha Tuyen Quang'>Bán nhà Tuyên Quang</a></li><li><a href='/can-ban-nha-vinh-long-t61.htm' title='Ban nha Vinh Long'>Bán nhà Vĩnh Long</a></li><li><a href='/can-ban-nha-vinh-phuc-t62.htm' title='Ban nha Vinh Phuc'>Bán nhà Vĩnh Phúc</a></li><li><a href='/can-ban-nha-yen-bai-t63.htm' title='Ban nha Yen Bai'>Bán nhà Yên Bái</a></li></ul></div>				   		        
+				</div><!---- right box--------->			        
+		        <div class='hot-links'>
+    <div class="item">
+        <h4 class="title">Liên kết nổi bật</h4>
+        <ul>
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/3/da-nang.html" title='ban dat da nang'>Bán đất <b>Đà Nẵng</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/14/binh-duong.html" title='ban dat binh duong'>Bán đất <b>BÌNH DƯƠNG</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/133/quan-2.html" title='ban dat quan 2'>Bán đất <b>Quận 2</b></a></li>            
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/138/quan-7.html" title='ban dat quan 7'>Bán đất <b>Quận 7</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/140/quan-9.html" title='ban dat quan 9'>Bán đất <b>Quận 9</b></a></li>            
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/151/huyen-binh-chanh.html" title='ban dat binh chanh'>Bán đất <b>Bình Chánh</b></a></li>            
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/143/quan-12.html" title='ban dat quan 12'>Bán đất <b>Quận 12</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/144/quan-binh-tan.html" title='ban dat binh tan'>Bán đất <b>Bình Tân</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/ho-chi-minh/149/quan-tan-phu.html" title='ban dat tan phu'>Bán đất <b>Tân Phú</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/ho-chi-minh/150/quan-thu-duc.html" title='ban dat thu duc'>Bán đất <b>Thủ Đức</b></a></li>            
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/153/huyen-cu-chi.html" title='ban dat cu chi'>Bán đất <b>Củ Chi</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/ho-chi-minh/154/huyen-hoc-mon.html" title='ban dat hoc mon'>Bán đất <b>Hóc Môn</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/155/huyen-nha-be.html" title='ban dat nha be'>Bán đất <b>Nhà Bè</b></a></li>            
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/da-nang/588/quan-lien-chieu.html" title='ban dat lieu chieu' class='colo2'>Bán đất <b>Liên Chiểu</b></a></li>                     
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/da-nang/584/quan-hai-chau.html" title='ban dat hai chau' class='colo2'>Bán đất <b>Hải Châu</b></a></li>            
+            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/da-nang/586/quan-son-tra.html" title='ban dat son tra' class='colo2'>Bán đất <b>Sơn Trà</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/587/quan-ngu-hanh-son.html" title='ban dat ngu hanh son' class='colo2'>Bán đất <b>Ngũ Hành Sơn</b></a></li>                   
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/594/huyen-ben-cat.html" title='ban dat ben cat'>Bán đất <b>Bến Cát</b></a></li>                   
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/593/thi-xa-di-an.html" title='ban dat di an'>Bán đất <b>Dĩ An</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/591/thi-xa-thu-dau-mot.html" title='ban dat thu dau mot'>Bán đất <b>Thủ Dầu Một</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/592/thi-xa-thuan-an.html" title='ban dat thuan an'>Bán đất <b>Thuận An</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/597/huyen-tan-uyen.html" title='ban dat tan uyen'>Bán đất <b>Tân Uyên</b></a></li>                                                                   
+            <li><a href="/nha-dat/can-ban/nha-mat-tien/ba-ria-vung-tau/174/thanh-pho-vung-tau.html" title='ban nha vung tau' class='colo2'>Bán nhà <b>Vũng Tàu</b></a></li>
+            <li><a href="/nha-dat/can-ban/nha-mat-tien/dong-nai/503/thanh-pho-bien-hoa.html" title='ban nha bien hoa' class='colo2'>Bán nhà <b>Biên Hòa</b></a></li>
+            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/dong-nai/507/huyen-long-thanh.html" title='ban dat long thanh'>Bán đất <b>Long Thành</b></a></li>
+            <li class='li-last'></li>
+            </ul>                    
+      </div>      
+</div>    	
+				<div class='poll-box'>
+		            <div class='head'>Bạn biết https://alonhadat.com.vn qua hình thức nào ?</div>
+    <div class='content'>		        
+        <div><input type='radio' name='vote' value='1' /><div class='name'>Google.com.vn, bing.com, ...</div><div class='poll-item'><div class='poll-percent' style='width:95%'></div></div><div class='numberofvote'><label>150000</label> phiếu</div></div>
+        <div><input type='radio' name='vote' value='2' /><div class='name'>Bạn bè giới thiệu</div><div class='poll-item'><div class='poll-percent'></div></div><div class='numberofvote'><label>15000</label> phiếu</div></div>
+        <div><input type='radio' name='vote' value='3' /><div class='name'>Báo chí, truyền hình</div><div class='poll-item'><div class='poll-percent' style='width:5%'></div></div><div class='numberofvote'><label>1000</label> phiếu</div></div>
+        <div><input type='radio' name='vote' value='4' /><div class='name'>Mạng xã hội</div><div class='poll-item'><div class='poll-percent'></div></div><div class='numberofvote'><label>100</label> phiếu</div></div>
+        <div><input type='radio' name='vote' value='5' /><div class='name'>Khác</div><div class='poll-item'><div class='poll-percent'></div></div><div class='numberofvote'><label>10</label> phiếu</div></div>		        		        
+    </div>		
+<div style='text-align:center; margin:0px'><input class='button' type="button" value="Bỏ phiếu" onclick='SubmitVote()'/></div>	
+		        </div>		
+			</div><!-----end right--------->
+			
+			<div class="clear"></div>
+			<div class='list-property-footer'>		
+			    <div class='location-page'>
+			        
+			    </div>	    
+			    <div class='list-property-footer-left'>
+			        <div class="bottom-navigation list-property-type">
+				        <h2>Nhà đất cần bán tại toàn quốc</h2><ul><li><a href='/nha-dat/can-ban.html' title='Nha dat ban toan quoc'>Nhà đất bán toàn quốc</a></li><li><a href='/can-ban-nha.htm' title='Ban nha toan quoc'>Nhà bán toàn quốc</a></li><li><a href='/nha-dat/can-ban/phong-tro-nha-tro.html' title='Ban phong tro toan quoc'>Bán phòng trọ, nhà trọ toàn quốc</a></li><li><a href='/nha-dat/can-ban/nha-mat-tien.html' title='Ban nha toan quoc'>Bán nhà mặt tiền toàn quốc</a></li><li><a href='/nha-dat/can-ban/trang-trai.html' title='Ban trang trai toan quoc'>Bán trang trại toàn quốc</a></li><li><a href='/nha-dat/can-ban/nha-trong-hem.html' title='Ban nha toan quoc'>Bán nhà trong hẻm toàn quốc</a></li><li><a href='/nha-dat/can-ban/mat-bang.html' title='Ban mat bang toan quoc'>Bán mặt bằng toàn quốc</a></li><li><a href='/nha-dat/can-ban/biet-thu-nha-lien-ke.html' title='Ban biet thu toan quoc'>Bán biệt thự, nhà liền kề toàn quốc</a></li><li><a href='/nha-dat/can-ban/dat-tho-cu-dat-o.html' title='Ban dat toan quoc'>Bán đất thổ cư, đất ở toàn quốc</a></li><li><a href='/nha-dat/can-ban/can-ho-chung-cu.html' title='Ban chung cu toan quoc'>Bán căn hộ chung cư toàn quốc</a></li><li><a href='/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an.html' title='Ban dat toan quoc'>Bán đất nền, liền kề, đất dự án toàn quốc</a></li><li><a href='/nha-dat/can-ban/kho-xuong.html' title='Ban nha xuong toan quoc'>Bán kho, xưởng toàn quốc</a></li><li><a href='/nha-dat/can-ban/dat-nong-lam-nghiep.html' title='Ban dat nong nghiep toan quoc'>Bán đất nông, lâm nghiệp toàn quốc</a></li><li><a href='/nha-dat/can-ban/nha-hang-khach-san.html' title='Ban khach san toan quoc'>Bán nhà hàng, khách sạn toàn quốc</a></li><li><a href='/nha-dat/can-ban/cac-loai-khac.html' title='Ban bat dong san khac toan quoc'>Bán các loại khác toàn quốc</a></li><li><a href='/nha-dat/can-ban/van-phong.html' title='Ban van phong toan quoc'>Bán văn phòng toàn quốc</a></li><li><a href='/nha-dat/can-ban/shop-kiot-quan.html' title='Ban cua hang toan quoc'>Bán shop, kiot, quán toàn quốc</a></li><div class='clear'></div></ul>
+				    </div>
+			    </div>
+			    <div class='list-property-footer-right'>
+			        <div class='google-map'>
+                                    <h3 class='title'>Bản đồ Việt Nam</h3>
+			                        <iframe title='Việt Nam' width='445' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='https://maps.google.com/maps?&amp;q=Việt Nam&amp;output=embed'>
+                                    </iframe>
+			                    </div>
+			    </div>
+			    <div class='clear'></div>
+			</div>
+			
+		</div>		
+	</div>
+	
+
+
+        </div>
+        <div id="ctl00_pc_footer">
+            <div class="house-bottom-navigation">
+    <ul>												
+        <li><a href="/nha-dat/can-ban/nha-dat/1/ha-noi.html">Nhà đất <b>Hà Nội</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/2/ho-chi-minh.html">Nhà đất <b>Hồ Chí Minh</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/3/da-nang.html">Nhà đất <b>Đà Nẵng</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/4/hai-phong.html">Nhà đất <b>Hải Phòng</b></a></li>																
+        <li><a href="/nha-dat/can-ban/nha-dat/5/can-tho.html">Nhà đất <b>Cần Thơ</b></a></li>				
+        <li><a href="/nha-dat/can-ban/nha-dat/6/an-giang.html">Nhà đất <b>An Giang</b></a></li>	
+        <li><a href="/nha-dat/can-ban/nha-dat/7/ba-ria-vung-tau.html">Nhà đất <b>Bà Rịa Vũng Tàu</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/8/bac-lieu.html">Nhà đất <b>Bạc Liêu</b></a></li>									
+        <li><a href="/nha-dat/can-ban/nha-dat/9/bac-can.html">Nhà đất <b>Bắc Cạn</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/10/bac-giang.html">Nhà đất <b>Bắc Giang</b></a></li>						
+        <li><a href="/nha-dat/can-ban/nha-dat/12/bac-ninh.html">Nhà đất <b>Bắc Ninh</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/13/ben-tre.html">Nhà đất <b>Bến Tre</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/14/binh-duong.html">Nhà đất <b>Bình Dương</b></a></li>			
+        <li><a href="/nha-dat/can-ban/nha-dat/15/binh-dinh.html">Nhà đất <b>Bình Định</b></a></li>																
+        <li><a href="/nha-dat/can-ban/nha-dat/16/binh-phuoc.html">Nhà đất <b>Bình Phước</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/17/binh-thuan.html">Nhà đất <b>Bình Thuận</b></a></li>																								
+        <li><a href="/nha-dat/can-ban/nha-dat/18/ca-mau.html">Nhà đất <b>Cà Mau</b></a></li>										
+        <li><a href="/nha-dat/can-ban/nha-dat/19/cao-bang.html">Nhà đất <b>Cao Bằng</b></a></li>														
+        <li><a href="/nha-dat/can-ban/nha-dat/20/dak-lak.html">Nhà đất <b>Đắk Lắk</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/21/dak-nong.html">Nhà đất <b>Đăk Nông</b></a></li>										
+        <li><a href="/nha-dat/can-ban/nha-dat/22/dien-bien.html">Nhà đất <b>Điện Biên</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/23/dong-nai.html">Nhà đất <b>Đồng Nai</b></a></li>				
+        <li><a href="/nha-dat/can-ban/nha-dat/24/dong-thap.html">Nhà đất <b>Đồng Tháp</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/25/gia-lai.html">Nhà đất <b>Gia Lai</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/26/ha-giang.html">Nhà đất <b>Hà Giang</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/27/ha-nam.html">Nhà đất <b>Hà Nam</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/28/ha-tinh.html">Nhà đất <b>Hà Tĩnh</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/11/hai-duong.html">Nhà đất <b>Hải Dương</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/29/hau-giang.html">Nhà đất <b>Hậu Giang</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/30/hoa-binh.html">Nhà đất <b>Hòa Bình</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/31/hung-yen.html">Nhà đất <b>Hưng Yên</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/32/khanh-hoa.html">Nhà đất <b>Khánh Hòa</b></a></li>						
+        <li><a href="/nha-dat/can-ban/nha-dat/33/kien-giang.html">Nhà đất <b>Kiên Giang</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/34/kon-tum.html">Nhà đất <b>Kon Tum</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/35/lai-chau.html">Nhà đất <b>Lai Châu</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/36/lam-dong.html">Nhà đất <b>Lâm Đồng</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/37/lang-son.html">Nhà đất <b>Lạng Sơn</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/38/lao-cai.html">Nhà đất <b>Lào Cai</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/39/long-an.html">Nhà đất <b>Long An</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/40/nam-dinh.html">Nhà đất <b>Nam Định</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/41/nghe-an.html">Nhà đất <b>Nghệ An</b></a></li>													
+        <li><a href="/nha-dat/can-ban/nha-dat/42/ninh-binh.html">Nhà đất <b>Ninh Bình</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/43/ninh-thuan.html">Nhà đất <b>Ninh Thuận</b></a></li>															
+        <li><a href="/nha-dat/can-ban/nha-dat/44/phu-tho.html">Nhà đất <b>Phú Thọ</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/45/phu-yen.html">Nhà đất <b>Phú Yên</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/46/quang-binh.html">Nhà đất <b>Quảng Bình</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/47/quang-nam.html">Nhà đất <b>Quảng Nam</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/48/quang-ngai.html">Nhà đất <b>Quảng Ngãi</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/49/quang-ninh.html">Nhà đất <b>Quảng Ninh</b></a></li>															
+        <li><a href="/nha-dat/can-ban/nha-dat/50/quang-tri.html">Nhà đất <b>Quảng Trị</b></a></li>	
+        <li><a href="/nha-dat/can-ban/nha-dat/51/soc-trang.html">Nhà đất <b>Sóc Trăng</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/52/son-la.html">Nhà đất <b>Sơn La</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/53/tay-ninh.html">Nhà đất <b>Tây Ninh</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/54/thai-binh.html">Nhà đất <b>Thái Bình</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/55/thai-nguyen.html">Nhà đất <b>Thái Nguyên</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/56/thanh-hoa.html">Nhà đất <b>Thanh Hóa</b></a></li>						
+        <li><a href="/nha-dat/can-ban/nha-dat/57/hue.html">Nhà đất <b>Huế</b></a></li>
+        <li><a href="/nha-dat/can-ban/nha-dat/58/tien-giang.html">Nhà đất <b>Tiền Giang</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/59/tra-vinh.html">Nhà đất <b>Trà Vinh</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/60/tuyen-quang.html">Nhà đất <b>Tuyên Quang</b></a></li>																
+        <li><a href="/nha-dat/can-ban/nha-dat/61/ving-long.html">Nhà đất <b>Vĩnh Long</b></a></li>					
+        <li><a href="/nha-dat/can-ban/nha-dat/62/vinh-phuc.html">Nhà đất <b>Vĩnh Phúc</b></a></li>								
+        <li><a href="/nha-dat/can-ban/nha-dat/63/yen-bai.html">Nhà đất <b>Yên Bái</b></a></li>						
+   </ul>
+</div>	
+            <div class="footer">
+		        <div class="fcolumleft">
+                    <ul>
+                        <div><a href="/nha-dat/can-ban.html">NHÀ ĐẤT BÁN</a></div>
+                        <li><a href="/nha-dat/can-ban/nha-trong-hem.html">Nhà bán</a></li>
+				        <li><a href="/nha-dat/can-ban/biet-thu-nha-lien-ke.html">Biệt thự bán</a></li>
+                        <li><a href="/nha-dat/can-ban/can-ho-chung-cu.html">Căn hộ bán</a></li>
+				        <li><a href="/nha-dat/can-ban/nha-hang-khach-san.html">Nhà hàng bán</a></li> 				
+				        <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an.html">Đất nền bán</a></li> 
+                    </ul>
+			        <ul>
+                        <div><a href="/nha-dat/cho-thue.html">NHÀ ĐẤT CHO THUÊ</a></div>
+                        <li><a href="/nha-dat/cho-thue/nha-trong-hem.html">Nhà cho thuê</a></li>				
+				        <li><a href="/nha-dat/cho-thue/van-phong.html">Văn phòng cho thuê</a></li>
+                        <li><a href="/nha-dat/cho-thue/phong-tro-nha-tro.html">Phòng trọ cho thuê</a></li>				    
+                        <li><a href="/nha-dat/cho-thue/can-ho-chung-cu.html">Căn hộ cho thuê</a></li>
+                        <li><a href="/nha-dat/cho-thue/kho-xuong.html">Cho thuê kho, xưởng</a></li>
+                    </ul>
+    			    
+                    <ul>
+                        <div><a href="#" rel="nofollow">LIÊN KẾT</a></div>   				     								        
+				        <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/14/binh-duong.html" target="_blank" title="ban dat binh duong">ban dat binh duong</a></li> 	 				
+				        <li><a target="_blank" href="http://www.bietthuvinhomesriverside.biz" title="biệt thự vinhomes riverside">biệt thự vinhomes riverside</a></li>
+				        <li><a href="/" target="_blank" title="Alonhadat.com.vn">Alonhadat.com.vn</a></li>
+				        <li style='display:none'><a href="/publish/DanhMucMoi.aspx">Danh mục mới</a></li> 
+                    </ul>
+                    
+                    <ul>
+                        <div>ALO NHÀ ĐẤT</div>
+                        <li><a href="/" title='Mua bán nhà đất'><strong>Mua bán nhà đất</strong></a></li>                    
+                        <li><a href="/huong-dan/quy-dinh-su-dung">Quy định sử dụng</a></li>
+                        <li><a href="/huong-dan/quy-che-hoat-dong">Quy chế hoạt động</a></li> 
+                        <li><a href="/huong-dan/chinh-sach-bao-ve-thong-tin-khach-hang">Bảo mật thông tin</a></li> 
+                        <li><a href="/huong-dan/huong-dan" >Bảng giá</a></li>                                       
+                    </ul>
+                </div>	
+		        <div class="fcolumright">
+			        <div class="top">
+			            <div class="support">
+			                <div class="title">Hỗ trợ khách hàng</div>
+			                <div class="phone">(0254) 3890 425</div>
+			                <div class="phone">0976 804 401</div>
+    				        <div class="phone">0937 912 433</div>
+    				    </div>
+			        </div>
+			        <div class="bottom">
+				        <ul>     				          
+					        <li>Email liên hệ: contact@alonhadat.com.vn</li>
+					        <li>Copyright © 2013 - 2018 Alonhadat.com.vn. All rights reserved.</li>
+				        </ul>
+			        </div>    			
+		        </div >    			
+		        <div class="clear"></div>		
+		        <div class='line'></div>
+		        <div class='about'>		        
+		            <div style='font-weight:bold'>CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI ĐIỆN TỬ TRẦN GIA</div>		        
+		            <div>Khu phố 4, Phường Hắc Dịch, Thị xã Phú Mỹ, Tỉnh Bà Rịa Vũng Tàu.</div>	
+		            <div>Địện thoại: (0254) 3890 425 | Email: contact@alonhadat.com.vn</div>		 
+		            <div>® Alonhadat.com.vn giữ bản quyền website này. Việc sao chép một phần hoặc toàn bộ mà không được sử đồng ý bằng văn bản là vi phạm pháp luật.</div>       
+		        </div>		
+		        <div style="position: absolute;bottom: 40px;right: 20px;">
+		            <a rel='nofollow' target="_blank" href="http://online.gov.vn/HomePage/WebsiteDisplay.aspx?DocId=8079">
+		                <img style="width: 100px;" src="/publish/img/bo-cong-thuong.jpg" />
+		            </a>
+		        </div>
+	        </div><!--end footer -->	
+	        <a href='javascript:void(0)' title='Lên đầu trang' id="to_top" style='position:fixed; right:10px; bottom:20px; z-index:10; display:none; text-align:center; text-decoration:none'><img src="/publish/img/gotop.png" alt="" width="50" /><br />Lên đầu trang</a>    	    
+	    </div>
+	    
+	    <div class='guest-config'>
+	        <div class='head'></div>
+	    </div>
+    </div><!--wrapper-->    
+    
+<div class="banner banner-left"></div>  
+<div class="banner banner-right"></div>    
+<!-------- login- form------------------>
+<div id="register-form" class="register-form"></div><!--register-->
+<div id="login-form" class="login-form">
+    <div class="loading"></div>
+    <div class="title">Đăng nhập<span class='exit' onclick="closeForm('login-form')"></span></div>				
+    <div class='input-form'>
+        <div class="row message"></div>
+        <div class='row'>
+	        <div class='col1'>
+		        Tên truy cập
+	        </div>
+	        <div class='col2'>
+		        <input id="account" type="text"  maxlength="50"/>						
+	        </div>	
+	        <div class='clear'></div>					
+        </div>
+        <div class='row'>
+	        <div class='col1'>
+		        Mật khẩu
+	        </div>
+	        <div class='col2'>
+		        <input id="password"  type="password"  maxlength="50"/>	
+		        <input id="remember"  type="checkbox"/> Duy trì đăng nhập					
+	        </div>	
+	        <div class='clear'></div>		        				
+        </div>
+        <div class='row'>
+            <div class='col1'></div>
+            <div class='col2'>
+                <span class="show-recover-form" onclick="closeForm('login-form');ShowRecoverForm()">Quên mật khẩu ?</span> 
+                <span class="show-register-form" onclick="ShowRegisterForm()">Đăng ký</span>
+            </div>
+            <div class='clear'></div>
+        </div>						
+        <div class='row'>
+	        <div class='col1'></div>	        	
+	        <div class="col2 button">					
+			        <span class='login' onclick="Login()" >Đăng nhập</span>
+			        <span class='close' onclick="closeForm('login-form')" >Thoát</span></a>
+	        </div>	
+	        <div class='clear'></div>
+        </div>	
+    </div>
+</div> 
+<div id="recover-form" class="recover-form">
+    <div class="loading"></div>
+    <div class="title">Phục hồi mật khẩu <span class='exit' onclick="closeForm('recover-form')"></span></div>				
+    <div class='input-form'>
+        <div class='row message'>
+        </div>
+        <div class='row'>
+            <div>Nhập tên đăng nhập và địa chỉ email đã đăng ký tài khoản</div>
+        </div>
+        <div class='row'>
+            <div class='col1'>
+	            Tên truy cập
+            </div>
+            <div class='col2'>
+	            <input id="username" type="text"  maxlength="50"/>						
+            </div>						
+        </div>	
+        <div class='row'>
+            <div class='col1'>
+	            Email
+            </div>
+            <div class='col2'>
+	            <input id="email" type="text"  maxlength="50"/>						
+            </div>						
+        </div>	
+        <div class='row' style='font-style:italic'>Hoặc dùng <b>số điện thoại</b> đăng ký liên hệ bộ phận hỗ trợ</div>
+        <div class='row'>
+            <div class='col1'>		
+            </div>	
+            <div class='col2 button'>					
+		            <span class='recover' onclick="Recover()" >Gửi</span> <span class='close' onclick ="closeForm('recover-form')" >Đóng</span>
+            </div>	
+        </div>	
+    </div>
+</div>    
+
+<select name="ctl00$hddSalePrice" id="ctl00_hddSalePrice" class="hddsaleprice" style="display:none">
+	<option value="0">------ Mức gi&#225; ------</option>
+	<option value="9">40 triệu  - 60 triệu </option>
+	<option value="10">60 triệu  - 80 triệu </option>
+	<option value="11">80 triệu  - 100 triệu </option>
+	<option value="12">100 triệu  - 300 triệu </option>
+	<option value="13">300 triệu  - 500 triệu </option>
+	<option value="14">500 triệu  - 800 triệu </option>
+	<option value="15">800 triệu  - 1 tỷ </option>
+	<option value="16">1 tỷ  - 2 tỷ </option>
+	<option value="17">2 tỷ  - 3 tỷ </option>
+	<option value="18">3 tỷ  - 4 tỷ </option>
+	<option value="19">4 tỷ  - 6 tỷ </option>
+	<option value="20">6 tỷ  - 8 tỷ </option>
+	<option value="21">8 tỷ  - 10 tỷ </option>
+	<option value="22">10 tỷ  - 15 tỷ </option>
+	<option value="23">15 tỷ  - 20 tỷ </option>
+	<option value="24">20 tỷ  - 30 tỷ </option>
+	<option value="25">30 tỷ  - 60 tỷ </option>
+	<option value="26">Tr&#234;n 60 tỷ </option>
+	<option value="0">Tất cả mức gi&#225;</option>
+</select>
+<select name="ctl00$hddrentPrice" id="ctl00_hddrentPrice" class="hddrentprice" style="display:none">
+	<option value="0">------ Mức gi&#225; ------</option>
+	<option value="1">0 - 1 triệu </option>
+	<option value="2">1 triệu  - 3 triệu </option>
+	<option value="3">3 triệu  - 5 triệu </option>
+	<option value="4">5 triệu  - 10 triệu </option>
+	<option value="5">10 triệu  - 15 triệu </option>
+	<option value="6">15 triệu  - 20 triệu </option>
+	<option value="7">20 triệu  - 30 triệu </option>
+	<option value="8">30 triệu  - 40 triệu </option>
+	<option value="9">40 triệu  - 60 triệu </option>
+	<option value="10">60 triệu  - 80 triệu </option>
+	<option value="11">80 triệu  - 100 triệu </option>
+	<option value="12">100 triệu  - 300 triệu </option>
+	<option value="13">300 triệu  - 500 triệu </option>
+	<option value="0">Tất cả mức gi&#225;</option>
+</select>  
+
+<div id="fade" class="black_overlay"></div>	 
+<div id="ctl00_links" class="links"></div>
+<input name="ctl00$hddCurrentTextDate" type="hidden" id="ctl00_hddCurrentTextDate" class="hddCurrentTextDate" value="190329" />
+<div class='top-contact'></div>
+
+<script  type="text/javascript" src="/publish/js/jquery.js"></script>
+<script type="text/javascript" src="/publish/js/common.js?v=201807240904"></script>
+	
+<script type="text/javascript" src="/publish/js/pc-common.js?v=201805210904"></script>
+
+<script type="text/javascript">
+    /*JavaScript Cookie v2.1.4*/
+    (function(b) { var d = false; if (typeof define === "function" && define.amd) { define(b); d = true } if (typeof exports === "object") { module.exports = b(); d = true } if (!d) { var a = window.Cookies; var c = window.Cookies = b(); c.noConflict = function() { window.Cookies = a; return c } } } (function() { function b() { var f = 0; var c = {}; for (; f < arguments.length; f++) { var d = arguments[f]; for (var e in d) { c[e] = d[e] } } return c } function a(d) { function c(r, p, l) { var t; if (typeof document === "undefined") { return } if (arguments.length > 1) { l = b({ path: "/" }, c.defaults, l); if (typeof l.expires === "number") { var h = new Date(); h.setMilliseconds(h.getMilliseconds() + l.expires * 86400000); l.expires = h } l.expires = l.expires ? l.expires.toUTCString() : ""; try { t = JSON.stringify(p); if (/^[\{\[]/.test(t)) { p = t } } catch (n) { } if (!d.write) { p = encodeURIComponent(String(p)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g, decodeURIComponent) } else { p = d.write(p, r) } r = encodeURIComponent(String(r)); r = r.replace(/%(23|24|26|2B|5E|60|7C)/g, decodeURIComponent); r = r.replace(/[\(\)]/g, escape); var k = ""; for (var o in l) { if (!l[o]) { continue } k += "; " + o; if (l[o] === true) { continue } k += "=" + l[o] } return (document.cookie = r + "=" + p + k) } if (!r) { t = {} } var s = document.cookie ? document.cookie.split("; ") : []; var q = /(%[0-9A-Z]{2})+/g; var m = 0; for (; m < s.length; m++) { var j = s[m].split("="); var g = j.slice(1).join("="); if (g.charAt(0) === '"') { g = g.slice(1, -1) } try { var f = j[0].replace(q, decodeURIComponent); g = d.read ? d.read(g, f) : d(g, f) || g.replace(q, decodeURIComponent); if (this.json) { try { g = JSON.parse(g) } catch (n) { } } if (r === f) { t = g; break } if (!r) { t[f] = g } } catch (n) { } } return t } c.set = c; c.get = function(e) { return c.call(c, e) }; c.getJSON = function() { return c.apply({ json: true }, [].slice.call(arguments)) }; c.defaults = {}; c.remove = function(f, e) { c(f, "", b(e, { expires: -1 })) }; c.withConverter = a; return c } return a(function() { }) }));
+</script>
+
+<input name="ctl00$footer$hddSDemand" type="hidden" id="ctl00_footer_hddSDemand" class="hddSDemandId" value="1" />
+<input name="ctl00$footer$hddSPropertyTypeId" type="hidden" id="ctl00_footer_hddSPropertyTypeId" class="hddSPropertyTypeId" value="nha" />
+<input name="ctl00$footer$hddSProvinceId" type="hidden" id="ctl00_footer_hddSProvinceId" class="hddSProvinceId" value="0" />
+<input name="ctl00$footer$hddSDistrictId" type="hidden" id="ctl00_footer_hddSDistrictId" class="hddSDistrictId" value="0" />
+<input name="ctl00$footer$hddSWardId" type="hidden" id="ctl00_footer_hddSWardId" class="hddSWardId" value="0" />
+<input name="ctl00$footer$hddSStreetId" type="hidden" id="ctl00_footer_hddSStreetId" class="hddSStreetId" value="0" />
+<input name="ctl00$footer$hddSSquareId" type="hidden" id="ctl00_footer_hddSSquareId" class="hddSSquareId" value="0" />
+<input name="ctl00$footer$hddSPriceId" type="hidden" id="ctl00_footer_hddSPriceId" class="hddSPriceId" value="0" />
+<input name="ctl00$footer$hddSDirectId" type="hidden" id="ctl00_footer_hddSDirectId" class="hddSDirectId" value="0" />
+
+<input name="ctl00$footer$hddWardId" type="hidden" id="ctl00_footer_hddWardId" class="hddWard" value="0" />
+<input name="ctl00$footer$hddStreetId" type="hidden" id="ctl00_footer_hddStreetId" class="hddStreet" value="0" />
+<input name="ctl00$footer$hddSearchText" type="hidden" id="ctl00_footer_hddSearchText" class="hddSearchText" />
+<input name="ctl00$footer$hddProvinceId" type="hidden" id="ctl00_footer_hddProvinceId" class="province-id" value="0" />
+<input name="ctl00$footer$page_id" type="hidden" id="ctl00_footer_page_id" class="page-id" value="1" />
+
+
+ <script type="text/javascript" src="/publish/js/pc-property.js?v=201712510904"></script>
+<script type="text/javascript" src="/publish/js/jquery.autocomplete.js"></script> 
+ 
+<script type="text/javascript">
+    $(document).ready(function() {
+        InitPropertyListPageNavigation();
+    });
+</script>
+
+
+<script type="text/javascript">
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-36325571-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

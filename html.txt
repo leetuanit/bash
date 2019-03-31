@@ -3,10 +3,7 @@
       xml:lang="vi"
       lang="vi">
     <head>
-        <link hreflang="en" rel="alternate" href="http://vtown.vn/en/company/asia-plus-inc.html" />
-<link hreflang="ja" rel="alternate" href="http://vtown.vn/ja/company/asia-plus-inc.html" />
-<link hreflang="x-default" rel="alternate" href="http://vtown.vn/company/asia-plus-inc.html" />
-<link rel="stylesheet" type="text/css" href="http://vtown.vn/assets/636c043c/redmond/jquery-ui.css" />
+        <link rel="stylesheet" type="text/css" href="http://vtown.vn/assets/636c043c/redmond/jquery-ui.css" />
 <link rel="stylesheet" type="text/css" href="http://vtown.vn/js/star-rating/jquery.rating.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="http://vtown.vn/assets/5924d6d7/jquery.mCustomScrollbar.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="http://vtown.vn/assets/nls3498517762-min.css?6.3" media="screen" />
@@ -27,7 +24,7 @@
 	};;a.nlsc||(a.nlsc={resMap:{}});a.nlsc.normUrl=function(c){if(!c)return null;e&&(e.innerHTML='<a href="'+c+'"></a>',c=e.firstChild.href);return f&&c.match(f)||g&&!c.match(g)?null:c.replace(/\?*(_=\d+)?$/g,"")};a.nlsc.h=function(c){var b=0,a;for(a=0;a<c.length;a++)b=(b<<5)-b+c.charCodeAt(a)&1073741823;return""+b};a.nlsc.fetchMap= function(){for(var c,b=0,d=a(document).find("script[src]");b<d.length;b++)if(c=this.normUrl(d[b].src?d[b].src:d[b].href))this.resMap[c]=a.nlsc.h(c)};a.nlsc.smap=function(){var a="[",b;for(b in this.resMap)a+='"'+this.resMap[b]+'",';return a.replace(/,$/,"")+"]"};var h={global:!0,beforeSend:function(c,b){if("script"!=b.dataType)return j&&(b.url=k(b.url)),!0;a.nlsc.fetched||(a.nlsc.fetched=1,a.nlsc.fetchMap());var d=a.nlsc.normUrl(b.url);if(!d)return!0;if(a.nlsc.resMap[d])return!1;a.nlsc.resMap[d]= a.nlsc.h(d);return!0}};a.browser.msie&&(h.dataFilter=function(a,b){return b&&"html"!=b&&"text"!=b?a:a.replace(/(<script[^>]+)defer(=[^\s>]*)?/ig,"$1")});a.ajaxSetup(h)})(jQuery);
 /*]]>*/
 </script>
-<title> Asia Plus Inc | Phát triển hệ thống | Vtown</title>
+<title>CÔNG TY TNHH DU LỊCH BLUE SEA | Khách sạn | Vtown</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta http-equiv="Content-Style-Type" content="text/css" />
         <meta http-equiv="Content-Script-Type" content="text/javascript" />
@@ -38,9 +35,9 @@
         <!-- meta http-equiv=”content-language” content=”vi”>
                 <meta http-equiv=”content-language” content=”en”-->
         <meta name="description"
-              content="Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications. ..." />
+              content="Khách sạn Blue Wave gồm 15 tầng và 108 phòng . Tất cả các phòng đều được trang bị đầy đủ các trang thiết bị hiện đại theo tiêu chuẩn 3 sao Quốc Tế, đặc biệt phòng Suite thiết kế phòng khách và phòng ngủ riêng biệt rất thuận tiện, khu nhà hàng được thiết kế sang trọng và ấm cúng sức chứa hơn..." />
         <meta name="keywords"
-              content=" Asia Plus Inc" />
+              content="CÔNG TY TNHH DU LỊCH BLUE SEA" />
                 <!-- geo seo for japan-tokyo 
                 <meta name="geo.region" content="JP-13" />
                 <meta name="geo.position" content="35.689488;139.691706" />
@@ -54,24 +51,24 @@
 		<meta name="wot-verification" content="a3c452cb2c4b1c3b55c4"/> 
 		
 		<!-- Schema.org markup for Google+ -->
-		<meta itemprop="name" content=" Asia Plus Inc | Phát triển hệ thống | Vtown">
-		<meta itemprop="description" content="Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications. ...">
-		<meta itemprop="image" content="http://vtown.vn/uploads/company/2806/thumbnail/unnamed%20%281%29.jpg">
+		<meta itemprop="name" content="CÔNG TY TNHH DU LỊCH BLUE SEA | Khách sạn | Vtown">
+		<meta itemprop="description" content="Khách sạn Blue Wave gồm 15 tầng và 108 phòng . Tất cả các phòng đều được trang bị đầy đủ các trang thiết bị hiện đại theo tiêu chuẩn 3 sao Quốc Tế, đặc biệt phòng Suite thiết kế phòng khách và phòng ngủ riêng biệt rất thuận tiện, khu nhà hàng được thiết kế sang trọng và ấm cúng sức chứa hơn...">
+		<meta itemprop="image" content="http://vtown.vn/uploads/company/4337/thumbnail/7b7e10f69f01a0ecb3c8789d9ff8ffcc.JPG">
 
 		<!-- Twitter Card data -->
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@washinengine">
-		<meta name="twitter:title" content=" Asia Plus Inc | Phát triển hệ thống | Vtown">
-		<meta name="twitter:description" content="Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications. ...">
+		<meta name="twitter:title" content="CÔNG TY TNHH DU LỊCH BLUE SEA | Khách sạn | Vtown">
+		<meta name="twitter:description" content="Khách sạn Blue Wave gồm 15 tầng và 108 phòng . Tất cả các phòng đều được trang bị đầy đủ các trang thiết bị hiện đại theo tiêu chuẩn 3 sao Quốc Tế, đặc biệt phòng Suite thiết kế phòng khách và phòng ngủ riêng biệt rất thuận tiện, khu nhà hàng được thiết kế sang trọng và ấm cúng sức chứa hơn...">
 		<meta name="twitter:creator" content="@washinengine">
-		<meta name="twitter:image" content="http://vtown.vn/uploads/company/2806/thumbnail/unnamed%20%281%29.jpg">
+		<meta name="twitter:image" content="http://vtown.vn/uploads/company/4337/thumbnail/7b7e10f69f01a0ecb3c8789d9ff8ffcc.JPG">
 			
 		<!-- Open Graph data -->
-		<meta property="og:title" content=" Asia Plus Inc | Phát triển hệ thống | Vtown" />
+		<meta property="og:title" content="CÔNG TY TNHH DU LỊCH BLUE SEA | Khách sạn | Vtown" />
 		<meta property="og:type" content="company" />
-		<meta property="og:url" content="http://vtown.vn/company/asia-plus-inc.html" />
-		<meta property="og:image" content="http://vtown.vn/uploads/company/2806/thumbnail/unnamed%20%281%29.jpg">
-		<meta property="og:description" content="Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications. ..." />
+		<meta property="og:url" content="http://vtown.vn/company/blue-sea-travel-co-ltd.html" />
+		<meta property="og:image" content="http://vtown.vn/uploads/company/4337/thumbnail/7b7e10f69f01a0ecb3c8789d9ff8ffcc.JPG">
+		<meta property="og:description" content="Khách sạn Blue Wave gồm 15 tầng và 108 phòng . Tất cả các phòng đều được trang bị đầy đủ các trang thiết bị hiện đại theo tiêu chuẩn 3 sao Quốc Tế, đặc biệt phòng Suite thiết kế phòng khách và phòng ngủ riêng biệt rất thuận tiện, khu nhà hàng được thiết kế sang trọng và ấm cúng sức chứa hơn..." />
 		<meta property="og:site_name" content="Washin Engine Co.,Ltd" />
 		<meta property="fb:admins" content="196199953850222" />
 		
@@ -110,7 +107,7 @@ var uploadDir = 'uploads';
         <div class="header-vt">
             <div class="wrap-header-vt clearfix">
                 <div class="h-left clearfix">
-					<a href="/"><img src="http://vtown.vn/images/vtown.png" alt=" Asia Plus Inc | Phát triển hệ thống | Vtown"/> </a>					<p class='slogan slogan-vi'>Cổng thông tin hiệu quả cho Doanh Nghiệp mới tại Việt Nam</p>					
+					<a href="/"><img src="http://vtown.vn/images/vtown.png" alt="CÔNG TY TNHH DU LỊCH BLUE SEA | Khách sạn | Vtown"/> </a>					<p class='slogan slogan-vi'>Cổng thông tin hiệu quả cho Doanh Nghiệp mới tại Việt Nam</p>					
                 </div><!-- end h-left -->
                 
                 <div class="h-right">
@@ -134,9 +131,9 @@ var uploadDir = 'uploads';
 						
                         <div class="box-languages">
 						<ul class="clearfix">								
-							<li class="lang-ja"><a title="日本語" href="/ja/company/asia-plus-inc.html">日本語</a></li> 				
+							<li class="lang-ja"><a title="日本語" href="/ja/company/blue-sea-travel-co-ltd.html">日本語</a></li> 				
 														
-							<li><a title="English" href="/en/company/asia-plus-inc.html">English</a></li>
+							<li><a title="English" href="/en/company/blue-sea-travel-co-ltd.html">English</a></li>
 						</ul>					<!-- end box-languages -->
 					</div>
                     </div><!-- endbox-search -->
@@ -354,7 +351,7 @@ function doScroll(divID,fixPos,parentID){
  
 		<div class="content-main-page clearfix">
 			<div class="breadcrumb clearfix">
-<div><ul><li><a href="/">Trang Chủ</a><ul><li><span class="crumbSep"> &raquo; </span><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/category3.html" itemprop="url"><span itemprop="title">Công nghệ</span></a></div></li><li><span class="crumbSep"> &raquo; </span><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/category3/genre203.html" itemprop="url"><span itemprop="title">Phát triển hệ thống</span></a></div></li><li><span class="crumbSep"> &raquo; </span> Asia Plus Inc</li></ul></li></ul></div></div>			<!-- breadcrumbs -->
+<div><ul><li><a href="/">Trang Chủ</a><ul><li><span class="crumbSep"> &raquo; </span><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/category12.html" itemprop="url"><span itemprop="title">Khách sạn- nhà hàng</span></a></div></li><li><span class="crumbSep"> &raquo; </span><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/category12/genre1101.html" itemprop="url"><span itemprop="title">Khách sạn</span></a></div></li><li><span class="crumbSep"> &raquo; </span>CÔNG TY TNHH DU LỊCH BLUE SEA</li></ul></li></ul></div></div>			<!-- breadcrumbs -->
 			
 			<!-- end content-left -->
 			<div class="content-right">
@@ -385,17 +382,17 @@ function doScroll(divID,fixPos,parentID){
 <div class="page-company-detail ">
     <div class="box-com-detail">
 		<div class="title">
-			<h1> Asia Plus Inc</h1>
+			<h1>CÔNG TY TNHH DU LỊCH BLUE SEA</h1>
 			<!--<a class="editco" target="_blank" href="">Edit</a>-->
 		</div>
 		<div class="content">
 			<div class="wrapper-tab" id="tabs">
 				<div class="tabs clearfix">
 					<ul class="clearfix">
-																				<li id="common" class=" active" ><a href="/company/asia-plus-inc.html"><span>Tổng quan</span> </a></li>
+																				<li id="common" class=" active" ><a href="/company/blue-sea-travel-co-ltd.html"><span>Tổng quan</span> </a></li>
 												</ul>
 											<div class="button-control clearfix">
-														<a id="favoriteButton" class="btn-add contact-company" title="Thêm vào danh sách yêu thích." onClick="return ajaxFavoriteCompany(2806, this);" rel="nofollow" data-clicked="false" data-favorite="false" data-text-add="Thêm" data-title-add="Thêm vào danh sách yêu thích." data-text-remove="Gở bỏ" data-title-remove="Gở bỏ khỏi danh sách yêu thích." href="javascript:void(0)">Thêm</a>							<a class="btn-inquiry contact-company" rel="nofollow" style="margin-right: 12px;" href="/inquiry/create?company_id=2806">Hỏi</a>							<a href="#" id="printOut" onclick="printCompany('asia-plus-inc')" rel='nofollow' class="contact-company printOut">In</a>
+														<a id="favoriteButton" class="btn-add contact-company" title="Thêm vào danh sách yêu thích." onClick="return ajaxFavoriteCompany(4337, this);" rel="nofollow" data-clicked="false" data-favorite="false" data-text-add="Thêm" data-title-add="Thêm vào danh sách yêu thích." data-text-remove="Gở bỏ" data-title-remove="Gở bỏ khỏi danh sách yêu thích." href="javascript:void(0)">Thêm</a>							<a class="btn-inquiry contact-company" rel="nofollow" style="margin-right: 12px;" href="/inquiry/create?company_id=4337">Hỏi</a>							<a href="#" id="printOut" onclick="printCompany('blue-sea-travel-co-ltd')" rel='nofollow' class="contact-company printOut">In</a>
 						</div>
 									</div><!-- end tabs -->
 				<div class="line-tab"></div>
@@ -409,25 +406,25 @@ function doScroll(divID,fixPos,parentID){
 <div class="item-com-detail">
 	<div itemtype="http://schema.org/Organization" itemscope="">
 		<div class="com-info clearfix">
-		<img itemprop="logo" width="147px" src="http://vtown.vn/uploads/company/2806/thumbnail/unnamed%20%281%29.jpg" alt=" Asia Plus Inc" />
+		<img itemprop="logo" width="147px" src="http://vtown.vn/uploads/company/4337/thumbnail/7b7e10f69f01a0ecb3c8789d9ff8ffcc.JPG" alt="CÔNG TY TNHH DU LỊCH BLUE SEA" />
 		<div class="title-item clearfix">
-				<h2><span itemprop="name"> Asia Plus Inc</span></h2>
+				<h2><span itemprop="name">CÔNG TY TNHH DU LỊCH BLUE SEA</span></h2>
 				<ul>
-					<li>XEM:1658</li>
-					<li>LIÊN HỆ:36</li>
+					<li>XEM:206</li>
+					<li>LIÊN HỆ:2</li>
 				</ul>
 			</div>
-			<p><span itemprop="description">Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications.  </span></p>										
+			<p><span itemprop="description">Khách sạn Blue Wave  gồm 15 tầng và 108 phòng . Tất cả các phòng đều được trang bị đầy đủ các trang thiết bị hiện đại theo tiêu chuẩn 3 sao Quốc Tế, đặc biệt phòng Suite thiết kế phòng khách và phòng ngủ riêng biệt rất thuận tiện, khu nhà hàng được thiết kế sang trọng và ấm cúng sức chứa hơn 800 khách , Dịch vụ phòng hội thảo được đầu tư các trang thiết bị hiện đại với sức chứa hơn 600 khách phù hợp cho các cuộc họp quan trọng , bãi đỗ xe rộng rãi và an toàn . Quý khách có thể nhâm nhi ly café và ngắm nhìn bờ biển cửa lò thơ mộng tại Bar Moon được bố trí trên tầng 15; Quầy lưu niệm; Khu máy tính và bàn làm việc ở tiền sảnh. Bên cạnh đó Khách sạn còn triển khai các dịch vụ cho thuê xe du lịch , dịch vụ tổ chức team buiding ngoài bải biển , Dịch vụ tổ chức Gala ngoài bải biển v.v.v .</span></p>										
 		</div>
 		<div class="review-summary">
 	
 </div>
 		<div style="float: right;margin-right:10px"><ul class="way2blogging-social way2blogging-cssanime way2blogging-size16">
-<li style="background-image:url(/assets/c257d22f/images/16px/facebook.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Chia sẻ trên Facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html&amp;t=Vtown+-+View+Company"><strong>Facebook</strong></a></li>
-<li style="background-image:url(/assets/c257d22f/images/16px/twitter.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Tweet This!" href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html&amp;text=Vtown+-+View+Company"><strong>Twitter</strong></a></li>
-<li style="background-image:url(/assets/c257d22f/images/16px/google-plus.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Share this on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html"><strong>Google+</strong></a></li>
-<li style="background-image:url(/assets/c257d22f/images/16px/stumbleupon.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Stumble upon something good? Share it on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html&amp;title=Vtown+-+View+Company"><strong>StumbleUpon</strong></a></li>
-<li style="background-image:url(/assets/c257d22f/images/16px/linkedin.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Share this on LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html&amp;title=Vtown+-+View+Company"><strong>LinkedIn</strong></a></li></ul></div>
+<li style="background-image:url(/assets/c257d22f/images/16px/facebook.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Chia sẻ trên Facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fvtown.vn%2Fcompany%2Fblue-sea-travel-co-ltd.html&amp;t=Vtown+-+View+Company"><strong>Facebook</strong></a></li>
+<li style="background-image:url(/assets/c257d22f/images/16px/twitter.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Tweet This!" href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fblue-sea-travel-co-ltd.html&amp;text=Vtown+-+View+Company"><strong>Twitter</strong></a></li>
+<li style="background-image:url(/assets/c257d22f/images/16px/google-plus.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Share this on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fblue-sea-travel-co-ltd.html"><strong>Google+</strong></a></li>
+<li style="background-image:url(/assets/c257d22f/images/16px/stumbleupon.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Stumble upon something good? Share it on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fblue-sea-travel-co-ltd.html&amp;title=Vtown+-+View+Company"><strong>StumbleUpon</strong></a></li>
+<li style="background-image:url(/assets/c257d22f/images/16px/linkedin.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Share this on LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fblue-sea-travel-co-ltd.html&amp;title=Vtown+-+View+Company"><strong>LinkedIn</strong></a></li></ul></div>
 		<script type="text/javascript">
 	$(function(){
 		reloadRecaptcha();
@@ -444,8 +441,8 @@ function doScroll(divID,fixPos,parentID){
 		console.log('captcha');
 		var challenge = Recaptcha.get_challenge();
 		var response = Recaptcha.get_response();
-		var company_id = 2806;
-		var key_cache = "copanyDetail_asia-plus-inc_common_vi";
+		var company_id = 4337;
+		var key_cache = "copanyDetail_blue-sea-travel-co-ltd_common_vi";
 		var data = {"challenge" : challenge, "response": response, "company_id": company_id, "key_cache": key_cache};
 		$.ajax({
 			url: "/company/showEmail",
@@ -487,7 +484,7 @@ function doScroll(divID,fixPos,parentID){
 			<tr>
 				<th>Tên công ty</th>
 				<td>
-					<span itemprop="name"> Asia Plus Inc</span>
+					<span itemprop="name">CÔNG TY TNHH DU LỊCH BLUE SEA</span>
 				</td>
 			</tr>
 					
@@ -499,7 +496,7 @@ function doScroll(divID,fixPos,parentID){
 					<th>Địa chỉ</th>
 					<td>
 						<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">															
-															<span itemprop="streetAddress">25/7A Nguyen Binh Khiem Str., Ben Nghe Ward, Dist 1, HCMC</span>
+															<span itemprop="streetAddress">01 Hoàng Văn Tâm - P. Nghi Hương - Cửa Lò - Nghệ An</span>
 								<br>
 																				</div>
 					</td>
@@ -511,18 +508,34 @@ function doScroll(divID,fixPos,parentID){
 				<tr>
 					<th>Điện thoại </th>
 					<td>
-						<img src="http://vtown.vn/uploads/company/field/c3cb43909e356f6c36367d2e0a956943/e16a2d7f1ab5bffece098bd017d0842e.png" alt="vtown.vn" />						<span itemprop="telephone" style="display: none;">84-128-2463544</span>
+						<img src="http://vtown.vn/uploads/company/field/46f33efffb4a2ce6bba6b91a6e229406/ddc752ece353a1a4f1952ad21d68f88f.png" alt="vtown.vn" />						<span itemprop="telephone" style="display: none;">02388716666</span>
 					</td>
 				</tr>        
 
-																<tr class="line-between"><th></th><td></td></tr>
+										<tr class="line-between">
+					<th></th>
+					<td></td>
+				</tr>
+				<tr>
+					<th>Số Fax </th>
+					<td>
+						<img src="http://vtown.vn/uploads/company/field/46f33efffb4a2ce6bba6b91a6e229406/df18dc2f02d9ab5d161a3be9c35a45d6.png" alt="vtown.vn" />						<span itemprop="faxNumber" style="display: none;">0238,871,6888</span>
+					</td>
+				</tr>        				
+													<tr class="line-between"><th></th><td></td></tr>
 				<tr>
 					<th>Ngày thành lập</th>
 					<td>
-						<img src="http://vtown.vn/uploads/company/field/c3cb43909e356f6c36367d2e0a956943/c59e1c3bea83cb3977b3f396f0d35506.png" alt="vtown.vn" />						<span itemprop="foundingDate" style="display: none;">2014 - 1</span>
+						<img src="http://vtown.vn/uploads/company/field/46f33efffb4a2ce6bba6b91a6e229406/b69b8cfd902d61854d7a33f38d06b639.png" alt="vtown.vn" />						<span itemprop="foundingDate" style="display: none;">2015 - 5 - 27</span>
 					</td>
 				</tr>					
-													<tr class="line-between"><th></th><td></td></tr>
+										<tr class="line-between"><th></th><td></td></tr>
+				<tr>
+					<th>Vốn điều lệ</th>
+					<td>
+						100 tỷ 					</td>
+				</tr>
+										<tr class="line-between"><th></th><td></td></tr>
 				<tr>
 					<th>Loại hình doanh nghiệp</th>
 					<td>
@@ -531,8 +544,11 @@ function doScroll(divID,fixPos,parentID){
 										<tr class="line-between"><th></th><td></td></tr>
 				<tr>
 					<th>Kinh doanh</th>
-					<td>Asia Plus Inc. offers two services - (1) online market research service "Q&Me" (www.qandme.net), (2) enterprise SNS service "Tascade"(www.tascade.net)
-</td>
+					<td>- dịch vụ lưu trú 
+- khách sạn , nhà hàng 
+- vé máy bay 
+- cho thuê xe 
+- tổ chức tour và sự kiện </td>
 				</tr>					
 			        
 							<tr class="line-between"><th></th><td></td></tr>
@@ -540,7 +556,7 @@ function doScroll(divID,fixPos,parentID){
 					<th>Hỗ trợ ngôn ngữ</th>
 					<td>
 						<div itemscope itemtype="http://schema.org/CreativeWork">
-							<span itemprop="inLanguage">Anh, Nhật, Việt nam</span>
+							<span itemprop="inLanguage">Việt nam</span>
 						</div>
 					</td>
 				</tr>     
@@ -549,7 +565,7 @@ function doScroll(divID,fixPos,parentID){
 				<tr>
 					<th>Liên kết</th>
 					<td>
-													<a href="http://www.asia-plus.net/" itemprop="url"> Asia Plus Inc</a>
+													<a href="http://www.bluewavehotel.com.vn" itemprop="url">CÔNG TY TNHH DU LỊCH BLUE SEA</a>
 											</td>
 				</tr>
 			    
@@ -572,8 +588,8 @@ function doScroll(divID,fixPos,parentID){
 			<span itemscope itemtype="http://schema.org/Place">
 				<div itemprop="geo">
 					<span itemscope itemtype="http://schema.org/GeoCoordinates">
-						<span property="latitude" content="10.788443900000000"></span>
-						<span property="longitude" content="106.703633599999990"></span>
+						<span property="latitude" content="18.667263900000000"></span>
+						<span property="longitude" content="105.696344899999990"></span>
 					</span>
 				</div>
 			</span>
@@ -581,7 +597,7 @@ function doScroll(divID,fixPos,parentID){
 		
 </div>
 <div class="genre-com-detail clearfix">
-	<ul class="list-genre"><li><a title="Phát triển hệ thống" href="/category3/genre203.html">Phát triển hệ thống</a></li><li><a title="Máy chủ" href="/category3/genre204.html">Máy chủ</a></li><li><a title="Khảo sát thị trường" href="/category1/genre1506.html">Khảo sát thị trường</a></li></ul></div><!-- end genre-com-detail -->
+	<ul class="list-genre"><li><a title="Khách sạn" href="/category12/genre1101.html">Khách sạn</a></li></ul></div><!-- end genre-com-detail -->
 
 <!-- FORM POP UP-->
 <div id="toPopup">
@@ -617,15 +633,15 @@ function doScroll(divID,fixPos,parentID){
     $(function() {
 	var aParams = new Array();
     	var params = new Array();
-    	params['title'] = ' Asia Plus Inc';
-    	params['lat'] = '10.788443900000000';
-    	params['lng'] = '106.703633599999990';
+    	params['title'] = 'CÔNG TY TNHH DU LỊCH BLUE SEA';
+    	params['lat'] = '18.667263900000000';
+    	params['lng'] = '105.696344899999990';
 
-    	var url = 'http://www.asia-plus.net/';
-    	var text = '<div class="info_window"><span class="company_title"> Asia Plus Inc</span><br/>';
-    		text += '<span class="address_info">25/7A Nguyen Binh Khiem Str., Ben Nghe Ward, Dist 1, HCMC</span>';
-        		text += '<span class="phone_info">84-128-2463544</span><br/>';
-        		text += '<span class="website_info"><a class="readmore" target="_blank" href="http://www.asia-plus.net/">http://www.asia-plus.net/</a></span>';
+    	var url = 'http://www.bluewavehotel.com.vn';
+    	var text = '<div class="info_window"><span class="company_title">CÔNG TY TNHH DU LỊCH BLUE SEA</span><br/>';
+    		text += '<span class="address_info">01 Hoàng Văn Tâm - P. Nghi Hương - Cửa Lò - Nghệ An</span>';
+        		text += '<span class="phone_info">02388716666</span><br/>';
+        		text += '<span class="website_info"><a class="readmore" target="_blank" href="http://www.bluewavehotel.com.vn">http://www.bluewavehotel.com.vn</a></span>';
         	text += '</div>';
     	params['text'] = text;
     	aParams.push(params);
@@ -642,7 +658,7 @@ function doScroll(divID,fixPos,parentID){
         <div class="map">
     	    <!--<img alt="" src="images/map-vtown.jpg">-->
     	<div class="textbox business_content_tabs_title tabs_title">
-				    <a href="#" class="selected" onClick="panToLocation('10.788443900000000', '106.703633599999990');">Địa chỉ chính</a> 
+				    <a href="#" class="selected" onClick="panToLocation('18.667263900000000', '105.696344899999990');">Địa chỉ chính</a> 
 				    	</div>
     	<div id="map-container">
     	    <div reff="map_branch_0" id="map_canvas_view_company" class ="map_view_company" style="width:auto; height:400px;"></div>
@@ -654,13 +670,13 @@ function doScroll(divID,fixPos,parentID){
 					</div>
 					<div class="genre-com-detail clearfix">
 						<ul class="list-genre tab-list">
-																					<li id="common" class=" active" ><a href="/company/asia-plus-inc.html"><span>Tổng quan</span> </a></li>
+																					<li id="common" class=" active" ><a href="/company/blue-sea-travel-co-ltd.html"><span>Tổng quan</span> </a></li>
 													</ul>
 													<ul class="list-button list-genre-function-companies">
 								<li>
-									<a id="favoriteButton2" class="contact-company" title="Thêm vào danh sách yêu thích." onClick="return ajaxFavoriteCompany(2806, this);" rel="nofollow" data-clicked="false" data-favorite="false" data-text-add="Thêm" data-title-add="Thêm vào danh sách yêu thích." data-text-remove="Gở bỏ" data-title-remove="Gở bỏ khỏi danh sách yêu thích." href="javascript:void(0)">Thêm</a>								</li>
-								<li><a class="contact-company" rel="nofollow" href="/inquiry/create?company_id=2806">Hỏi</a></li>
-								<li><a href="#" id="printOut" onclick="printCompany('asia-plus-inc')" rel='nofollow' class="contact-company printOut">In</a></li>
+									<a id="favoriteButton2" class="contact-company" title="Thêm vào danh sách yêu thích." onClick="return ajaxFavoriteCompany(4337, this);" rel="nofollow" data-clicked="false" data-favorite="false" data-text-add="Thêm" data-title-add="Thêm vào danh sách yêu thích." data-text-remove="Gở bỏ" data-title-remove="Gở bỏ khỏi danh sách yêu thích." href="javascript:void(0)">Thêm</a>								</li>
+								<li><a class="contact-company" rel="nofollow" href="/inquiry/create?company_id=4337">Hỏi</a></li>
+								<li><a href="#" id="printOut" onclick="printCompany('blue-sea-travel-co-ltd')" rel='nofollow' class="contact-company printOut">In</a></li>
 							</ul>
 											</div><!-- end genre-com-detail -->
 				</div>
@@ -675,128 +691,128 @@ function doScroll(divID,fixPos,parentID){
                         <div class="content clearfix">
                             <ul class="list-com-same clearfix">
                                                                                 <li >
-                                                <a href="/company/vinx-vietnam-co-ltd.html">
+                                                <a href="/company/moberi-co-ltd.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5047/thumbnail/7487db30a375b127b8ff9ee79de0251c.jpg"  alt="VINX VIETNAM CO.,LTD" />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5047/thumbnail/7487db30a375b127b8ff9ee79de0251c.jpg" alt="VINX VIETNAM CO.,LTD"></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/4810/thumbnail/9665a58ceb18c4b9b37f9167d9298855.jpeg"  alt="MOBERI" />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/4810/thumbnail/9665a58ceb18c4b9b37f9167d9298855.jpeg" alt="MOBERI"></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/vinx-vietnam-co-ltd.html">VINX VIETNAM CO.,LTD</a></h3>
+                                                <h3><a href="/company/moberi-co-ltd.html">MOBERI</a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">213</span>
+                                                        <span class="view">337</span>
                                                         <span class="mail">3</span>
                                                 </p>
                                             </li>
                                                                                 <li >
-                                                <a href="/company/i-enter-asia-co--ltd.html">
+                                                <a href="/company/sea-stars-hai-phong-hotel.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5102/thumbnail/6771976fb33b24e0d54c9e40e029f29f.jpg"  alt="CÔNG TY TNHH I-ENTER ASIA " />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5102/thumbnail/6771976fb33b24e0d54c9e40e029f29f.jpg" alt="CÔNG TY TNHH I-ENTER ASIA "></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/5054/thumbnail/3593997ca519e2c7a2c8efd4637953f4.jpg"  alt="KHÁCH SẠN SEA STARS HẢI PHÒNG" />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/5054/thumbnail/3593997ca519e2c7a2c8efd4637953f4.jpg" alt="KHÁCH SẠN SEA STARS HẢI PHÒNG"></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/i-enter-asia-co--ltd.html">CÔNG TY TNHH I-ENTER ASIA </a></h3>
+                                                <h3><a href="/company/sea-stars-hai-phong-hotel.html">KHÁCH SẠN SEA STARS HẢI PHÒNG</a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">71</span>
+                                                        <span class="view">39</span>
                                                         <span class="mail">0</span>
                                                 </p>
                                             </li>
                                                                                 <li >
-                                                <a href="/company/beetsoft-co-ltd.html">
+                                                <a href="/company/n-equals.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/4910/thumbnail/3cb810c292bccf45877cb7f5b59234b3.png"  alt="BeetSoft Co Ltd" />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/4910/thumbnail/3cb810c292bccf45877cb7f5b59234b3.png" alt="BeetSoft Co Ltd"></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/4979/thumbnail/eeee4bbbbcddba56c12f24190b833d23.png"  alt="N-Equals" />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/4979/thumbnail/eeee4bbbbcddba56c12f24190b833d23.png" alt="N-Equals"></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/beetsoft-co-ltd.html">BeetSoft Co Ltd</a></h3>
+                                                <h3><a href="/company/n-equals.html">N-Equals</a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">297</span>
+                                                        <span class="view">249</span>
                                                         <span class="mail">3</span>
                                                 </p>
                                             </li>
                                                                                 <li >
-                                                <a href="/company/ci-research.html">
+                                                <a href="/company/brandi-fuji-hotel.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5076/thumbnail/45e8cd34c615f2ccc7ded5c01420fdd1.png"  alt="CI Research" />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5076/thumbnail/45e8cd34c615f2ccc7ded5c01420fdd1.png" alt="CI Research"></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/4816/thumbnail/c81d414932f130019362538a8a353ef6.jpeg"  alt="Brandi Fuji Hotel" />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/4816/thumbnail/c81d414932f130019362538a8a353ef6.jpeg" alt="Brandi Fuji Hotel"></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/ci-research.html">CI Research</a></h3>
+                                                <h3><a href="/company/brandi-fuji-hotel.html">Brandi Fuji Hotel</a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">71</span>
-                                                        <span class="mail">3</span>
+                                                        <span class="view">106</span>
+                                                        <span class="mail">1</span>
                                                 </p>
                                             </li>
                                                                                 <li class="last">
-                                                <a href="/company/tanner-asia.html">
+                                                <a href="/company/eblock-jsc.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/4863/thumbnail/5ee655bbdf1b6a63d14b88d404b913b4.jpg"  alt="Tanner Asia" />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/4863/thumbnail/5ee655bbdf1b6a63d14b88d404b913b4.jpg" alt="Tanner Asia"></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/4646/thumbnail/50f1fc5b941f470a77f14881c59d3997.png"  alt="CTCP GACH KHOI TAN KY NGUYEN" />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/4646/thumbnail/50f1fc5b941f470a77f14881c59d3997.png" alt="CTCP GACH KHOI TAN KY NGUYEN"></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/tanner-asia.html">Tanner Asia</a></h3>
+                                                <h3><a href="/company/eblock-jsc.html">CTCP GACH KHOI TAN KY NGUYEN</a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">256</span>
-                                                        <span class="mail">4</span>
+                                                        <span class="view">369</span>
+                                                        <span class="mail">7</span>
                                                 </p>
                                             </li>
                                                                                 <li class="item-fix">
-                                                <a href="/company/saishunkan-system-vietnam-co--ltd.html">
+                                                <a href="/company/phuoc-thanh-intl-import-export-trading-production-co-ltd.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/3583/thumbnail/bfafc4da7bcf7a2e2e47031072505287.png"  alt="Công ty TNHH hệ thống Saishunkan Việt Nam" />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/3583/thumbnail/bfafc4da7bcf7a2e2e47031072505287.png" alt="Công ty TNHH hệ thống Saishunkan Việt Nam"></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/4347/thumbnail/8e17302d41f4c65ac58428f60c20a84f.png"  alt="CÔNG TY TNHH SX TM XNK QUỐC TẾ PHƯỚC THÀNH" />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/4347/thumbnail/8e17302d41f4c65ac58428f60c20a84f.png" alt="CÔNG TY TNHH SX TM XNK QUỐC TẾ PHƯỚC THÀNH"></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/saishunkan-system-vietnam-co--ltd.html">Công ty TNHH hệ thống Saishunkan Việt Nam</a></h3>
+                                                <h3><a href="/company/phuoc-thanh-intl-import-export-trading-production-co-ltd.html">CÔNG TY TNHH SX TM XNK QUỐC TẾ PHƯỚC THÀNH</a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">2176</span>
-                                                        <span class="mail">26</span>
+                                                        <span class="view">654</span>
+                                                        <span class="mail">30</span>
                                                 </p>
                                             </li>
                                                                                 <li >
-                                                <a href="/company/global-gsoft-limited-company.html">
+                                                <a href="/company/had-apartment.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5022/thumbnail/2c6a70c7e9e6bc75882d99344840f48b.png"  alt="Công Ty TNHH Phần Mềm Hoàn Cầu" />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5022/thumbnail/2c6a70c7e9e6bc75882d99344840f48b.png" alt="Công Ty TNHH Phần Mềm Hoàn Cầu"></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/4257/thumbnail/f5f3a57c1b88973a43a9d033e64a2a28.JPG"  alt="Can ho HAD" />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/4257/thumbnail/f5f3a57c1b88973a43a9d033e64a2a28.JPG" alt="Can ho HAD"></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/global-gsoft-limited-company.html">Công Ty TNHH Phần Mềm Hoàn Cầu</a></h3>
+                                                <h3><a href="/company/had-apartment.html">Can ho HAD</a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">122</span>
-                                                        <span class="mail">3</span>
+                                                        <span class="view">162</span>
+                                                        <span class="mail">13</span>
                                                 </p>
                                             </li>
                                                                                 <li >
-                                                <a href="/company/enable-startup-co-ltd.html">
+                                                <a href="/company/lang-viet-trading-and-services-co-ltd.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5020/thumbnail/acb24f1c7155217aeb9cc92910947d1f.jpg"  alt="Công ty MTV Công Nghệ Enable Startup" />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5020/thumbnail/acb24f1c7155217aeb9cc92910947d1f.jpg" alt="Công ty MTV Công Nghệ Enable Startup"></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/4254/thumbnail/ef7a1b58f6a86d98913547f3d04a7f6a.jpg"  alt="Công ty TNHH Đầu tư và Phát triển Thương mại Làng " />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/4254/thumbnail/ef7a1b58f6a86d98913547f3d04a7f6a.jpg" alt="Công ty TNHH Đầu tư và Phát triển Thương mại Làng "></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/enable-startup-co-ltd.html">Công ty MTV Công Nghệ Enable Startup</a></h3>
+                                                <h3><a href="/company/lang-viet-trading-and-services-co-ltd.html">Công ty TNHH Đầu tư và Phát triển Thương mại Làng </a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">134</span>
-                                                        <span class="mail">0</span>
+                                                        <span class="view">362</span>
+                                                        <span class="mail">16</span>
                                                 </p>
                                             </li>
                                                                                 <li >
-                                                <a href="/company/viet-nam-mm-ltd.html">
+                                                <a href="/company/cong-ty-tnhh-viet-nghi.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5013/thumbnail/d744bb5d576df9552b7c6f1ebf750ee4.PNG"  alt="CONG TY TNHH VIET NAM MM" />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5013/thumbnail/d744bb5d576df9552b7c6f1ebf750ee4.PNG" alt="CONG TY TNHH VIET NAM MM"></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/4137/thumbnail/ghgfh.JPG"  alt="CÔNG TY TNHH VIỆT NGHI" />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/4137/thumbnail/ghgfh.JPG" alt="CÔNG TY TNHH VIỆT NGHI"></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/viet-nam-mm-ltd.html">CONG TY TNHH VIET NAM MM</a></h3>
+                                                <h3><a href="/company/cong-ty-tnhh-viet-nghi.html">CÔNG TY TNHH VIỆT NGHI</a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">144</span>
-                                                        <span class="mail">0</span>
+                                                        <span class="view">388</span>
+                                                        <span class="mail">24</span>
                                                 </p>
                                             </li>
                                                                                 <li class="last">
-                                                <a href="/company/siten-software-company.html">
+                                                <a href="/company/cong-ty-tnhh-dinh-vang.html">
                                                     
-                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/4990/thumbnail/c4864e56c328a5e9878ab72f2932fe36.png"  alt=" Công ty phần mềm Siten " />
-                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/4990/thumbnail/c4864e56c328a5e9878ab72f2932fe36.png" alt=" Công ty phần mềm Siten "></noscript>
+                                                            <img class="img-com lazy" style="width:142px" data-original="http://vtown.vn/uploads/company/4108/thumbnail/dfghgfju.JPG"  alt="Công ty TNHH Đỉnh Vàng" />
+                                                            <noscript><img id="no-js" style="width:142px" src="http://vtown.vn/uploads/company/4108/thumbnail/dfghgfju.JPG" alt="Công ty TNHH Đỉnh Vàng"></noscript>
                                                                                                     </a>
-                                                <h3><a href="/company/siten-software-company.html"> Công ty phần mềm Siten </a></h3>
+                                                <h3><a href="/company/cong-ty-tnhh-dinh-vang.html">Công ty TNHH Đỉnh Vàng</a></h3>
                                                 <p class="view-status">
-                                                        <span class="view">109</span>
-                                                        <span class="mail">0</span>
+                                                        <span class="view">1228</span>
+                                                        <span class="mail">8</span>
                                                 </p>
                                             </li>
                                                                 </ul><!-- end list-com-same -->
                                                                                                 <p class="view-all">
-                                        <a href="/category3.html">Xem Thêm</a>
+                                        <a href="/category12.html">Xem Thêm</a>
                                     </p>
                                                                                     </div><!-- end content -->
                     </div><!-- end box-com-same -->
@@ -1567,7 +1583,7 @@ qacct:"p-42rZxwSSMkRmV"
     <script type="text/javascript">
 /*<![CDATA[*/
 jQuery(function($) {
-$.get('/company/logview/2806?k=4590590526416032e7ed9e314b94cf7cmrk_2806', function(data) {	$('.result').html(data);	console.log('log OK');});
+$.get('/company/logview/4337?k=4590590526416032e7ed9e314b94cf7cmrk_4337', function(data) {	$('.result').html(data);	console.log('log OK');});
 });
 /*]]>*/
 </script>
@@ -1575,4 +1591,4 @@ $.get('/company/logview/2806?k=4590590526416032e7ed9e314b94cf7cmrk_2806', functi
 	
 </html>
 
-<!-- 10 / 10.75 || 10.48 / 11 -->
+<!-- 9.84 / 10.5 || 10.33 / 10.75 -->

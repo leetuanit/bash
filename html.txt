@@ -1,989 +1,1578 @@
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="vi"
+      lang="vi">
+    <head>
+        <link hreflang="en" rel="alternate" href="http://vtown.vn/en/company/asia-plus-inc.html" />
+<link hreflang="ja" rel="alternate" href="http://vtown.vn/ja/company/asia-plus-inc.html" />
+<link hreflang="x-default" rel="alternate" href="http://vtown.vn/company/asia-plus-inc.html" />
+<link rel="stylesheet" type="text/css" href="http://vtown.vn/assets/636c043c/redmond/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="http://vtown.vn/js/star-rating/jquery.rating.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://vtown.vn/assets/5924d6d7/jquery.mCustomScrollbar.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://vtown.vn/assets/nls3498517762-min.css?6.3" media="screen" />
+<script  type="text/javascript" src="http://vtown.vn/assets/1a842ac2/jquery.min.js"></script>
+<script  type="text/javascript" src="http://vtown.vn/assets/1a842ac2/jui/js/jquery-ui.min.js"></script>
+<script  type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&amp;language=vi"></script>
+<script  defer="defer" type="text/javascript" src="http://vtown.vn/assets/5a9538e4/jquery.lazyload.js"></script>
+<script  defer="defer" type="text/javascript" src="http://vtown.vn/assets/cace415f/jquery.quicksearch.js"></script>
+<script  defer="defer" type="text/javascript" src="http://vtown.vn/assets/cace415f/jquery.mCustomScrollbar.concat.min.js"></script>
+<script  type="text/javascript" src="http://vtown.vn/assets/default-nls1912030239-min.js?6.3"></script>
+<script  defer="defer" type="text/javascript" src="http://vtown.vn/assets/defer-nls907855768-min.js?6.3"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+(function(a){var e=a.browser.msie&&7>=parseInt(a.browser.version)?document.createElement("div"):null,f=null,g=null,j=1,k=function(url){
+		if (!url.match(/\?/))
+			url += "?";
+		return url + "&nlsc_map=" + $.nlsc.smap();
+	};;a.nlsc||(a.nlsc={resMap:{}});a.nlsc.normUrl=function(c){if(!c)return null;e&&(e.innerHTML='<a href="'+c+'"></a>',c=e.firstChild.href);return f&&c.match(f)||g&&!c.match(g)?null:c.replace(/\?*(_=\d+)?$/g,"")};a.nlsc.h=function(c){var b=0,a;for(a=0;a<c.length;a++)b=(b<<5)-b+c.charCodeAt(a)&1073741823;return""+b};a.nlsc.fetchMap= function(){for(var c,b=0,d=a(document).find("script[src]");b<d.length;b++)if(c=this.normUrl(d[b].src?d[b].src:d[b].href))this.resMap[c]=a.nlsc.h(c)};a.nlsc.smap=function(){var a="[",b;for(b in this.resMap)a+='"'+this.resMap[b]+'",';return a.replace(/,$/,"")+"]"};var h={global:!0,beforeSend:function(c,b){if("script"!=b.dataType)return j&&(b.url=k(b.url)),!0;a.nlsc.fetched||(a.nlsc.fetched=1,a.nlsc.fetchMap());var d=a.nlsc.normUrl(b.url);if(!d)return!0;if(a.nlsc.resMap[d])return!1;a.nlsc.resMap[d]= a.nlsc.h(d);return!0}};a.browser.msie&&(h.dataFilter=function(a,b){return b&&"html"!=b&&"text"!=b?a:a.replace(/(<script[^>]+)defer(=[^\s>]*)?/ig,"$1")});a.ajaxSetup(h)})(jQuery);
+/*]]>*/
+</script>
+<title> Asia Plus Inc | Phát triển hệ thống | Vtown</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Style-Type" content="text/css" />
+        <meta http-equiv="Content-Script-Type" content="text/javascript" />
+        <meta http-equiv="content-language" content="vi" />
 
-<html xmlns="http://www.w3.org/1999/xhtml" >
-<head><meta http-equiv="Content-Language" content="vi" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="author" content="Alonhadat.com.vn" /><meta name="copyright" content="Copyright 2013 - 2018 Mua bán nhà đất" /><link href="/publish/img/icon.png" rel="shortcut icon" type="image/x-icon" /><link rel="Stylesheet" href="/publish/css/pc-master.css?v=201807210904" />
-    <meta content='index,follow' name='robots'>  
-    <meta name="description" content="Mua bán đất Quận Bình Thạnh, Hồ Chí Minh, bán đất thổ cư, chính chủ, giá rẻ. Chính chủ bán gấp lô nhà đất lớn 1543,2m2 cách mặt tiền đường Ung Văn Khiêm 50m, đối diện chợ phường 25, quận Bình Thạnh, hẻm 42 bên hông cây xăng Quang Trung, LH 0901386848.
+	<!--meta name="msvalidate.01" content="AA2D0DC4A0D11ACE888500970EEC99A8" /-->
 
-Hiện tại đường Ung Văn Khiêm chuẩn bị nâng - 4156865">
-    <meta name="keywords" content="bán đất, bán đất thổ cư, bán đất ở Quận Bình Thạnh, Hồ Chí Minh, cần mua đất, mua bán đất, Quận Bình Thạnh, Hồ Chí Minh, tìm mua đất, rao bán đất, sổ đỏ chính chủ, sdcc, giá rẻ"> 
-<title>
-	Hàng Hot đất thổ cư phân lô bán nền DT 1453 m2 đối diện chợ P25 Ung Văn Khiêm giá 65tr/m2 - 4156865
-</title></head>
-<body>  
-    <div id="wrapper">	
-        <div id="ctl00_pc_header">
-	        <div id="header">
-	            <div class="logo"><a href="/" title='Mua bán nhà đất' ><img src="/publish/img/logo.png" alt="Mua bán nhà đất"></a></div>
-	            <div class="banner-top"> 
-	            </div>   
-	        </div>
-	        <div class="reg-menu-box">		
-                 <div class="reg-menu">
-                 <span class="view-mobile" onclick="ViewWebVersion(2)">Mobile</span>
-                 <a class="regular-post" href="/dang-tin-nha-dat.html">Đăng tin nhà đất</a>
-                		   
-			        <a href="javascript:void(0)" class="register" onclick = "ShowRegisterForm()">Đăng ký thành viên</a>
-			        <a href="javascript:void(0)" class="login" onclick = "ShowLoginForm()">Đăng nhập</a>   
-		        
-		        </div>			    
-	        </div>	        	
-	        <div id="menu">  
-                <ul class="menu">
-                    <li><a href="/" class="home" title='Mua bán nhà đất'></a></li>
-                    <li class='list-sale'><a href="/nha-dat/can-ban.html">Nhà Đất Bán</a>
-                        <ul>
-                            <li class="type0"><a href="/can-ban-nha.htm">Bán nhà</a></li>
-                            <li class="type12"><a href="/nha-dat/can-ban/dat-tho-cu-dat-o.html">Bán đất thổ cư, đất ở</a></li>		                		                
-                            <li class="type5"><a href="/nha-dat/can-ban/phong-tro-nha-tro.html">Bán phòng trọ, nhà trọ</a></li>
-                            <li class="type1"><a href="/nha-dat/can-ban/nha-mat-tien.html">Bán nhà mặt tiền</a></li>		                
-                            <li class="type13"><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an.html">Bán đất nền, liền kề, đất dự án</a></li>		                
-                            <li class="type8"><a href="/nha-dat/can-ban/nha-hang-khach-san.html">Bán nhà hàng, khách sạn</a></li>
-                            <li class="type2"><a href="/nha-dat/can-ban/nha-trong-hem.html">Bán nhà trong hẻm</a></li>		               
-                            <li class="type14"><a href="/nha-dat/can-ban/dat-nong-lam-nghiep.html">Bán đất nông, lâm nghiệp</a></li>		                
-                            <li class="type9"><a href="/nha-dat/can-ban/shop-kiot-quan.html">Bán/Sang nhượng shop, kiot, quán</a></li>
-                            <li class="type3"><a href="/nha-dat/can-ban/biet-thu-nha-lien-ke.html">Bán biệt thự, nhà liền kề</a></li>
-                            <li class="type10"><a href="/nha-dat/can-ban/trang-trai.html">Bán trang trại</a></li>		                
-                            <li class="type7"><a href="/nha-dat/can-ban/kho-xuong.html">Bán kho, xưởng</a></li>		
-                            <li class="type4"><a href="/nha-dat/can-ban/can-ho-chung-cu.html">Bán căn hộ chung cư</a></li>     		                           		                		                
-                            <li class="type11"><a href="/nha-dat/can-ban/mat-bang.html">Bán mặt bằng</a></li> 
-                            <li class="type15"><a href="/nha-dat/can-ban/cac-loai-khac.html">Bán các loại BĐS khác</a></li>
-                            <li class="type6"><a href="/nha-dat/can-ban/van-phong.html">Bán văn phòng</a></li>
-                            <li></li>
-                            <li></li>
-                            
-                        </ul>
-                    </li>
-                    <li class='list-rent'><a href="/nha-dat/cho-thue.html">Nhà Đất Cho Thuê</a>
-                        <ul>
-                            <li class="type0"><a href="/cho-thue-nha.htm">Cho thuê nhà</a></li>		                
-                            <li class="type12"><a href="/nha-dat/cho-thue/dat-tho-cu-dat-o.html">Cho thuê đất thổ cư, đất ở</a></li>
-                            <li class="type5"><a href="/nha-dat/cho-thue/phong-tro-nha-tro.html">Cho thuê phòng trọ, nhà trọ</a></li>
-                            <li class="type1"><a href="/nha-dat/cho-thue/nha-mat-tien.html">Cho thuê nhà mặt tiền</a></li>		                
-                            <li class="type13"><a href="/nha-dat/cho-thue/dat-nen-lien-ke-dat-du-an.html">Cho thuê đất nền, liền kề, đất dự án</a></li>		                
-                            <li class="type8"><a href="/nha-dat/cho-thue/nha-hang-khach-san.html">Cho thuê nhà hàng, khách sạn</a></li>
-                            <li class="type2"><a href="/nha-dat/cho-thue/nha-trong-hem.html">Cho thuê nhà trong hẻm</a></li>		                
-                            <li class="type14"><a href="/nha-dat/cho-thue/dat-nong-lam-nghiep.html">Cho thuê đất nông, lâm nghiệp</a></li>
-                            <li class="type9"><a href="/nha-dat/cho-thue/shop-kiot-quan.html">Cho thuê shop, kiot, quán</a></li>
-                            <li class="type3"><a href="/nha-dat/cho-thue/biet-thu-nha-lien-ke.html">Cho thuê biệt thự, nhà liền kề</a></li>		                		                
-                            <li class="type10"><a href="/nha-dat/cho-thue/trang-trai.html">Cho thuê trang trại</a></li>		                
-                            <li class="type7"><a href="/nha-dat/cho-thue/kho-xuong.html">Cho thuê kho, xưởng</a></li>		     
-                            <li class="type4"><a href="/nha-dat/cho-thue/can-ho-chung-cu.html">Cho thuê căn hộ chung cư</a></li>		                
-                            <li class="type11"><a href="/nha-dat/cho-thue/mat-bang.html">Cho thuê mặt bằng</a></li> 
-                            <li class="type15"><a href="/nha-dat/cho-thue/cac-loai-khac.html">Cho thuê các loại BĐS khác</a></li>
-                            <li class="type6"><a href="/nha-dat/cho-thue/van-phong.html">Cho thuê văn phòng</a></li> 
-                            <li></li>
-                            <li></li>          		                		                
-                        </ul>		
-                    </li>               
-                   <li>                
-                        <a href="/du-an-bat-dong-san">DỰ ÁN</a>
-                        <ul>
-                          <li><a href="/du-an-can-ho-chung-cu-pc1">Căn hộ/ Chung cư</a></li>
-                          <li><a href="/du-an-khu-biet-thu-pc2">Khu biệt thự</a></li>
-                          <li><a href="/du-an-nha-pho-pc9">Nhà phố</a></li>
-                          <li><a href="/du-an-cao-oc-van-phong-pc3">Cao ốc văn phòng</a></li>
-                          <li><a href="/du-an-khu-thuong-mai-pc4">Khu thương mại</a></li>
-                          <li><a href="/du-an-khu-dan-cu-pc5">Khu dân cư</a></li>
-                          <li><a href="/du-an-nha-o-xa-hoi-pc6">Nhà ở xã hội</a></li>
-                          <li><a href="/du-an-khu-do-thi-moi-pc7">Khu đô thị mới</a></li>
-                          <li><a href="/du-an-khu-tai-dinh-cu-pc8">Khu tái định cư</a></li>
-                          <li><a href="/du-an-khu-phuc-hop-pc10">Khu phức hợp</a></li>                          
-                          <li><a href="/du-an-can-ho-dich-vu-pc11">Căn hộ dịch vụ</a></li>
-                          <li><a href="/du-an-khu-nghi-duong-pc12">Khu nghỉ dưỡng</a></li>  
-                        </ul>
-                    </li> 
-                    <li><a href="/nha-moi-gioi.html">NHÀ MÔI GIỚI</a></li>
-                    <li>                
-                        <a href="/chuyen-muc/kinh-nghiem.html">KINH NGHIỆM</a>
-                    </li> 
-                    <li>                
-                        <a href="/tin-tuc-c8/mau-nha-dep.html">Mẫu nhà đẹp</a>
-                        <ul>
-                            <li><a href="/tin-tuc-c9/mau-mau-nha-dep/nha-dep.html">Nhà đẹp</a>
-                                  <ul>
-                                      <li><a href="/tin-tuc-c10/mau-nha-dep/nha-dep/nha-ong.html">- Nhà ống</a></li>
-                                      <li><a href="/tin-tuc-c11/mau-nha-dep/nha-dep/nha-cap-4.html">- Nhà cấp 4</a></li>
-                                      <li><a href="/tin-tuc-c12/mau-nha-dep/nha-dep/biet-thu.html">- Biệt thự</a></li>
-                                      <li><a href="/tin-tuc-c13/mau-nha-dep/nha-dep/chung-cu.html">- Chung cư</a></li>
-                                      <li><a href="/tin-tuc-c14/mau-nha-dep/nha-dep/van-phong.html">- Văn phòng</a></li>
-                                  </ul>
-                             </li>
-                              <li><a href="/tin-tuc-c15/mau-nha-dep/ngoai-that.html">Ngoại thất</a></li>
-                              <li><a href="/tin-tuc-c16/mau-nha-dep/noi-that.html">Nội thất</a>
-                                   <ul>
-                                      <li><a href="/tin-tuc-c17/mau-nha-dep/noi-that/phong-khach.html">- Phòng khách</a></li>
-                                      <li><a href="/tin-tuc-c18/mau-nha-dep/noi-that/phong-ngu.html">- Phòng ngủ</a></li>
-                                      <li><a href="/tin-tuc-c19/mau-nha-dep/noi-that/phong-bep.html">- Phòng bếp</a></li>
-                                      <li><a href="/tin-tuc-c20/mau-nha-dep/noi-that/phong-tam.html">- Phòng tắm</a></li>
-                                    </ul>
-                              </li>          
-                        </ul>
-                    </li> 
-                    <li><a href="/lien-he.html">LIÊN HỆ - GÓP Ý</a></li>                                                        
-                     <li>                
-                        <a href="#">LIÊN KẾT</a>
-                        <ul style="list-style:none">
-                          <li><a href="/bando.html">Xem Bản Đồ</a></li>    
-                          <li><a target="_blank" href="https://banxehoicu.vn" rel='nofollow'>Bán xe hơi cũ</a></li>                          
-                        </ul>
-                    </li> 
-                </ul> 	        
-            </div>
-        </div>
-        
-        
-        <div class='body'>
-            
-    <div id="ctl00_content_top_link" class="top-link" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' href='/'><span itemprop='name'>Trang chủ</span></a></span><span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' class='title' href='/nha-dat/can-ban.html'><span itemprop='name'>Cần bán</span></a></span><span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' class='title' href='/nha-dat/can-ban/dat-tho-cu-dat-o.html'><span itemprop='name'>Bán đất</span></a></span><span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' class='title' href='/nha-dat/can-ban/dat-tho-cu-dat-o/2/ho-chi-minh.html'><span itemprop='name'>Bán đất Hồ Chí Minh</span></a></span><span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' class='title' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/145/quan-binh-thanh.html'><span itemprop='name'>Bán đất  Bình Thạnh</span></a></span><span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' class='title' href='/nha-dat/can-ban/dat-tho-cu-dat-o/phuong-25-quan-binh-thanh-px950.html'><span itemprop='name'>Bán đất Phường 25</span></a></span><span itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'><a itemprop='item' class='title' href='/nha-dat/can-ban/dat-tho-cu-dat-o/duong-ung-van-khiem-quan-binh-thanh-dp2065.html'><span itemprop='name'>Bán đất  Ung Văn Khiêm</span></a></span></div>	
-	<div class="top-line"></div>
-	<div id="ctl00_content_pc_content" class="content plp">
-		<div id="left">
-			<div class="property">
-				<div class='title'><h1>Hàng Hot đất thổ cư phân lô bán nền DT 1453 m2 đối diện chợ P25 Ung Văn Khiêm giá 65tr/m2</h1><span class='date'>Ngày đăng: 23/03/2019</span></div><div class='detail text-content'>Chính chủ bán gấp lô nhà đất lớn 1543,2m2 cách mặt tiền đường Ung Văn Khiêm 50m, đối diện chợ phường 25, quận Bình Thạnh, hẻm 42 bên hông cây xăng Quang Trung, LH 0901386848.
+        <!-- meta http-equiv=”content-language” content=”vi”>
+                <meta http-equiv=”content-language” content=”en”-->
+        <meta name="description"
+              content="Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications. ..." />
+        <meta name="keywords"
+              content=" Asia Plus Inc" />
+                <!-- geo seo for japan-tokyo 
+                <meta name="geo.region" content="JP-13" />
+                <meta name="geo.position" content="35.689488;139.691706" />
+                <meta name="ICBM" content="35.689488, 139.691706" />
+        -->
+        <!-- geo seo for vietnam-saigon -->
+        <meta name="geo.region" content="VN" />
+        <meta name="geo.position" content="10.746903;106.676292" />
+        <meta name="ICBM" content="10.746903, 106.676292" />
 
-Hiện tại đường Ung Văn Khiêm chuẩn bị nâng đường và mở rộng, giá mặt tiền Ung Văn Khiêm hiện tại từ 150 - 180 triệu/m2. MUA ĐẢM BẢO CHẮC CHẮN LỜI TỪ 10tr/m2 trở lên
+		<meta name="wot-verification" content="a3c452cb2c4b1c3b55c4"/> 
+		
+		<!-- Schema.org markup for Google+ -->
+		<meta itemprop="name" content=" Asia Plus Inc | Phát triển hệ thống | Vtown">
+		<meta itemprop="description" content="Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications. ...">
+		<meta itemprop="image" content="http://vtown.vn/uploads/company/2806/thumbnail/unnamed%20%281%29.jpg">
 
-- DT 40 x 39m = 1440m2 nở hậu thêm hơn 100m2.
-- DT sàn 1073 m2.
-- Có nhà 1 trệt 1 lầu.
-- Sổ hồng chính chủ, ra công chứng ngay.
-
-Đất vuông vức, nở hậu rất đẹp. Có thể xây khách sạn, chung cư mini, biệt thự, mở quán nhậu, nhà hàng...mua phân lô bán hoặc xây lên rồi bán cũng được.
-
-Nếu ai có tiền mua đảm bảo chỉ trong thời gian ngắn giá đất sẽ lên rất cao, đường Ung Văn Khiêm làm lại giá còn tăng mạnh. Hiện tại đất ở hẻm 48 đang bán DT 4x14 giá 4,8-5 tỷ/lô--- 85-87 triệu/m2 mà hẻm cụt hẻm nhỏ hơn
-
-Có thể phân lô bán đất nền, hiện giá đất hẻm xe hơi khu vực này rơi vào khoảng 85 - 90 triệu/m2.
-
-Gần chợ, siêu thị, đại học Hutech, cách ngã 4 Ung Văn Khiêm - Xô Viết Nghệ Tĩnh 200m, khu dân cư an ninh và sầm uất.
-
-Giá bán 65 triệu/m2 liên hệ chính chủ 0901386848 miễn trung gian môi giới.</div><div class='moreinfor'><span class='price'><span class='label'>Giá: </span> <span class='value'> 65 triệu /&nbsp;m<sup>2</sup>&nbsp;&nbsp;</span></span><span class='square'><span class='label'>Diện tích: </span> <span class='value'> 1.543 m<sup>2</sup></span></span><div class='clear'></div></div><div class='address'><span class='label'>Địa chỉ tài sản:</span><span class='value'> 42 Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Hồ Chí Minh</span></div><div class='moreinfor1'><div class='title'>Các thông tin khác</div><div class='infor'><table vspace='0' hspace='0' cellspacing='0'><tr><td>Mã tin</td><td>4156865</td><td>Hướng</td><td>_</td><td>Phòng ăn</td><td>---</td></tr><tr><td>Loại tin</td><td>Cần bán</td><td>Đường trước nhà</td><td>6m</td><td>Nhà bếp</td><td>---</td></tr><tr><td>Loại BDS</td><td>Đất thổ cư, đất ở</td><td>Pháp lý</td><td>Sổ hồng/ Sổ đỏ</td><td>Sân thượng</td><td>---</td></tr><tr><td>Chiều ngang</td><td>40m</td><td>Số lầu</td><td>---</td><td>Chổ để xe hơi</td><td>---</td></tr><tr><td>Chiều dài</td><td>39m</td><td>Số phòng ngủ</td><td>---</td><td>Chính chủ</td><td>---</td></tr></table></div></div><div class='image-tab'><span class='view-image selected'>Hình ảnh</span></div><div class='images'><div class='imageview'><img id='limage' alt='Hàng Hot đất thổ cư phân lô bán nền DT 1453 m2 đối diện chợ P25 Ung Văn Khiêm giá 65tr/m2' src='/files/properties/2019/3/23/images/20190323_031428_4156865_0.jpg' onclick='showImage(this.src)'/></div><div class='image-list'><span><img class='limage' alt='Hàng Hot đất thổ cư phân lô bán nền DT 1453 m2 đối diện chợ P25 Ung Văn Khiêm giá 65tr/m2 - 0' src='/files/properties/2019/3/23/images/20190323_031428_4156865_0.jpg' onclick='showImage(this.src)'/></span><span><img class='limage' alt='Hàng Hot đất thổ cư phân lô bán nền DT 1453 m2 đối diện chợ P25 Ung Văn Khiêm giá 65tr/m2 - 1' src='/files/properties/2019/3/23/images/20190323_031428_4156865_1.jpg' onclick='showImage(this.src)'/></span><span><img class='limage' alt='Hàng Hot đất thổ cư phân lô bán nền DT 1453 m2 đối diện chợ P25 Ung Văn Khiêm giá 65tr/m2 - 2' src='/files/properties/2019/3/23/images/20190323_031428_4156865_2.jpg' onclick='showImage(this.src)'/></span><span><img class='limage' alt='Hàng Hot đất thổ cư phân lô bán nền DT 1453 m2 đối diện chợ P25 Ung Văn Khiêm giá 65tr/m2 - 3' src='/files/properties/2019/3/23/images/20190323_031428_4156865_3.jpg' onclick='showImage(this.src)'/></span><span><img class='limage' alt='Hàng Hot đất thổ cư phân lô bán nền DT 1453 m2 đối diện chợ P25 Ung Văn Khiêm giá 65tr/m2 - 4' src='/files/properties/2019/3/23/images/20190323_031428_4156865_4.jpg' onclick='showImage(this.src)'/></span><span><img class='limage' alt='Hàng Hot đất thổ cư phân lô bán nền DT 1453 m2 đối diện chợ P25 Ung Văn Khiêm giá 65tr/m2 - 5' src='/files/properties/2019/3/23/images/20190323_031428_4156865_5.jpg' onclick='showImage(this.src)'/></span></div></div>
-                <div class='contact'>                    
-                    <div class='contact-info'>
-                        <div class='title'>Thông tin liên hệ</div>
-                        <div class='content'>
-                            <div class='name'>Nguyễn Tuấn Vũ</div>
-                            <div class='fone'><a href='tel:0901386848'>0901.386.848</a> / <a href='tel:0356189288'>0356.189.288</a></div>                            
-                            <div class='introduce'>Nhận ký gửi Mua - Bán - Cho thuê nhà phố, biệt thự, đất nền, nhà xưởng, mặt bằng, căn hộ...chính chủ tại khu vực TPHCM
-Liên hệ ký gửi 0901386848</div>
-                            
-                    <div class='review-box'>
-                        <span class='review-score'>Được đánh giá:</span>
-                        <span class='review-star'>
-                            <span class='rate' style='width:60%;'></span>
-                        </span>
-                    </div>
-                            <div class='view-more'><a href='/nha-moi-gioi/434296.html'>Xem thêm 10 tin khác của thành viên này</a></div>
-                        </div>
-                    </div>
-                </div><div class='utility'><span class='save' tabindex='0'>Lưu tin</span></div><input type='hidden' id='hddPropertyType' value='1'/><input type='hidden' id='hddPropertyId' value='4156865'/><input type='hidden' id='hddNguoiDang' value='434296' user='0'/>	
-				<div class='reflect-form'>
-    <div class='loading'></div>
-    <div class='title'>Phản ánh tin rao vi phạm</div>
-    <div class='notice'>Thông tin phản ánh của Quý khách giúp chúng tôi sàn lọc thông tin tốt hơn và loại trừ các nhà môi giới không trung thực. Xin trân trọng cám ơn.</div>
-    <div class='content'>
-        <div class='reason'>
-            <div><input type="radio" class='reason-item' name='reason' value="1" /> <span>Tài sản đã bán/cho thuê</span></div>
-            <div><input type="radio" class='reason-item' name='reason' value="2" /> <span>Tin không có thật</span></div>
-            <div><input type="radio" class='reason-item' name='reason' value="3" /> <span>Nội dung không đúng với thực tế</span></div>
-            <div><input type="radio" class='reason-item' name='reason' value="4" /> <span>Giá không đúng</span></div>
-            <div><input type="radio" class='reason-item' name='reason' value="5" /> <span>Không liên lạc được</span></div>
-            <div><input type="radio" class='reason-item' name='reason' value="6" /> <span>Địa chỉ bất động sản không đúng</span></div>  
-            <div class='clear'></div>
-        </div>
-        <div class='other-reason'>
-            <input type="radio" class='reason-item' name='reason' value="10" /><span>Lý do khác:</span><br />
-            <textarea class='txtcontent' placeholder='Nội dung phản ánh' maxlength='240'></textarea>    
-        </div> 
-        <div class='check-ignore'>
-            <input type="checkbox" class='chkdayignore'/><b class='bdayignore'>Tôi không muốn xem tin của người đăng này trong vòng:</b>
-            <select class='dayignore' name='dayignore' disabled='disabled' style='color:red; background:#eeeeee;'>
-                <option value='0'>Số ngày</option>
-                <option value='1'>1 ngày</option>
-                <option value='3'>3 ngày</option>
-                <option value='7'>7 ngày</option>
-                <option value='14'>14 ngày</option>
-                <option value='21'>21 ngày</option>
-                <option value='30'>30 ngày</option>
-                <option value='60'>60 ngày</option>
-                <option value='90'>90 ngày</option>
-                <option value='180'>180 ngày</option>
-                <option value='360'>360 ngày</option>
-            </select> <i>Tất cả các tin của thành viên này sẽ ẩn đi với bạn trong khoảng thời gian bạn đã chọn.</i>
-        </div>   
-        <div>
-            <font style='color:blue'>Mã an toàn</font>:<br /> 
-            <img class="captchagenerator" src="/CaptchaGenerator.ashx" align="left" width='90' height='30'>
-            <input name="captcha" type="text" id="captcha" class="captcha" style="height:26px; margin-left:5px; width:90px" maxlength="5"> 
-            <input class='btnSubmit' type="button" value="Gửi phản ánh" />
-        </div>
-    </div>
-</div>
-<div class='tags'><span>Có thể bạn muốn xem:</span> <a href='/nha-dat/can-ban/dat-tho-cu-dat-o/2/ho-chi-minh.html'>Bán đất Hồ Chí Minh</a><a href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/145/quan-binh-thanh.html'>Bán đất Quận Bình Thạnh</a><a href='/nha-dat/can-ban/dat-tho-cu-dat-o/phuong-25-quan-binh-thanh-px950.html'>Bán đất Phường 25</a><a href='/nha-dat/can-ban/dat-tho-cu-dat-o/duong-ung-van-khiem-quan-binh-thanh-dp2065.html'>Bán đất Đường Ung Văn Khiêm</a></div>											
-				<div class="notices">
-				    <h3>Lưu ý:</h3>
-				    <p>Các bạn đang xem tin đăng trong mục "<b>Mua bán đất, bán đất thổ cư, đất ở  Quận Bình Thạnh, Hồ Chí Minh</b>". Các thông tin rao vặt là do người đăng tin đăng tải toàn bộ thông tin. Chúng tôi hoàn toàn không chịu trách nhiệm về bất cứ thông tin nào liên qua đến các thông tin này. Chúng tôi luôn cố gắng để đưa các tin tức nhanh và chính xác nhất cho các bạn.</p>
-				</div>				
-			</div><!--property-->		
-						
-			<div id="ctl00_content_random_vip_box" class="randomvip-box">		    
-				<div class="title">	
-					<h2>Bất động sản nổi bật</h2>
-				</div>
-				<div id="ctl00_content_randomvip" class="content"><div class='item '>
-			                        <div class='thumbnail'><a href='/can-ban-gap-lo-dat-mt-ung-van-khiem-p12-q-binh-thanh-shr-gia-1-2ti-75m2-xdtd-4182981.html'><img src='/files/properties/2019/3/28/thumbnails/20190328_075517_4182981_0.jpg' alt='Cần bán gấp lô đất MT Ung Văn Khiêm, P12, Q. Bình Thạnh, SHR, giá 1.2TI/75m2,XDTD'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/can-ban-gap-lo-dat-mt-ung-van-khiem-p12-q-binh-thanh-shr-gia-1-2ti-75m2-xdtd-4182981.html'>Cần bán gấp lô đất MT Ung Văn Khiêm, P12, Q. Bình Thạnh, SHR, giá 1.2TI/75m2,XDTD</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 1,2 tỷ </div>
-			                                <div class='ct_dt'><label>DT:</label> 75 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 8m'>8m</span></div>
-                                </div><div class='item extracolor'>
-			                        <div class='thumbnail'><a href='/dat-quan-9-khu-do-thi-sala-moi-dau-tu-an-cu-hoan-hao-csht-so-1-viet-nam-4180622.html'><img src='/files/properties/2019/3/28/thumbnails/20190328_014609_4180622_0.jpg' alt='ĐẤT QUẬN 9 – Khu Đô Thị Sala Mới - Đầu tư, an cư hoàn hảo – CSHT SỐ 1 VIỆT NAM'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/dat-quan-9-khu-do-thi-sala-moi-dau-tu-an-cu-hoan-hao-csht-so-1-viet-nam-4180622.html'>ĐẤT QUẬN 9 – Khu Đô Thị Sala Mới - Đầu tư, an cư hoàn hảo – CSHT SỐ 1 VIỆT NAM</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 630 triệu </div>
-			                                <div class='ct_dt'><label>DT:</label> 100 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 60m'>60m</span></div>
-                                </div><div class='item extracolor'>
-			                        <div class='thumbnail'><a href='/ban-500m-co-60m-tho-cu-dat-nen-biet-thu-nghi-duong-850-trieu-shr-4183966.html'><img src='/files/properties/2019/3/29/thumbnails/20190329_082325_4183966_0.jpg' alt='Bán 500m có 60m thổ cư đất nền biệt thự nghỉ dưỡng 850 triệu SHR'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/ban-500m-co-60m-tho-cu-dat-nen-biet-thu-nghi-duong-850-trieu-shr-4183966.html'>Bán 500m có 60m thổ cư đất nền biệt thự nghỉ dưỡng 850 triệu SHR</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 1,5 triệu /&nbsp;m<sup>2</sup>&nbsp;&nbsp;</div>
-			                                <div class='ct_dt'><label>DT:</label> 500 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 12m'>12m</span></div>
-                                </div><div class='item '>
-			                        <div class='thumbnail'><a href='/toi-chinh-chu-can-ban-gap-lo-dat-duong-ba-hom-co-so-4180008.html'><img src='/files/properties/2019/3/28/thumbnails/20190328_112520_4180008_0.jpg' alt='TÔI CHÍNH CHỦ CẦN BÁN GẤP LÔ ĐẤT ĐƯỜNG BÀ HOM,CÓ SỔ'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/toi-chinh-chu-can-ban-gap-lo-dat-duong-ba-hom-co-so-4180008.html'>TÔI CHÍNH CHỦ CẦN BÁN GẤP LÔ ĐẤT ĐƯỜNG BÀ HOM,CÓ SỔ</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 960 triệu </div>
-			                                <div class='ct_dt'><label>DT:</label> 65 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 8m'>8m</span></div>
-                                </div><div class='item '>
-			                        <div class='thumbnail'><a href='/1-ty-2-dinh-cu-nuoc-ngoai-ban-lo-dat-binh-quoi-84m2-so-hong-rieng--4184344.html'><img src='/files/properties/2019/3/29/thumbnails/20190329_085414_4184344_0.jpg' alt='1 tỷ 2 Định cư nước ngoài bán lô đất Bình Quới 84m2.Sổ hồng riêng.'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/1-ty-2-dinh-cu-nuoc-ngoai-ban-lo-dat-binh-quoi-84m2-so-hong-rieng--4184344.html'>1 tỷ 2 Định cư nước ngoài bán lô đất Bình Quới 84m2.Sổ hồng riêng.</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 1,2 tỷ </div>
-			                                <div class='ct_dt'><label>DT:</label> 84 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 10m'>10m</span></div>
-                                </div><div class='item extracolor'>
-			                        <div class='thumbnail'><a href='/ban-dat-4x20-shcc-2018-hxt-thong-2-dau-47-2-bui-dinh-tuy-p24-4013101.html'><img src='/files/properties/2019/2/21/thumbnails/20190221_084420_4013101_0.jpg' alt='Bán Đất 4x20-SHCC 2018- HXT Thông 2 đầu- 47/2 Bùi Đình Túy-P24'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/ban-dat-4x20-shcc-2018-hxt-thong-2-dau-47-2-bui-dinh-tuy-p24-4013101.html'>Bán Đất 4x20-SHCC 2018- HXT Thông 2 đầu- 47/2 Bùi Đình Túy-P24</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 7,3 tỷ </div>
-			                                <div class='ct_dt'><label>DT:</label> 74 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 6m'>6m</span></div>
-                                </div><div class='item extracolor'>
-			                        <div class='thumbnail'><a href='/can-ban-lo-dat-chinh-chu-88m2-hem-7m-duong-truc-30-binh-thanh-3467538.html'><img src='/files/properties/2018/9/14/thumbnails/20180914_093911_3467538_0.jpg' alt='Cần bán lô đất chính chủ 77m2 hẻm 7m Đường Trục 30 Bình Thạnh'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/can-ban-lo-dat-chinh-chu-88m2-hem-7m-duong-truc-30-binh-thanh-3467538.html'>Cần bán lô đất chính chủ 77m2 hẻm 7m Đường Trục 30 Bình Thạnh</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 1,5 tỷ </div>
-			                                <div class='ct_dt'><label>DT:</label> 77 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 22m'>22m</span></div>
-                                </div><div class='item '>
-			                        <div class='thumbnail'><a href='/ban-dat-5-1x21-hxt-thong-8m-170-bui-dinh-tuy-ngay-ubnd-phuong-12-4017953.html'><img src='/files/properties/2019/2/22/thumbnails/20190222_092516_4017953_0.jpg' alt='BÁN ĐẤT 5.1x21- HXT Thông 8M -170 BÙI ĐÌNH TÚY NGAY UBND Phường 12'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/ban-dat-5-1x21-hxt-thong-8m-170-bui-dinh-tuy-ngay-ubnd-phuong-12-4017953.html'>BÁN ĐẤT 5.1x21- HXT Thông 8M -170 BÙI ĐÌNH TÚY NGAY UBND Phường 12</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 10,25 tỷ </div>
-			                                <div class='ct_dt'><label>DT:</label> 106 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 8m'>8m</span></div>
-                                </div><div class='item '>
-			                        <div class='thumbnail'><a href='/dat-lo-goc-2-mat-tien-duong-pham-van-dong-dt-13x13-4028089.html'><img src='/files/properties/2019/2/25/thumbnails/20190225_112114_4028089_0.jpg' alt='Nhà đất lô góc 2 mặt tiền Đường Phạm Văn Đồng, DT: 13x13'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/dat-lo-goc-2-mat-tien-duong-pham-van-dong-dt-13x13-4028089.html'>Nhà đất lô góc 2 mặt tiền Đường Phạm Văn Đồng, DT: 13x13</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 21 tỷ </div>
-			                                <div class='ct_dt'><label>DT:</label> 169 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 60m'>60m</span></div>
-                                </div><div class='item extracolor'>
-			                        <div class='thumbnail'><a href='/gap-ban-gap-lo-dat-ngay-binh-thanh-gia-cuc-ki-uu-dai-3846759.html'><img src='/files/properties/2018/12/14/thumbnails/20181214_082949_3846759_2.jpg' alt='GẤP!!! BÁN GẤP LÔ ĐẤT NGAY BÌNH THẠNH GIÁ CỰC KÌ ƯU ĐÃI'></a></div>
-			                        <div class='text'>
-			                            <div class='ct_title'><a href='/gap-ban-gap-lo-dat-ngay-binh-thanh-gia-cuc-ki-uu-dai-3846759.html'>GẤP!!! BÁN GẤP LÔ ĐẤT NGAY BÌNH THẠNH GIÁ CỰC KÌ ƯU ĐÃI</a></div>					           
-			                            <div>
-			                                <div class='ct_price'><label>Giá:</label> 900 triệu </div>
-			                                <div class='ct_dt'><label>DT:</label> 100 m<sup>2</sup></div>
-		                                    <div class='clear'></div>
-		                                </div>			                    
-	                                    <div class='ct_dis'>Quận Bình Thạnh</div>				               
-		                            </div>
-                                    <div class='characteristics'><span class='road-width' title='Đường trước nhà 12m'>12m</span></div>
-                                </div><div class='clear'></div></div>						
-			</div>	
+		<!-- Twitter Card data -->
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:site" content="@washinengine">
+		<meta name="twitter:title" content=" Asia Plus Inc | Phát triển hệ thống | Vtown">
+		<meta name="twitter:description" content="Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications. ...">
+		<meta name="twitter:creator" content="@washinengine">
+		<meta name="twitter:image" content="http://vtown.vn/uploads/company/2806/thumbnail/unnamed%20%281%29.jpg">
 			
-			<div class="relative-property">
-				<div><div id="ctl00_content_relative_property_title" class="content-header"><h2>Cần bán Đất thổ cư, đất ở tại Quận Bình Thạnh</h2></div></div>
-				<div id="ctl00_content_relative_property_content" class="content-items"><div class='content-item'><div><div class='ct_title'><a href='/dat-5600m2-duong-binh-quoi-thanh-da-q-binh-thanh-gia-dau-tu-dt-5600m2-tho-cu-160-4009048.html'>Đất 5600m2 Đường Bình Quới - Thanh Đa Q.Bình Thạnh Giá Đầu Tư + Dt: 5600m2  + Thổ cư: 160</a></div><div class='ct_date'>Hôm qua</div><div class='clear'></div></div><div class='thumbnail'><a href='/dat-5600m2-duong-binh-quoi-thanh-da-q-binh-thanh-gia-dau-tu-dt-5600m2-tho-cu-160-4009048.html'/><img src='/files/properties/2019/2/20/thumbnails/20190220_093004_4009048_0.jpg' alt='Đất 5600m2 Đường Bình Quới - Thanh Đa Q.Bình Thạnh Giá Đầu Tư + Dt: 5600m2  + Thổ cư: 160'/></a></div><div class='text'><div class='characteristics'><span class='road-width' title='Đường trước nhà 0m'>0m</span></div><div class='square-direct'><div class='ct_kt'><label>KT:</label> ---</div><div class='ct_dt'><label>Diện tích:</label> 5.600 m<sup>2</sup></div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 16 triệu /&nbsp;m<sup>2</sup>&nbsp;&nbsp;</div><div class='ct_dis'><a href='/nha-dat/can-ban/dat-tho-cu-dat-o/duong-binh-quoi-quan-binh-thanh-dp2006.html'>Đường Bình Quới</a>, <a href='/nha-dat/can-ban/dat-tho-cu-dat-o/phuong-22-quan-binh-thanh-px948.html'>Phường 22</a>, Quận Bình Thạnh, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-dat-279-dien-bien-phu-da-co-ho-so-thiet-ke-2-ham-12-lau-van-phong-3906628.html'>Bán đất 279 Điện Biên Phủ đã có hồ sơ thiết kế 2 hầm 12 lầu văn phòng</a></div><div class='ct_date'>19/03/2019</div><div class='clear'></div></div><div class='thumbnail'><a href='/ban-dat-279-dien-bien-phu-da-co-ho-so-thiet-ke-2-ham-12-lau-van-phong-3906628.html'/><img src='/files/properties/thumbnails/default.jpg' alt='Bán đất 279 Điện Biên Phủ đã có hồ sơ thiết kế 2 hầm 12 lầu văn phòng'/></a></div><div class='text'><div class='characteristics'><span class='road-width' title='Đường trước nhà 15m'>15m</span></div><div class='square-direct'><div class='ct_kt'><label>KT:</label> ---</div><div class='ct_dt'><label>Diện tích:</label> 474 m<sup>2</sup></div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 84 tỷ </div><div class='ct_dis'><a href='/nha-dat/can-ban/dat-tho-cu-dat-o/duong-dien-bien-phu-quan-binh-thanh-dp2071.html'>Đường Điện Biên Phủ</a>, <a href='/nha-dat/can-ban/dat-tho-cu-dat-o/phuong-15-quan-binh-thanh-px943.html'>Phường 15</a>, Quận Bình Thạnh, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-dat-duong-ung-van-khiem-p25-binh-thanh-51x40-m-gia-120-ty-ms27-3529645.html'>Bán đất đường Ung Văn Khiêm, P25 Bình Thạnh, (51x40)m, Giá 115 tỷ, - MS27</a></div><div class='ct_date'>Hôm nay</div><div class='clear'></div></div><div class='thumbnail'><a href='/ban-dat-duong-ung-van-khiem-p25-binh-thanh-51x40-m-gia-120-ty-ms27-3529645.html'/><img src='/files/properties/2018/9/29/thumbnails/20180929_091822_3529645_0.jpg' alt='Bán đất đường Ung Văn Khiêm, P25 Bình Thạnh, (51x40)m, Giá 115 tỷ, - MS27'/></a></div><div class='text'><div class='characteristics'><span class='road-width' title='Đường trước nhà 7m'>7m</span></div><div class='square-direct'><div class='ct_kt'><label>KT:</label> 51x40m</div><div class='ct_dt'><label>Diện tích:</label> 1.435 m<sup>2</sup></div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 115 tỷ </div><div class='ct_dis'><a href='/nha-dat/can-ban/dat-tho-cu-dat-o/duong-ung-van-khiem-quan-binh-thanh-dp2065.html'>Đường Ung Văn Khiêm</a>, <a href='/nha-dat/can-ban/dat-tho-cu-dat-o/phuong-25-quan-binh-thanh-px950.html'>Phường 25</a>, Quận Bình Thạnh, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='content-item'><div><div class='ct_title'><a href='/ban-nha-3-mat-tien-duong-le-quang-dinh-binh-thanh-vi-tri-cuc-dep-gia-re-3316852.html'>Bán nhà 3 mặt tiền đường Lê Quang Định- Bình Thạnh vị trí cực đẹp_giá rẻ</a></div><div class='ct_date'>22/02/2019</div><div class='clear'></div></div><div class='thumbnail'><a href='/ban-nha-3-mat-tien-duong-le-quang-dinh-binh-thanh-vi-tri-cuc-dep-gia-re-3316852.html'/><img src='/files/properties/2018/8/2/thumbnails/20180802_020033_3316852_0.jpg' alt='Bán nhà 3 mặt tiền đường Lê Quang Định- Bình Thạnh vị trí cực đẹp_giá rẻ'/></a></div><div class='text'><div class='characteristics'><span class='road-width' title='Đường trước nhà 20m'>20m</span></div><div class='square-direct'><div class='ct_kt'><label>KT:</label> 13x35m</div><div class='ct_dt'><label>Diện tích:</label> 515 m<sup>2</sup></div><div class='ct_direct'><label>Hướng:</label> _</div><div class='clear'></div></div><div class='price-dis'><div class='ct_price'><label>Giá:</label> 87,5 tỷ </div><div class='ct_dis'><a href='/nha-dat/can-ban/dat-tho-cu-dat-o/duong-le-quang-dinh-quan-binh-thanh-dp2022.html'>Đường Lê Quang Định</a>, <a href='/nha-dat/can-ban/dat-tho-cu-dat-o/phuong-12-quan-binh-thanh-px940.html'>Phường 12</a>, Quận Bình Thạnh, Hồ Chí Minh</div><div class='clear'></div></div></div><div class='clear'></div></div><div class='viewmore'><a href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/145/quan-binh-thanh.html'>Xem thêm các tin khác</a></div></div><!----end sale content----->		
-			</div>	
-		</div><!--left-->		
-		<div id="right">		
-	        <div class="search-box">				 
-    <div>
-	    <input type="text" class='location' placeholder='Nhập địa điểm cần tìm' />
-	    <div class='suggesstion'>
-	        <div class='title'>Gợi ý</div>
-	        <ul>
-	            <li>
-	            <span>
-	                Nhập tên đường/phố, phường/xã, quận/huyện, tỉnh/thành phố hoặc tên dự án. Ví dụ: 
-	                <br /><span style='color:#000000'>- Nguyễn Xí, Bình Thạnh</span> 
-	                <br /><span style='color:#000000'>- Láng Hạ, Đống Đa</span>
-	                <br /><span style='color:#000000'>- Vũng Tàu</span>		
-	                <br /><span style='color:#000000'>- Times City</span>	                
-	            </span>
-	            </li>
-	            <li><span>Phải chọn các gợi ý chúng tôi đề xuất bên dưới để kết quả chính xác</span></li>
-	            <li><span>Nếu không nhập địa điểm ở đây, Quý vị có thể chọn lựa khu vực bằng các ô phía dưới trong công cụ tìm kiếm này</span></li>
-	        </ul>
-	    </div>
-	</div>   	
-	<div class="demand-container">
-		<div class="text">Cần bán</div>
-		<div class="view">
-		    <div>
-			    <ul>
-				    <li name="1">Cần bán</li>
-				    <li name="2">Cho thuê</li>
-				    <li name="3">Cần mua</li>
-				    <li name="4">Cần thuê</li>
-			    </ul>
-			</div>
-			
-		</div>
-	</div>			
-	<div class="property-type-container multicolumns">
-		<div class="text">Nhà mặt tiền</div>
-		<div class="view">
-		    <span class="exit">Loại bất động sản</span>
-		    <div>
-			    <ul>
-			        <li name="nha">NHÀ</li>
-			        <li name="nha-mat-tien" style='text-indent:20px;'>Nhà mặt tiền</li>
-                    <li name="nha-trong-hem" style="text-indent:20px;">Nhà trong hẻm</li>
-                    <li name="biet-thu-nha-lien-ke">Biệt thự, nhà liền kề</li>
-                    <li name="can-ho-chung-cu">Căn hộ chung cư</li>	
-                    <li name="phong-tro-nha-tro">Phòng trọ, nhà trọ</li>			             
-                   
-                </ul>
-                 <ul>
-                    <li name="van-phong">Văn phòng</li>	
-                    <li name="kho-xuong">Kho, xưởng</li>
-                    <li name="nha-hang-khach-san">Nhà hàng, khách sạn</li>	
-                    <li name="shop-kiot-quan">Shop, kiot, quán</li>			                    				                    			                    
-                    <li name="trang-trai">Trang trại</li>				                    
-                 </ul>
-                 <ul>
-                    <li name="mat-bang">Mặt bằng</li>
-                    <li name="dat-tho-cu-dat-o" style="font-weight:bold">Đất thổ cư, đất ở</li>
-                    <li name="dat-nen-lien-ke-dat-du-an">Đất nền, liền kề, đất dự án</li>
-                    <li name="dat-nong-lam-nghiep">Đất nông, lâm nghiệp</li>
-                    <li name="cac-loai-khac">Các loại khác</li>
-			    </ul>
-			</div>
-										
-		</div>
-	</div>
-	<div class="province-container multicolumns">			
-		<div class="text" name="0">--- Tỉnh/Thành --</div>
-		<div class="view">	
-		    <span class="exit">Tỉnh/Thành</span>	
-		    <div>
-			    <ul>
-				    <h3>Miền Nam</h3>									
-				    <li name="2">Hồ Chí Minh</li>
-				    <li name="7">Bà Rịa-Vũng Tàu</li>								
-				    <li name="14">Bình Dương</li>			
-				    <li name="23">Đồng Nai</li>				
-				    <li name="5">Cần Thơ</li>				
-				    <li name="39">Long An</li>
-				    <li name="6">An Giang</li>	
-				    <li name="8">Bạc Liêu</li>									
-				    <li name="13">Bến Tre</li>									
-				    <li name="16">Bình Phước</li>								
-				    <li name="18">Cà Mau</li>										
-				    <li name="20">Đắk Lắk</li>								
-				    <li name="21">Đăk Nông</li>										
-				    <li name="24">Đồng Tháp</li>								
-				    <li name="25">Gia Lai</li>															
-				    <li name="29">Hậu Giang</li>								
-				    <li name="33">Kiên Giang</li>								
-				    <li name="34">Kon Tum</li>																
-				    <li name="36">Lâm Đồng</li>								
-				    <li name="51">Sóc Trăng</li>								
-				    <li name="53">Tây Ninh</li>								
-				    <li name="58">Tiền Giang</li>								
-				    <li name="59">Trà Vinh</li>								
-				    <li name="61">Vĩnh Long</li>	
-			    </ul>
-			    <ul>
-				    <h3>Miền Trung</h3>									
-				    <li name="15">Bình Định</li>																
-				    <li name="17">Bình Thuận</li>																								
-				    <li name="3">Đà Nẵng</li>								
-				    <li name="28">Hà Tĩnh</li>																
-				    <li name="57">Thừa Thiên-Huế</li>								
-				    <li name="32">Khánh Hòa</li>						
-				    <li name="41">Nghệ An</li>													
-				    <li name="43">Ninh Thuận</li>															
-				    <li name="45">Phú Yên</li>								
-				    <li name="46">Quảng Bình</li>								
-				    <li name="47">Quảng Nam</li>								
-				    <li name="48">Quảng Ngãi</li>								
-				    <li name="50">Quảng Trị</li>	
-			    </ul>
-			    <ul>
-				    <h3>Miền Bắc</h3>									
-				    <li name="1">Hà Nội</li>								
-				    <li name="11">Hải Dương</li>								
-				    <li name="4">Hải Phòng</li>																
-				    <li name="9">Bắc Kạn</li>								
-				    <li name="10">Bắc Giang</li>								
-				    <li name="12">Bắc Ninh</li>								
-				    <li name="19">Cao Bằng</li>														
-				    <li name="22">Điện Biên</li>								
-				    <li name="26">Hà Giang</li>								
-				    <li name="27">Hà Nam</li>								
-				    <li name="30">Hòa Bình</li>								
-				    <li name="31">Hưng Yên</li>								
-				    <li name="37">Lạng Sơn</li>								
-				    <li name="38">Lào Cai</li>
-				    <li name="35">Lai Châu</li>								
-				    <li name="40">Nam Định</li>								
-				    <li name="42">Ninh Bình</li>								
-				    <li name="44">Phú Thọ</li>								
-				    <li name="49">Quảng Ninh</li>															
-				    <li name="52">Sơn La</li>															
-				    <li name="54">Thái Bình</li>								
-				    <li name="55">Thái Nguyên</li>								
-				    <li name="56">Thanh Hóa</li>																
-				    <li name="60">Tuyên Quang</li>																
-				    <li name="62">Vĩnh Phúc</li>								
-				    <li name="63">Yên Bái</li>	
-			    </ul>
-			 </div>								
-				
-		</div>					
-	</div>	
-	<div class="district-container multicolumns">			
-		<div class="text" name="0">--- Quận/Huyện ---</div>
-		<div class="view">	
-		    <span class="exit">Quận/Huyện</span>	
-		    <div class="district">
-			    
-			</div>								
-			<div class="ajax-loading"></div>					
-				
-		</div>					
-	</div>	
-	<div class="price-container multicolumns">			
-		<div class="text" name="0">---------- Giá --------</div>
-		<div class="view">	
-		    <span class="exit">Mức giá</span>
-		    <div>
-		        <ul>							
-				    <li name="1">0 - 1 triệu</li>								
-				    <li name="2">1 - 3 triệu</li>			
-				    <li name="3">3 - 5 triệu</li>				
-				    <li name="4">5 - 10 triệu</li>				
-				    <li name="5">10 - 15 triệu</li>
-				    <li name="6">15 - 20 triệu</li>	
-				    <li name="7">20 - 30 triệu</li>	
-				    <li name="8">30 - 40 triệu</li>	
-				    <li name="9">40 - 60 triệu</li>																
-			    </ul>									
-			    <ul>
-				    <li name="10">60 - 80 triệu</li>	
-				    <li name="11">80 - 100 triệu</li>													
-				    <li name="12">100 - 300 triệu</li>
-				    <li name="13">300 - 500 triệu</li>								
-				    <li name="14">500 - 800 triệu</li>			
-				    <li name="15">800 - 1 tỷ</li>				
-				    <li name="16">1 - 2 tỷ</li>				
-				    <li name="17">2 - 3 tỷ</li>	
-				    <li name="18">3 - 4 tỷ</li>										
-			    </ul>	
-			    <ul>							
-				    <li name="19">4 - 6 tỷ</li>	
-				    <li name="20">6 - 8 tỷ</li>	
-				    <li name="21">8 - 10 tỷ</li>	
-				    <li name="22">10 - 15 tỷ</li>
-				    <li name="23">15 - 20 tỷ</li>	
-				    <li name="24">20 - 30 tỷ</li>	
-				    <li name="25">30 - 60 tỷ</li>
-				    <li name="26">Trên 60 tỷ</li>
-				    <li name="0"><b>Chọn tất cả</b></li>								
-			    </ul>		
-			</div>	
-		</div>					
-	</div>	
-	<div class="square-container multicolumns">			
-		<div class="text" name="0">----- Diện tích ---</div>
-		<div class="view">	
-		    <span class="exit">Diện tích</span>									
-			<div>
-			    <ul>							
-				    <li name="1">0 - 30m<sup>2</sup></li>
-				    <li name="2">30 - 50m<sup>2</sup></li>							
-				    <li name="3">50 - 70m<sup>2</sup></li>
-				    <li name="4">70 - 100m<sup>2</sup></li>
-				    <li name="5">100 - 150m<sup>2</sup></li>
-			    </ul>	
-			    <ul>							
-					
-				    <li name="6">150 - 200<sup>2</sup></li>	
-				    <li name="7">200 - 250m<sup>2</sup></li>
-				    <li name="8">250 - 300m<sup>2</sup></li>
-				    <li name="9">300 - 350m<sup>2</sup></li>	
-				    <li name="10">350 - 400m<sup>2</sup></li>						
-			    </ul>	
-			    <ul>									
-				    <li name="11">400 - 600m<sup>2</sup></li>
-				    <li name="12">600 - 800m<sup>2</sup></li>
-				    <li name="13">800 - 1000m<sup>2</sup></li>	
-				    <li name="14">Trên 1000m<sup>2</sup></li>
-				    <li name="0"><b>Chọn tất cả</b></li>						
-			    </ul>	
-			</div>				
-				
-		</div>					
-	</div>	
-	<div class="direct-container multicolumns">			
-		<div class="text" name="0">------ Hướng -----</div>
-		<div class="view">	
-		    <span class="exit">Hướng</span>		
-		    <div>
-			    <ul>														
-				    <li name="1">Đông</li>
-				    <li name="6">Đông Bắc</li>								
-				    <li name="5">Đông Nam</li>										
-			    </ul>
-			    <ul>
-			        <li name="2">Tây</li>
-			        <li name="8">Tây Bắc</li>				
-				    <li name="7">Tây Nam</li>							
-			    </ul>
-			    <ul>												
-				    <li name="3">Nam</li>
-				    <li name="4">Bắc</li>
-                    <li name="0"><b>Chọn tất cả</b></li>     																							
-			    </ul>	
-			</div>
-		</div>					
-	</div>			
-	<div class="button-search">Tìm nhanh</div>
-	<div class="advanced-search"><a href="/tim-kiem-nang-cao.html" rel="nofollow">Tìm kiếm nâng cao</a></div>						
-</div>
-			<div class="banner-center"></div>				
-			<div class="right-navigation-box">	
-			    <div id="ctl00_content_groupByProject" class="item groupbyproject">
-					<div class="title">	
-						<h2 id="ctl00_content_groupByPropertyProjectTitle">Bán đất thổ cư, đất ở tại các dự án ở Quận Bình Thạnh</h2>
-					</div>
-					<div id="ctl00_content_groupByPropertyProjectContent" class="content"><ul><li><a href='/can-ban-dat-tho-cu-dat-o/p604/hang-xanh.html' title='Ban dat Hang Xanh'>Bán đất <b>Hàng Xanh</b></a> (<span class='number'>1</span>)</li></ul></div>
-				</div>		    
-				<div class="item groupbydistrict">
-					<div class="title">	
-						<h2 id="ctl00_content_groupByPropertyDistrictTitle">Bán đất tại Hồ Chí Minh</h2>
-					</div>
-					<div id="ctl00_content_groupByPropertyDistrict" class="content"><ul><li><a title='Ban dat Quan 1' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/132/quan-1.html'>Bán đất <b>Quận 1</b></a></li><li><a title='Ban dat Quan 2' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/133/quan-2.html'>Bán đất <b>Quận 2</b></a></li><li><a title='Ban dat Quan 3' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/134/quan-3.html'>Bán đất <b>Quận 3</b></a></li><li><a title='Ban dat Quan 4' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/135/quan-4.html'>Bán đất <b>Quận 4</b></a></li><li><a title='Ban dat Quan 5' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/136/quan-5.html'>Bán đất <b>Quận 5</b></a></li><li><a title='Ban dat Quan 6' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/137/quan-6.html'>Bán đất <b>Quận 6</b></a></li><li><a title='Ban dat Quan 7' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/138/quan-7.html'>Bán đất <b>Quận 7</b></a></li><li><a title='Ban dat Quan 8' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/139/quan-8.html'>Bán đất <b>Quận 8</b></a></li><li><a title='Ban dat Quan 9' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/140/quan-9.html'>Bán đất <b>Quận 9</b></a></li><li><a title='Ban dat Quan 10' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/141/quan-10.html'>Bán đất <b>Quận 10</b></a></li><li><a title='Ban dat Quan 11' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/142/quan-11.html'>Bán đất <b>Quận 11</b></a></li><li><a title='Ban dat Quan 12' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/143/quan-12.html'>Bán đất <b>Quận 12</b></a></li><li><a title='Ban dat Quan Binh Tan' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/144/quan-binh-tan.html'>Bán đất <b>Quận Bình Tân</b></a></li><li><a title='Ban dat Quan Binh Thanh' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/145/quan-binh-thanh.html'>Bán đất <b>Quận Bình Thạnh</b></a></li><li><a title='Ban dat Quan Go Vap' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/146/quan-go-vap.html'>Bán đất <b>Quận Gò Vấp</b></a></li><li><a title='Ban dat Quan Phu Nhuan' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/147/quan-phu-nhuan.html'>Bán đất <b>Quận Phú Nhuận</b></a></li><li><a title='Ban dat Quan Tan Binh' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/148/quan-tan-binh.html'>Bán đất <b>Quận Tân Bình</b></a></li><li><a title='Ban dat Quan Tan Phu' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/149/quan-tan-phu.html'>Bán đất <b>Quận Tân Phú</b></a></li><li><a title='Ban dat Quan Thu Duc' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/150/quan-thu-duc.html'>Bán đất <b>Quận Thủ Đức</b></a></li><li><a title='Ban dat Huyen Binh Chanh' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/151/huyen-binh-chanh.html'>Bán đất <b>Huyện Bình Chánh</b></a></li><li><a title='Ban dat Huyen Can Gio' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/152/huyen-can-gio.html'>Bán đất <b>Huyện Cần Giờ</b></a></li><li><a title='Ban dat Huyen Cu Chi' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/153/huyen-cu-chi.html'>Bán đất <b>Huyện Củ Chi</b></a></li><li><a title='Ban dat Huyen Hoc Mon' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/154/huyen-hoc-mon.html'>Bán đất <b>Huyện Hóc Môn</b></a></li><li><a title='Ban dat Huyen Nha Be' href='/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/155/huyen-nha-be.html'>Bán đất <b>Huyện Nhà Bè</b></a></li></ul></div>
-				</div>						
-			</div>
-			<div class='hot-links'>
-    <div class="item">
-        <h4 class="title">Liên kết nổi bật</h4>
-        <ul>
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/3/da-nang.html" title='ban dat da nang'>Bán đất <b>Đà Nẵng</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/14/binh-duong.html" title='ban dat binh duong'>Bán đất <b>BÌNH DƯƠNG</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/133/quan-2.html" title='ban dat quan 2'>Bán đất <b>Quận 2</b></a></li>            
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/138/quan-7.html" title='ban dat quan 7'>Bán đất <b>Quận 7</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/140/quan-9.html" title='ban dat quan 9'>Bán đất <b>Quận 9</b></a></li>            
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/151/huyen-binh-chanh.html" title='ban dat binh chanh'>Bán đất <b>Bình Chánh</b></a></li>            
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/143/quan-12.html" title='ban dat quan 12'>Bán đất <b>Quận 12</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/144/quan-binh-tan.html" title='ban dat binh tan'>Bán đất <b>Bình Tân</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/ho-chi-minh/149/quan-tan-phu.html" title='ban dat tan phu'>Bán đất <b>Tân Phú</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/ho-chi-minh/150/quan-thu-duc.html" title='ban dat thu duc'>Bán đất <b>Thủ Đức</b></a></li>            
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/153/huyen-cu-chi.html" title='ban dat cu chi'>Bán đất <b>Củ Chi</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/ho-chi-minh/154/huyen-hoc-mon.html" title='ban dat hoc mon'>Bán đất <b>Hóc Môn</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/ho-chi-minh/155/huyen-nha-be.html" title='ban dat nha be'>Bán đất <b>Nhà Bè</b></a></li>            
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/da-nang/588/quan-lien-chieu.html" title='ban dat lieu chieu' class='colo2'>Bán đất <b>Liên Chiểu</b></a></li>                     
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/da-nang/584/quan-hai-chau.html" title='ban dat hai chau' class='colo2'>Bán đất <b>Hải Châu</b></a></li>            
-            <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/da-nang/586/quan-son-tra.html" title='ban dat son tra' class='colo2'>Bán đất <b>Sơn Trà</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/da-nang/587/quan-ngu-hanh-son.html" title='ban dat ngu hanh son' class='colo2'>Bán đất <b>Ngũ Hành Sơn</b></a></li>                   
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/594/huyen-ben-cat.html" title='ban dat ben cat'>Bán đất <b>Bến Cát</b></a></li>                   
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/593/thi-xa-di-an.html" title='ban dat di an'>Bán đất <b>Dĩ An</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/591/thi-xa-thu-dau-mot.html" title='ban dat thu dau mot'>Bán đất <b>Thủ Dầu Một</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/592/thi-xa-thuan-an.html" title='ban dat thuan an'>Bán đất <b>Thuận An</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/binh-duong/597/huyen-tan-uyen.html" title='ban dat tan uyen'>Bán đất <b>Tân Uyên</b></a></li>                                                                   
-            <li><a href="/nha-dat/can-ban/nha-mat-tien/ba-ria-vung-tau/174/thanh-pho-vung-tau.html" title='ban nha vung tau' class='colo2'>Bán nhà <b>Vũng Tàu</b></a></li>
-            <li><a href="/nha-dat/can-ban/nha-mat-tien/dong-nai/503/thanh-pho-bien-hoa.html" title='ban nha bien hoa' class='colo2'>Bán nhà <b>Biên Hòa</b></a></li>
-            <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an/dong-nai/507/huyen-long-thanh.html" title='ban dat long thanh'>Bán đất <b>Long Thành</b></a></li>
-            <li class='li-last'></li>
-            </ul>                    
-      </div>      
-</div>    				
-		</div><!--right-->		
-		<div class="clear"></div>		
-	</div>	 
-	
+		<!-- Open Graph data -->
+		<meta property="og:title" content=" Asia Plus Inc | Phát triển hệ thống | Vtown" />
+		<meta property="og:type" content="company" />
+		<meta property="og:url" content="http://vtown.vn/company/asia-plus-inc.html" />
+		<meta property="og:image" content="http://vtown.vn/uploads/company/2806/thumbnail/unnamed%20%281%29.jpg">
+		<meta property="og:description" content="Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications. ..." />
+		<meta property="og:site_name" content="Washin Engine Co.,Ltd" />
+		<meta property="fb:admins" content="196199953850222" />
+		
+        <link rel="icon" type="image"
+              href="/favicon.ico" />
 
-        </div>
-        <div id="ctl00_pc_footer">
-            <div class="house-bottom-navigation">
-    <ul>												
-        <li><a href="/nha-dat/can-ban/nha-dat/1/ha-noi.html">Nhà đất <b>Hà Nội</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/2/ho-chi-minh.html">Nhà đất <b>Hồ Chí Minh</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/3/da-nang.html">Nhà đất <b>Đà Nẵng</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/4/hai-phong.html">Nhà đất <b>Hải Phòng</b></a></li>																
-        <li><a href="/nha-dat/can-ban/nha-dat/5/can-tho.html">Nhà đất <b>Cần Thơ</b></a></li>				
-        <li><a href="/nha-dat/can-ban/nha-dat/6/an-giang.html">Nhà đất <b>An Giang</b></a></li>	
-        <li><a href="/nha-dat/can-ban/nha-dat/7/ba-ria-vung-tau.html">Nhà đất <b>Bà Rịa Vũng Tàu</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/8/bac-lieu.html">Nhà đất <b>Bạc Liêu</b></a></li>									
-        <li><a href="/nha-dat/can-ban/nha-dat/9/bac-can.html">Nhà đất <b>Bắc Cạn</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/10/bac-giang.html">Nhà đất <b>Bắc Giang</b></a></li>						
-        <li><a href="/nha-dat/can-ban/nha-dat/12/bac-ninh.html">Nhà đất <b>Bắc Ninh</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/13/ben-tre.html">Nhà đất <b>Bến Tre</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/14/binh-duong.html">Nhà đất <b>Bình Dương</b></a></li>			
-        <li><a href="/nha-dat/can-ban/nha-dat/15/binh-dinh.html">Nhà đất <b>Bình Định</b></a></li>																
-        <li><a href="/nha-dat/can-ban/nha-dat/16/binh-phuoc.html">Nhà đất <b>Bình Phước</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/17/binh-thuan.html">Nhà đất <b>Bình Thuận</b></a></li>																								
-        <li><a href="/nha-dat/can-ban/nha-dat/18/ca-mau.html">Nhà đất <b>Cà Mau</b></a></li>										
-        <li><a href="/nha-dat/can-ban/nha-dat/19/cao-bang.html">Nhà đất <b>Cao Bằng</b></a></li>														
-        <li><a href="/nha-dat/can-ban/nha-dat/20/dak-lak.html">Nhà đất <b>Đắk Lắk</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/21/dak-nong.html">Nhà đất <b>Đăk Nông</b></a></li>										
-        <li><a href="/nha-dat/can-ban/nha-dat/22/dien-bien.html">Nhà đất <b>Điện Biên</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/23/dong-nai.html">Nhà đất <b>Đồng Nai</b></a></li>				
-        <li><a href="/nha-dat/can-ban/nha-dat/24/dong-thap.html">Nhà đất <b>Đồng Tháp</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/25/gia-lai.html">Nhà đất <b>Gia Lai</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/26/ha-giang.html">Nhà đất <b>Hà Giang</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/27/ha-nam.html">Nhà đất <b>Hà Nam</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/28/ha-tinh.html">Nhà đất <b>Hà Tĩnh</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/11/hai-duong.html">Nhà đất <b>Hải Dương</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/29/hau-giang.html">Nhà đất <b>Hậu Giang</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/30/hoa-binh.html">Nhà đất <b>Hòa Bình</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/31/hung-yen.html">Nhà đất <b>Hưng Yên</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/32/khanh-hoa.html">Nhà đất <b>Khánh Hòa</b></a></li>						
-        <li><a href="/nha-dat/can-ban/nha-dat/33/kien-giang.html">Nhà đất <b>Kiên Giang</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/34/kon-tum.html">Nhà đất <b>Kon Tum</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/35/lai-chau.html">Nhà đất <b>Lai Châu</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/36/lam-dong.html">Nhà đất <b>Lâm Đồng</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/37/lang-son.html">Nhà đất <b>Lạng Sơn</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/38/lao-cai.html">Nhà đất <b>Lào Cai</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/39/long-an.html">Nhà đất <b>Long An</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/40/nam-dinh.html">Nhà đất <b>Nam Định</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/41/nghe-an.html">Nhà đất <b>Nghệ An</b></a></li>													
-        <li><a href="/nha-dat/can-ban/nha-dat/42/ninh-binh.html">Nhà đất <b>Ninh Bình</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/43/ninh-thuan.html">Nhà đất <b>Ninh Thuận</b></a></li>															
-        <li><a href="/nha-dat/can-ban/nha-dat/44/phu-tho.html">Nhà đất <b>Phú Thọ</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/45/phu-yen.html">Nhà đất <b>Phú Yên</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/46/quang-binh.html">Nhà đất <b>Quảng Bình</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/47/quang-nam.html">Nhà đất <b>Quảng Nam</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/48/quang-ngai.html">Nhà đất <b>Quảng Ngãi</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/49/quang-ninh.html">Nhà đất <b>Quảng Ninh</b></a></li>															
-        <li><a href="/nha-dat/can-ban/nha-dat/50/quang-tri.html">Nhà đất <b>Quảng Trị</b></a></li>	
-        <li><a href="/nha-dat/can-ban/nha-dat/51/soc-trang.html">Nhà đất <b>Sóc Trăng</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/52/son-la.html">Nhà đất <b>Sơn La</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/53/tay-ninh.html">Nhà đất <b>Tây Ninh</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/54/thai-binh.html">Nhà đất <b>Thái Bình</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/55/thai-nguyen.html">Nhà đất <b>Thái Nguyên</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/56/thanh-hoa.html">Nhà đất <b>Thanh Hóa</b></a></li>						
-        <li><a href="/nha-dat/can-ban/nha-dat/57/hue.html">Nhà đất <b>Huế</b></a></li>
-        <li><a href="/nha-dat/can-ban/nha-dat/58/tien-giang.html">Nhà đất <b>Tiền Giang</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/59/tra-vinh.html">Nhà đất <b>Trà Vinh</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/60/tuyen-quang.html">Nhà đất <b>Tuyên Quang</b></a></li>																
-        <li><a href="/nha-dat/can-ban/nha-dat/61/ving-long.html">Nhà đất <b>Vĩnh Long</b></a></li>					
-        <li><a href="/nha-dat/can-ban/nha-dat/62/vinh-phuc.html">Nhà đất <b>Vĩnh Phúc</b></a></li>								
-        <li><a href="/nha-dat/can-ban/nha-dat/63/yen-bai.html">Nhà đất <b>Yên Bái</b></a></li>						
-   </ul>
-</div>	
-            <div class="footer">
-		        <div class="fcolumleft">
-                    <ul>
-                        <div><a href="/nha-dat/can-ban.html">NHÀ ĐẤT BÁN</a></div>
-                        <li><a href="/nha-dat/can-ban/nha-trong-hem.html">Nhà bán</a></li>
-				        <li><a href="/nha-dat/can-ban/biet-thu-nha-lien-ke.html">Biệt thự bán</a></li>
-                        <li><a href="/nha-dat/can-ban/can-ho-chung-cu.html">Căn hộ bán</a></li>
-				        <li><a href="/nha-dat/can-ban/nha-hang-khach-san.html">Nhà hàng bán</a></li> 				
-				        <li><a href="/nha-dat/can-ban/dat-nen-lien-ke-dat-du-an.html">Đất nền bán</a></li> 
-                    </ul>
-			        <ul>
-                        <div><a href="/nha-dat/cho-thue.html">NHÀ ĐẤT CHO THUÊ</a></div>
-                        <li><a href="/nha-dat/cho-thue/nha-trong-hem.html">Nhà cho thuê</a></li>				
-				        <li><a href="/nha-dat/cho-thue/van-phong.html">Văn phòng cho thuê</a></li>
-                        <li><a href="/nha-dat/cho-thue/phong-tro-nha-tro.html">Phòng trọ cho thuê</a></li>				    
-                        <li><a href="/nha-dat/cho-thue/can-ho-chung-cu.html">Căn hộ cho thuê</a></li>
-                        <li><a href="/nha-dat/cho-thue/kho-xuong.html">Cho thuê kho, xưởng</a></li>
-                    </ul>
-    			    
-                    <ul>
-                        <div><a href="#" rel="nofollow">LIÊN KẾT</a></div>   				     								        
-				        <li><a href="/nha-dat/can-ban/dat-tho-cu-dat-o/14/binh-duong.html" target="_blank" title="ban dat binh duong">ban dat binh duong</a></li> 	 				
-				        <li><a target="_blank" href="http://www.bietthuvinhomesriverside.biz" title="biệt thự vinhomes riverside">biệt thự vinhomes riverside</a></li>
-				        <li><a href="/" target="_blank" title="Alonhadat.com.vn">Alonhadat.com.vn</a></li>
-				        <li style='display:none'><a href="/publish/DanhMucMoi.aspx">Danh mục mới</a></li> 
-                    </ul>
+        <link
+            href='http://fonts.googleapis.com/css?family=Economica:700,400italic'
+            rel='stylesheet' type='text/css' />
+        <link href='/css/company.css'  rel='stylesheet' type='text/css' />
+
+        <!-- end js and css of slide-service -->
+        <link rel="contents" href="/" title="Home" />
+
+			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37474470-1', 'vtown.vn');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+    </head>
+    <body class="clearfix"><script type="text/javascript">
+/*<![CDATA[*/
+var curLang = 'vi';
+var baseUrl = '/';
+var uploadDir = 'uploads';
+/*]]>*/
+</script>
+
+        <div class="header-vt">
+            <div class="wrap-header-vt clearfix">
+                <div class="h-left clearfix">
+					<a href="/"><img src="http://vtown.vn/images/vtown.png" alt=" Asia Plus Inc | Phát triển hệ thống | Vtown"/> </a>					<p class='slogan slogan-vi'>Cổng thông tin hiệu quả cho Doanh Nghiệp mới tại Việt Nam</p>					
+                </div><!-- end h-left -->
+                
+                <div class="h-right">
+					<div class="h-right-top clearfix">
+						<a class="btn-login-header" href="/login.html"><span>Đăng nhập</span></a><a class="btn-register-now" href="/register.html"><span>Đăng ký ngay</span></a>
+						<!-- <a	title='' href="" class="email-info"><img
+                        	src="/images/email-vtown.png"
+                        	alt="email" /></a> -->
+					</div><!-- end h-right-top -->
                     
-                    <ul>
-                        <div>ALO NHÀ ĐẤT</div>
-                        <li><a href="/" title='Mua bán nhà đất'><strong>Mua bán nhà đất</strong></a></li>                    
-                        <li><a href="/huong-dan/quy-dinh-su-dung">Quy định sử dụng</a></li>
-                        <li><a href="/huong-dan/quy-che-hoat-dong">Quy chế hoạt động</a></li> 
-                        <li><a href="/huong-dan/chinh-sach-bao-ve-thong-tin-khach-hang">Bảo mật thông tin</a></li> 
-                        <li><a href="/huong-dan/huong-dan" >Bảng giá</a></li>                                       
-                    </ul>
-                </div>	
-		        <div class="fcolumright">
-			        <div class="top">
-			            <div class="support">
-			                <div class="title">Hỗ trợ khách hàng</div>
-			                <div class="phone">(0254) 3890 425</div>
-			                <div class="phone">0976 804 401</div>
-    				        <div class="phone">0937 912 433</div>
-    				    </div>
-			        </div>
-			        <div class="bottom">
-				        <ul>     				          
-					        <li>Email liên hệ: contact@alonhadat.com.vn</li>
-					        <li>Copyright © 2013 - 2018 Alonhadat.com.vn. All rights reserved.</li>
-				        </ul>
-			        </div>    			
-		        </div >    			
-		        <div class="clear"></div>		
-		        <div class='line'></div>
-		        <div class='about'>		        
-		            <div style='font-weight:bold'>CÔNG TY TNHH DỊCH VỤ THƯƠNG MẠI ĐIỆN TỬ TRẦN GIA</div>		        
-		            <div>Khu phố 4, Phường Hắc Dịch, Thị xã Phú Mỹ, Tỉnh Bà Rịa Vũng Tàu.</div>	
-		            <div>Địện thoại: (0254) 3890 425 | Email: contact@alonhadat.com.vn</div>		 
-		            <div>® Alonhadat.com.vn giữ bản quyền website này. Việc sao chép một phần hoặc toàn bộ mà không được sử đồng ý bằng văn bản là vi phạm pháp luật.</div>       
-		        </div>		
-		        <div style="position: absolute;bottom: 40px;right: 20px;">
-		            <a rel='nofollow' target="_blank" href="http://online.gov.vn/HomePage/WebsiteDisplay.aspx?DocId=8079">
-		                <img style="width: 100px;" src="/publish/img/bo-cong-thuong.jpg" />
-		            </a>
-		        </div>
-	        </div><!--end footer -->	
-	        <a href='javascript:void(0)' title='Lên đầu trang' id="to_top" style='position:fixed; right:10px; bottom:20px; z-index:10; display:none; text-align:center; text-decoration:none'><img src="/publish/img/gotop.png" alt="" width="50" /><br />Lên đầu trang</a>    	    
-	    </div>
-	    
-	    <div class='guest-config'>
-	        <div class='head'></div>
-	    </div>
-    </div><!--wrapper-->    
+                    <div class="box-search clearfix">
+												<form class="frm-search" action="/search/index" id="cse-search-box"> 
+							<input type="hidden" name="cx" value="partner-pub-004374728724334812321:8yc6diiep30" /> 
+							<input type="hidden" name="cof" value="FORID:10" /> 
+							<input type="hidden" name="ie" value="ISO-8859-1" /> 
+							<input type="text" name="q"  /> 
+							<button class="btn-search-h" type="submit" name="sa" ><!-- <span></span> --></button>
+							<!-- <a href="#" class="btn-search-h"><span></span></a> -->
+						</form>
+						<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=vi"></script> 
+						
+                        <div class="box-languages">
+						<ul class="clearfix">								
+							<li class="lang-ja"><a title="日本語" href="/ja/company/asia-plus-inc.html">日本語</a></li> 				
+														
+							<li><a title="English" href="/en/company/asia-plus-inc.html">English</a></li>
+						</ul>					<!-- end box-languages -->
+					</div>
+                    </div><!-- endbox-search -->
+                </div><!-- end h-right -->
+                
+            </div><!-- end wrap-header-vt -->
+        </div><!-- end header-vt -->
+        
+        <div class="section-button-vtown-left">
+        	<ul class="clearfix">
+									<li class="login"><a href="/login.html"><img src="http://vtown.vn/images/sect-btn-login.png" alt="Login" /></a></li>
+					<li class="register"><a href="/register.html"><img src="http://vtown.vn/images/sect-btn-register.png" alt="Register" /></a></li>
+				      		
+        		<li class="email"><a href="/contactus.html"><img src="http://vtown.vn/images/sect-btn-email.png" alt="info@vtown.vn" /></a></li>
+        	</ul>
+        </div><!-- end section-button-vtown-left -->
+        
+		<!--begin menu-->
+		<div class="menu-top">
+			<div class="wrap-menu-top">
+				<ul class="content-menu clearfix content-menu-vi">
+					<li class='mn-support-company'><a href="#" >Tìm công ty</a>
+						<ul>
+							<li><a href="/category1.html">Hỗ trợ</a></li>
+							<li><a href="/category3.html">Công nghệ</a></li>
+							<li><a href="/category4.html">Marketing</a></li>
+							<li><a href="/category2.html">Tư vấn thành lập DN</a></li>
+							<li><a href="/category5.html">Gia công</a></li>
+							<li><a href="/category7.html">Sản xuất</a></li>
+							<li><a href="/category6.html">Tài chính- ngân hàng</a></li>
+							<li><a href="/category8.html">Xây dựng</a></li>
+							<li><a href="/category9.html">Hàng tiêu dùng</a></li>
+							<li><a href="/category10.html">May mặc</a></li>
+							<li><a href="/category11.html">Giao thông- vận chuyển</a></li>
+							<li><a href="/category12.html">Khách sạn- nhà hàng</a></li>
+							<li><a href="/category13.html">Chăm sóc sức khỏe</a></li>
+							<li><a href="/category14.html">Bán sỉ- lẻ</a></li>
+							<li><a href="/category15.html">Bất động sản</a></li>
+							<li><a href="/category16.html">Khác</a></li>
+						</ul>
+						</li>
+					<li class='mn-new-comer'><a href="/how-to-post-on-vtown.html" >Hướng dẫn</a>
+					</li>
+					<li class='mn-not-fail'><a href="/articles.html" >Kinh nghiệm</a>
+					</li>
+					<li class='mn-experience-story'><a href="/interview.html" >Câu chuyện thực tế</a>
+					</li>
+					<li class='mn-faq'><a href="/faq.html" >Câu hỏi thường gặp</a>
+					</li>
+				</ul>
+			</div>
+			<!-- end wrap-menu-top -->
+		</div>
+		<!-- end menu-top -->
+		<div class='main-content' id='main-content'>
+		<div class="adZoneRight" id='adZoneRight'>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- vtown_rightside -->
+<ins class="adsbygoogle" 
+		 style="display:inline-block;width:160px;height:600px" 
+		 data-ad-client="ca-pub-6565792379238507" 
+		 data-ad-slot="7092361677"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div><script>
+	/*
+    if ($("#adZoneRight").length) {
+    $(window).resize(function() {
+        fixZoom();
+    });
     
-<div class="banner banner-left"></div>  
-<div class="banner banner-right"></div>    
-<!-------- login- form------------------>
-<div id="register-form" class="register-form"></div><!--register-->
-<div id="login-form" class="login-form">
-    <div class="loading"></div>
-    <div class="title">Đăng nhập<span class='exit' onclick="closeForm('login-form')"></span></div>				
-    <div class='input-form'>
-        <div class="row message"></div>
-        <div class='row'>
-	        <div class='col1'>
-		        Tên truy cập
-	        </div>
-	        <div class='col2'>
-		        <input id="account" type="text"  maxlength="50"/>						
-	        </div>	
-	        <div class='clear'></div>					
-        </div>
-        <div class='row'>
-	        <div class='col1'>
-		        Mật khẩu
-	        </div>
-	        <div class='col2'>
-		        <input id="password"  type="password"  maxlength="50"/>	
-		        <input id="remember"  type="checkbox"/> Duy trì đăng nhập					
-	        </div>	
-	        <div class='clear'></div>		        				
-        </div>
-        <div class='row'>
-            <div class='col1'></div>
-            <div class='col2'>
-                <span class="show-recover-form" onclick="closeForm('login-form');ShowRecoverForm()">Quên mật khẩu ?</span> 
-                <span class="show-register-form" onclick="ShowRegisterForm()">Đăng ký</span>
-            </div>
-            <div class='clear'></div>
-        </div>						
-        <div class='row'>
-	        <div class='col1'></div>	        	
-	        <div class="col2 button">					
-			        <span class='login' onclick="Login()" >Đăng nhập</span>
-			        <span class='close' onclick="closeForm('login-form')" >Thoát</span></a>
-	        </div>	
-	        <div class='clear'></div>
-        </div>	
-    </div>
-</div> 
-<div id="recover-form" class="recover-form">
-    <div class="loading"></div>
-    <div class="title">Phục hồi mật khẩu <span class='exit' onclick="closeForm('recover-form')"></span></div>				
-    <div class='input-form'>
-        <div class='row message'>
-        </div>
-        <div class='row'>
-            <div>Nhập tên đăng nhập và địa chỉ email đã đăng ký tài khoản</div>
-        </div>
-        <div class='row'>
-            <div class='col1'>
-	            Tên truy cập
-            </div>
-            <div class='col2'>
-	            <input id="username" type="text"  maxlength="50"/>						
-            </div>						
-        </div>	
-        <div class='row'>
-            <div class='col1'>
-	            Email
-            </div>
-            <div class='col2'>
-	            <input id="email" type="text"  maxlength="50"/>						
-            </div>						
-        </div>	
-        <div class='row' style='font-style:italic'>Hoặc dùng <b>số điện thoại</b> đăng ký liên hệ bộ phận hỗ trợ</div>
-        <div class='row'>
-            <div class='col1'>		
-            </div>	
-            <div class='col2 button'>					
-		            <span class='recover' onclick="Recover()" >Gửi</span> <span class='close' onclick ="closeForm('recover-form')" >Đóng</span>
-            </div>	
-        </div>	
-    </div>
-</div>    
+}
+*/
+//var doc_width = $(document).width();
+//var wrapper_width = $(".content-main-page").width() ? $(".content-main-page").width() : 1008;
+$(document).ready(function(){
+	fixResize();
+	$(window).resize(function() {
+		fixResize();
+	});
+	return;
+	try {
+		fixZoom();
+		var fixPosRight = findYPos(document.getElementById('adZoneRight'));	
+	//	console.log(fixPosRight);
+		var rightParentID = 'main-content';			
+		window.onscroll = function() {
+			try {
+				doScroll("adZoneRight", fixPosRight, rightParentID);				
+			}catch(e){console.log(e)}			
 
-<select name="ctl00$hddSalePrice" id="ctl00_hddSalePrice" class="hddsaleprice" style="display:none">
-	<option value="0">------ Mức gi&#225; ------</option>
-	<option value="9">40 triệu  - 60 triệu </option>
-	<option value="10">60 triệu  - 80 triệu </option>
-	<option value="11">80 triệu  - 100 triệu </option>
-	<option value="12">100 triệu  - 300 triệu </option>
-	<option value="13">300 triệu  - 500 triệu </option>
-	<option value="14">500 triệu  - 800 triệu </option>
-	<option value="15">800 triệu  - 1 tỷ </option>
-	<option value="16">1 tỷ  - 2 tỷ </option>
-	<option value="17">2 tỷ  - 3 tỷ </option>
-	<option value="18">3 tỷ  - 4 tỷ </option>
-	<option value="19">4 tỷ  - 6 tỷ </option>
-	<option value="20">6 tỷ  - 8 tỷ </option>
-	<option value="21">8 tỷ  - 10 tỷ </option>
-	<option value="22">10 tỷ  - 15 tỷ </option>
-	<option value="23">15 tỷ  - 20 tỷ </option>
-	<option value="24">20 tỷ  - 30 tỷ </option>
-	<option value="25">30 tỷ  - 60 tỷ </option>
-	<option value="26">Tr&#234;n 60 tỷ </option>
-	<option value="0">Tất cả mức gi&#225;</option>
-</select>
-<select name="ctl00$hddrentPrice" id="ctl00_hddrentPrice" class="hddrentprice" style="display:none">
-	<option value="0">------ Mức gi&#225; ------</option>
-	<option value="1">0 - 1 triệu </option>
-	<option value="2">1 triệu  - 3 triệu </option>
-	<option value="3">3 triệu  - 5 triệu </option>
-	<option value="4">5 triệu  - 10 triệu </option>
-	<option value="5">10 triệu  - 15 triệu </option>
-	<option value="6">15 triệu  - 20 triệu </option>
-	<option value="7">20 triệu  - 30 triệu </option>
-	<option value="8">30 triệu  - 40 triệu </option>
-	<option value="9">40 triệu  - 60 triệu </option>
-	<option value="10">60 triệu  - 80 triệu </option>
-	<option value="11">80 triệu  - 100 triệu </option>
-	<option value="12">100 triệu  - 300 triệu </option>
-	<option value="13">300 triệu  - 500 triệu </option>
-	<option value="0">Tất cả mức gi&#225;</option>
-</select>  
-
-<div id="fade" class="black_overlay"></div>	 
-<div id="ctl00_links" class="links"></div>
-<input name="ctl00$hddCurrentTextDate" type="hidden" id="ctl00_hddCurrentTextDate" class="hddCurrentTextDate" value="190329" />
-<div class='top-contact'></div>
-
-<script  type="text/javascript" src="/publish/js/jquery.js"></script>
-<script type="text/javascript" src="/publish/js/common.js?v=201807240904"></script>
+		}
+		$(window).resize(function() {
+			fixZoom();
+		});
+	}catch(e){console.log(e)}
 	
-<script type="text/javascript" src="/publish/js/pc-common.js?v=201805210904"></script>
+});
+function fixResize(){
+	var doc_width = $(document).width();
+	var main_width =  $('.content-main-page').width() + (2 * $('.adZoneRight').width());
+	console.log(doc_width , main_width);
+	if(doc_width < main_width){			
+		$('.adZoneRight').hide();
+	}else{
+		$('.adZoneRight').show();
+	}
+}
+function fixZoom(){
+	var doc_width = $(document).width();
+	//console.log(doc_width);
+	var wrapper_width = $(".content-main-page").width();
+	//var screen_width = screen.width;
+	//var btn_download_width = $("#adZoneRight").width();
+	//var top_position = 150;
+	var left_position = wrapper_width + 10 + ((doc_width - wrapper_width) / 2);
+	console.log('wrapper_width:',wrapper_width,'doc_width:',doc_width,'left_position:',left_position);
+/*
+	if (left_position > screen_width) {
+		left_position = screen_width - 10 - btn_download_width;
+		top_position = screen.height / 2 - $('#adZoneRight').height() + 10;
+	}*/
+	//if(doc_width>screen_width){
+		//left_position = wrapper_width + 15+(doc_width - screen_width);
+		//left_position = (doc_width - wrapper_width)/2 + wrapper_width + 10 ;
+		//console.log('case3');
+	//}
 
-<script type="text/javascript">
-    /*JavaScript Cookie v2.1.4*/
-    (function(b) { var d = false; if (typeof define === "function" && define.amd) { define(b); d = true } if (typeof exports === "object") { module.exports = b(); d = true } if (!d) { var a = window.Cookies; var c = window.Cookies = b(); c.noConflict = function() { window.Cookies = a; return c } } } (function() { function b() { var f = 0; var c = {}; for (; f < arguments.length; f++) { var d = arguments[f]; for (var e in d) { c[e] = d[e] } } return c } function a(d) { function c(r, p, l) { var t; if (typeof document === "undefined") { return } if (arguments.length > 1) { l = b({ path: "/" }, c.defaults, l); if (typeof l.expires === "number") { var h = new Date(); h.setMilliseconds(h.getMilliseconds() + l.expires * 86400000); l.expires = h } l.expires = l.expires ? l.expires.toUTCString() : ""; try { t = JSON.stringify(p); if (/^[\{\[]/.test(t)) { p = t } } catch (n) { } if (!d.write) { p = encodeURIComponent(String(p)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g, decodeURIComponent) } else { p = d.write(p, r) } r = encodeURIComponent(String(r)); r = r.replace(/%(23|24|26|2B|5E|60|7C)/g, decodeURIComponent); r = r.replace(/[\(\)]/g, escape); var k = ""; for (var o in l) { if (!l[o]) { continue } k += "; " + o; if (l[o] === true) { continue } k += "=" + l[o] } return (document.cookie = r + "=" + p + k) } if (!r) { t = {} } var s = document.cookie ? document.cookie.split("; ") : []; var q = /(%[0-9A-Z]{2})+/g; var m = 0; for (; m < s.length; m++) { var j = s[m].split("="); var g = j.slice(1).join("="); if (g.charAt(0) === '"') { g = g.slice(1, -1) } try { var f = j[0].replace(q, decodeURIComponent); g = d.read ? d.read(g, f) : d(g, f) || g.replace(q, decodeURIComponent); if (this.json) { try { g = JSON.parse(g) } catch (n) { } } if (r === f) { t = g; break } if (!r) { t[f] = g } } catch (n) { } } return t } c.set = c; c.get = function(e) { return c.call(c, e) }; c.getJSON = function() { return c.apply({ json: true }, [].slice.call(arguments)) }; c.defaults = {}; c.remove = function(f, e) { c(f, "", b(e, { expires: -1 })) }; c.withConverter = a; return c } return a(function() { }) }));
-</script>
+	//$("#adZoneRight").css({'left': left_position, 'top': top_position});
+	$("#adZoneRight").css({'left': left_position});
+}
 
-<input name="ctl00$footer$hddSDemand" type="hidden" id="ctl00_footer_hddSDemand" class="hddSDemandId" value="1" />
-<input name="ctl00$footer$hddSPropertyTypeId" type="hidden" id="ctl00_footer_hddSPropertyTypeId" class="hddSPropertyTypeId" value="dat-tho-cu-dat-o" />
-<input name="ctl00$footer$hddSProvinceId" type="hidden" id="ctl00_footer_hddSProvinceId" class="hddSProvinceId" value="2" />
-<input name="ctl00$footer$hddSDistrictId" type="hidden" id="ctl00_footer_hddSDistrictId" class="hddSDistrictId" value="145" />
-<input name="ctl00$footer$hddSSquareId" type="hidden" id="ctl00_footer_hddSSquareId" class="hddSSquareId" value="0" />
-<input name="ctl00$footer$hddSPriceId" type="hidden" id="ctl00_footer_hddSPriceId" class="hddSPriceId" value="0" />
-<input name="ctl00$footer$hddSDirectId" type="hidden" id="ctl00_footer_hddSDirectId" class="hddSDirectId" value="0" />
-<input name="ctl00$footer$hddWardId" type="hidden" id="ctl00_footer_hddWardId" class="hddWard" value="0" />
-<input name="ctl00$footer$hddStreetId" type="hidden" id="ctl00_footer_hddStreetId" class="hddStreet" value="0" />
-<input name="ctl00$footer$hddProvinceId" type="hidden" id="ctl00_footer_hddProvinceId" class="province-id" value="2" />
-<input name="ctl00$footer$page_id" type="hidden" id="ctl00_footer_page_id" class="page-id" value="2" />
 
- <script type="text/javascript" src="/publish/js/pc-property.js?v=201902140904"></script>
-<script type="text/javascript" src="/publish/js/jquery.autocomplete.js"></script> 
+function isIE6(){if(!window.XMLHttpRequest){return true;}return false;}
+function IsSafari(){var is_safari=navigator.userAgent.toLowerCase().indexOf('safari/')>-1;return is_safari;}
+function f_filterResults(n_win,n_docel,n_body){
+	var n_result=n_win?n_win:0;
+	if(n_docel&&(!n_result||(n_result>n_docel)))
+		n_result=n_docel;
+	return n_body&&n_body>300&&(!n_result||(n_result>n_body))?n_body:n_result;
+}
+
+function f_scrollTop(){
+	return f_filterResults(window.pageYOffset?window.pageYOffset:0,document.documentElement?document.documentElement.scrollTop:0,document.body?document.body.scrollTop:0);
+}
+function findPos(obj){
+	var posX=obj.offsetLeft;
+	var posY=obj.offsetTop;
+	while(obj.offsetParent){
+		if(obj==document.getElementsByTagName('body')[0]){
+			break
+		}else{
+			posX=posX+obj.offsetParent.offsetLeft;
+			posY=posY+obj.offsetParent.offsetTop;
+			obj=obj.offsetParent;
+		}
+	}
+	var posArray=[posX,posY];
+	return posArray;
+}
+
+function findYPos(obj){
+	var posObj=findPos(obj);
+	return posObj[1];
+}
+
+function doScroll(divID,fixPos,parentID){
+	//fixZoom();
+	var obj=document.getElementById(divID);
+	var objParent=document.getElementById(parentID);
+	var parentPos=findYPos(objParent);
+	var floorPos=parentPos+objParent.offsetHeight;
+//	console.log('parentPos',parentPos,'fixPos',fixPos,'floorPos',floorPos,'f_scrollTop',f_scrollTop(),'obj.offsetHeight',obj.offsetHeight);
+	if(f_scrollTop()>fixPos&&fixPos+obj.offsetHeight!=floorPos){
+		if(f_scrollTop()+obj.offsetHeight>=floorPos){
+			obj.style.position='absolute';
+			obj.style.top=(floorPos-obj.offsetHeight-5)+'px';
+		}else{
+			//console.log(isIE6());
+			if(isIE6()){
+				obj.style.position='absolute';
+				obj.style.top=(f_scrollTop()-5)+'px';
+			}else{
+				obj.style.position='fixed';
+				obj.style.top='0%';
+			}
+		}
+	}else{
+		if(f_scrollTop()<fixPos){
+			//obj.removeAttribute("style");
+			obj.style.top='';
+			obj.style.position='';
+		}
+		else{
+			if(isIE6()){
+				obj.style.display='block';
+			}else{
+				if(IsSafari()){
+					obj.style.top='0%';
+					obj.style.position='relative';
+				}else{
+					//obj.removeAttribute("style");
+					obj.style.top='';
+					obj.style.position='';
+				}
+			}
+		}
+		
+	}
+}
+</script>		
+
+
  
- <script type="text/javascript">
-     $(document).ready(function() {
-         $(".reflect-form .captchagenerator").attr('src', '/CaptchaGenerator.ashx?t=' + Math.floor((Math.random() * 100000) + 1));
-     });
+		<div class="content-main-page clearfix">
+			<div class="breadcrumb clearfix">
+<div><ul><li><a href="/">Trang Chủ</a><ul><li><span class="crumbSep"> &raquo; </span><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/category3.html" itemprop="url"><span itemprop="title">Công nghệ</span></a></div></li><li><span class="crumbSep"> &raquo; </span><div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/category3/genre203.html" itemprop="url"><span itemprop="title">Phát triển hệ thống</span></a></div></li><li><span class="crumbSep"> &raquo; </span> Asia Plus Inc</li></ul></li></ul></div></div>			<!-- breadcrumbs -->
+			
+			<!-- end content-left -->
+			<div class="content-right">
+				<script type='text/javascript'>
+		// favorite action
+		function ajaxFavoriteCompany(id, obj) {
+			var objQuery = $(obj);
+			var favorite = objQuery.attr('data-favorite') == "true";
+			var url = null;
+			if (favorite) {
+				url = '/favorite/ajaxRemoveCompany';
+			} else {
+				url = '/favorite/ajaxAddCompany';
+			}
+
+			return ajaxFavorite(objQuery, url, {'ajax': true, 'companyId': id}, $("#favoriteCompanyCounter"));
+		}
+
+	</script>
+
+<style>
+	.content-article-detail img{
+		max-width: 718px !important;
+	}
+</style>
+
+
+<div class="page-company-detail ">
+    <div class="box-com-detail">
+		<div class="title">
+			<h1> Asia Plus Inc</h1>
+			<!--<a class="editco" target="_blank" href="">Edit</a>-->
+		</div>
+		<div class="content">
+			<div class="wrapper-tab" id="tabs">
+				<div class="tabs clearfix">
+					<ul class="clearfix">
+																				<li id="common" class=" active" ><a href="/company/asia-plus-inc.html"><span>Tổng quan</span> </a></li>
+												</ul>
+											<div class="button-control clearfix">
+														<a id="favoriteButton" class="btn-add contact-company" title="Thêm vào danh sách yêu thích." onClick="return ajaxFavoriteCompany(2806, this);" rel="nofollow" data-clicked="false" data-favorite="false" data-text-add="Thêm" data-title-add="Thêm vào danh sách yêu thích." data-text-remove="Gở bỏ" data-title-remove="Gở bỏ khỏi danh sách yêu thích." href="javascript:void(0)">Thêm</a>							<a class="btn-inquiry contact-company" rel="nofollow" style="margin-right: 12px;" href="/inquiry/create?company_id=2806">Hỏi</a>							<a href="#" id="printOut" onclick="printCompany('asia-plus-inc')" rel='nofollow' class="contact-company printOut">In</a>
+						</div>
+									</div><!-- end tabs -->
+				<div class="line-tab"></div>
+				<div class="desc-tab">
+					<div class="item-tab">
+						<div class="item-content" id="item-content">
+														<style type="text/css">
+/*Css here*/
+</style>
+<br />
+<div class="item-com-detail">
+	<div itemtype="http://schema.org/Organization" itemscope="">
+		<div class="com-info clearfix">
+		<img itemprop="logo" width="147px" src="http://vtown.vn/uploads/company/2806/thumbnail/unnamed%20%281%29.jpg" alt=" Asia Plus Inc" />
+		<div class="title-item clearfix">
+				<h2><span itemprop="name"> Asia Plus Inc</span></h2>
+				<ul>
+					<li>XEM:1658</li>
+					<li>LIÊN HỆ:36</li>
+				</ul>
+			</div>
+			<p><span itemprop="description">Asia Plus Inc. offers two services to help your sales and marketing issues solved. "Q&Me" (http://www.qandme.net) provides the online market research to help your consumer understanding of Vietnam, while Tascade (http://www.tascade.net) is enterprise SNS to enhance your team communications.  </span></p>										
+		</div>
+		<div class="review-summary">
+	
+</div>
+		<div style="float: right;margin-right:10px"><ul class="way2blogging-social way2blogging-cssanime way2blogging-size16">
+<li style="background-image:url(/assets/c257d22f/images/16px/facebook.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Chia sẻ trên Facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html&amp;t=Vtown+-+View+Company"><strong>Facebook</strong></a></li>
+<li style="background-image:url(/assets/c257d22f/images/16px/twitter.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Tweet This!" href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html&amp;text=Vtown+-+View+Company"><strong>Twitter</strong></a></li>
+<li style="background-image:url(/assets/c257d22f/images/16px/google-plus.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Share this on Google+" href="https://plus.google.com/share?url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html"><strong>Google+</strong></a></li>
+<li style="background-image:url(/assets/c257d22f/images/16px/stumbleupon.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Stumble upon something good? Share it on StumbleUpon" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html&amp;title=Vtown+-+View+Company"><strong>StumbleUpon</strong></a></li>
+<li style="background-image:url(/assets/c257d22f/images/16px/linkedin.png);margin-left:0 !important"><a rel="nofollow" target="_blank" title="Share this on LinkedIn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fvtown.vn%2Fcompany%2Fasia-plus-inc.html&amp;title=Vtown+-+View+Company"><strong>LinkedIn</strong></a></li></ul></div>
+		<script type="text/javascript">
+	$(function(){
+		reloadRecaptcha();
+	});
+	
+	function reloadRecaptcha() {		
+		var publicKey = "6LfrVesSAAAAAF3hcnueN4I2ql96MpGLYs4FIM8i";
+		var div = "recap";
+		Recaptcha.create(publicKey, div, {theme: "white", callback: Recaptcha.focus_response_field});
+		return false;
+	}
+	
+	function validateCaptcha() {
+		console.log('captcha');
+		var challenge = Recaptcha.get_challenge();
+		var response = Recaptcha.get_response();
+		var company_id = 2806;
+		var key_cache = "copanyDetail_asia-plus-inc_common_vi";
+		var data = {"challenge" : challenge, "response": response, "company_id": company_id, "key_cache": key_cache};
+		$.ajax({
+			url: "/company/showEmail",
+			type: "post",
+			data: data,
+			beforeSend: function() {				
+			},
+			success: function(data) {
+				var data = $.parseJSON(data);
+				if (data.success == false) {
+					Recaptcha.reload();
+					$('.error').html(data.msg).css("display", "block");
+//					$('.error').css("display", "block");
+					return false;
+				} else {
+					location.reload();
+					return false;
+				}
+			},
+			error: function(data) {
+				return false;
+			},
+			complete: function() {
+			},
+		});
+		
+		return false;
+	}
+	
 </script>
+		
+<div class="table-com-detail" itemscope itemtype="http://schema.org/Organization">					 
+	<table class="tbl-com-detail company_basic_info_table">
+		<tbody>	
+			<tr class="line-between">
+				<th></th>
+				<td></td>
+			</tr>
+			<tr>
+				<th>Tên công ty</th>
+				<td>
+					<span itemprop="name"> Asia Plus Inc</span>
+				</td>
+			</tr>
+					
+				<tr class="line-between">
+					<th></th>
+					<td></td>
+				</tr>
+				<tr>
+					<th>Địa chỉ</th>
+					<td>
+						<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">															
+															<span itemprop="streetAddress">25/7A Nguyen Binh Khiem Str., Ben Nghe Ward, Dist 1, HCMC</span>
+								<br>
+																				</div>
+					</td>
+				</tr>												
+										<tr class="line-between">
+					<th></th>
+					<td></td>
+				</tr>
+				<tr>
+					<th>Điện thoại </th>
+					<td>
+						<img src="http://vtown.vn/uploads/company/field/c3cb43909e356f6c36367d2e0a956943/e16a2d7f1ab5bffece098bd017d0842e.png" alt="vtown.vn" />						<span itemprop="telephone" style="display: none;">84-128-2463544</span>
+					</td>
+				</tr>        
 
+																<tr class="line-between"><th></th><td></td></tr>
+				<tr>
+					<th>Ngày thành lập</th>
+					<td>
+						<img src="http://vtown.vn/uploads/company/field/c3cb43909e356f6c36367d2e0a956943/c59e1c3bea83cb3977b3f396f0d35506.png" alt="vtown.vn" />						<span itemprop="foundingDate" style="display: none;">2014 - 1</span>
+					</td>
+				</tr>					
+													<tr class="line-between"><th></th><td></td></tr>
+				<tr>
+					<th>Loại hình doanh nghiệp</th>
+					<td>
+						Trách nhiệm hữu hạn					</td>
+				</tr>
+										<tr class="line-between"><th></th><td></td></tr>
+				<tr>
+					<th>Kinh doanh</th>
+					<td>Asia Plus Inc. offers two services - (1) online market research service "Q&Me" (www.qandme.net), (2) enterprise SNS service "Tascade"(www.tascade.net)
+</td>
+				</tr>					
+			        
+							<tr class="line-between"><th></th><td></td></tr>
+				<tr>
+					<th>Hỗ trợ ngôn ngữ</th>
+					<td>
+						<div itemscope itemtype="http://schema.org/CreativeWork">
+							<span itemprop="inLanguage">Anh, Nhật, Việt nam</span>
+						</div>
+					</td>
+				</tr>     
+			 
+							<tr class="line-between"><th></th><td></td></tr>
+				<tr>
+					<th>Liên kết</th>
+					<td>
+													<a href="http://www.asia-plus.net/" itemprop="url"> Asia Plus Inc</a>
+											</td>
+				</tr>
+			    
+							<tr class="line-between"><th></th><td></td></tr>
+				<tr>
+					<th>Thư điện tử</th>
+					<td>
+												<div class="email-enabled tabs clearfix">
+							<div class="button-control clearfix" style="float: left;">
+								<a id="enter-captcha" class="btn-add contact-company" title="Xem E-mail này" onclick="loadPopup();" rel="nofollow" data-clicked="false" href="javascript:void(0)">Xem</a>
+							</div>	
+						</div>
+											</td>
+				</tr>
+			 
+			<tr class="line-between"><th></th><td></td></tr>
+		</tbody>
+	</table>
+			<div itemprop="location">
+			<span itemscope itemtype="http://schema.org/Place">
+				<div itemprop="geo">
+					<span itemscope itemtype="http://schema.org/GeoCoordinates">
+						<span property="latitude" content="10.788443900000000"></span>
+						<span property="longitude" content="106.703633599999990"></span>
+					</span>
+				</div>
+			</span>
+		</div>
+		
+</div>
+<div class="genre-com-detail clearfix">
+	<ul class="list-genre"><li><a title="Phát triển hệ thống" href="/category3/genre203.html">Phát triển hệ thống</a></li><li><a title="Máy chủ" href="/category3/genre204.html">Máy chủ</a></li><li><a title="Khảo sát thị trường" href="/category1/genre1506.html">Khảo sát thị trường</a></li></ul></div><!-- end genre-com-detail -->
 
+<!-- FORM POP UP-->
+<div id="toPopup">
+	<div class="popup-title clearfix" itemscope itemtype="http://schema.org/Organization">
+		<div class="close"><img src="http://vtown.vn/images/icon-popup-close.png" alt="" /></div>
+		<div class="logo"><img itemprop="logo" src="http://vtown.vn/images/logo-popup.png" alt="" /></div>
+	</div><!-- end popup-title -->
+	<div id="popup_content"> <!--your content start-->
+		<div class="option-cmt">
+			<p>Vui lòng nhập mã bảo vệ bên dưới để được xem E-mail của công ty.</p>			
+		</div><!-- end option-cmt -->
+		<div class="box-login" style="width: 393px; margin: 0 auto;">                        	
+			<form class="frm-login" style="padding: 12px 36px 0 36px;" id="frm-login" action="http://vtown.vn/company/showEmail" method="post">							
+			<div class="error" style="background-color:#FFA0A2; display: none; margin: 2px; padding-left: 5px;"></div>
+			<ul>				
+				<li>
+					<div id="recap"></div>				
+				</li>
+				<li class="clearfix">
+					<!--<div class="frm-left"></div>-->
+					<div class="frm-right" style="margin-left: 100px;">
+					<input id="submit" onClick="validateCaptcha(); return false;" type="submit" name="yt0" value="Hoàn tất" />					</div>
+				</li>
+			</ul>
+			</form>		</div><!-- end box-login -->
+	</div> <!-- end popup_content -->
+</div>
+<div id="backgroundPopup"></div>
+<!-- END OF FORM POP UP-->
+	</div>								
+	
+<script type='text/javascript'>
+    $(function() {
+	var aParams = new Array();
+    	var params = new Array();
+    	params['title'] = ' Asia Plus Inc';
+    	params['lat'] = '10.788443900000000';
+    	params['lng'] = '106.703633599999990';
+
+    	var url = 'http://www.asia-plus.net/';
+    	var text = '<div class="info_window"><span class="company_title"> Asia Plus Inc</span><br/>';
+    		text += '<span class="address_info">25/7A Nguyen Binh Khiem Str., Ben Nghe Ward, Dist 1, HCMC</span>';
+        		text += '<span class="phone_info">84-128-2463544</span><br/>';
+        		text += '<span class="website_info"><a class="readmore" target="_blank" href="http://www.asia-plus.net/">http://www.asia-plus.net/</a></span>';
+        	text += '</div>';
+    	params['text'] = text;
+    	aParams.push(params);
+	if (aParams.length > 0) {
+	    loadMapForView(aParams);
+	    setTimeout(function() {		
+			console.log('set center map');
+			map.setCenter(defaultLatLng);
+	    }, 3000);
+	}
+    });    
+</script>
+    <!--start map-->
+        <div class="map">
+    	    <!--<img alt="" src="images/map-vtown.jpg">-->
+    	<div class="textbox business_content_tabs_title tabs_title">
+				    <a href="#" class="selected" onClick="panToLocation('10.788443900000000', '106.703633599999990');">Địa chỉ chính</a> 
+				    	</div>
+    	<div id="map-container">
+    	    <div reff="map_branch_0" id="map_canvas_view_company" class ="map_view_company" style="width:auto; height:400px;"></div>
+    	</div>
+        </div>
+ 
+    <!--end map--> 								
+</div>						</div>
+					</div>
+					<div class="genre-com-detail clearfix">
+						<ul class="list-genre tab-list">
+																					<li id="common" class=" active" ><a href="/company/asia-plus-inc.html"><span>Tổng quan</span> </a></li>
+													</ul>
+													<ul class="list-button list-genre-function-companies">
+								<li>
+									<a id="favoriteButton2" class="contact-company" title="Thêm vào danh sách yêu thích." onClick="return ajaxFavoriteCompany(2806, this);" rel="nofollow" data-clicked="false" data-favorite="false" data-text-add="Thêm" data-title-add="Thêm vào danh sách yêu thích." data-text-remove="Gở bỏ" data-title-remove="Gở bỏ khỏi danh sách yêu thích." href="javascript:void(0)">Thêm</a>								</li>
+								<li><a class="contact-company" rel="nofollow" href="/inquiry/create?company_id=2806">Hỏi</a></li>
+								<li><a href="#" id="printOut" onclick="printCompany('asia-plus-inc')" rel='nofollow' class="contact-company printOut">In</a></li>
+							</ul>
+											</div><!-- end genre-com-detail -->
+				</div>
+
+			</div>
+		</div>
+				                    <div class="box-com-same">
+                        <div class="title">
+                                <span>Các công ty tương tự</span>
+                        </div><!-- end title -->
+
+                        <div class="content clearfix">
+                            <ul class="list-com-same clearfix">
+                                                                                <li >
+                                                <a href="/company/vinx-vietnam-co-ltd.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5047/thumbnail/7487db30a375b127b8ff9ee79de0251c.jpg"  alt="VINX VIETNAM CO.,LTD" />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5047/thumbnail/7487db30a375b127b8ff9ee79de0251c.jpg" alt="VINX VIETNAM CO.,LTD"></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/vinx-vietnam-co-ltd.html">VINX VIETNAM CO.,LTD</a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">213</span>
+                                                        <span class="mail">3</span>
+                                                </p>
+                                            </li>
+                                                                                <li >
+                                                <a href="/company/i-enter-asia-co--ltd.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5102/thumbnail/6771976fb33b24e0d54c9e40e029f29f.jpg"  alt="CÔNG TY TNHH I-ENTER ASIA " />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5102/thumbnail/6771976fb33b24e0d54c9e40e029f29f.jpg" alt="CÔNG TY TNHH I-ENTER ASIA "></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/i-enter-asia-co--ltd.html">CÔNG TY TNHH I-ENTER ASIA </a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">71</span>
+                                                        <span class="mail">0</span>
+                                                </p>
+                                            </li>
+                                                                                <li >
+                                                <a href="/company/beetsoft-co-ltd.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/4910/thumbnail/3cb810c292bccf45877cb7f5b59234b3.png"  alt="BeetSoft Co Ltd" />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/4910/thumbnail/3cb810c292bccf45877cb7f5b59234b3.png" alt="BeetSoft Co Ltd"></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/beetsoft-co-ltd.html">BeetSoft Co Ltd</a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">297</span>
+                                                        <span class="mail">3</span>
+                                                </p>
+                                            </li>
+                                                                                <li >
+                                                <a href="/company/ci-research.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5076/thumbnail/45e8cd34c615f2ccc7ded5c01420fdd1.png"  alt="CI Research" />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5076/thumbnail/45e8cd34c615f2ccc7ded5c01420fdd1.png" alt="CI Research"></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/ci-research.html">CI Research</a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">71</span>
+                                                        <span class="mail">3</span>
+                                                </p>
+                                            </li>
+                                                                                <li class="last">
+                                                <a href="/company/tanner-asia.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/4863/thumbnail/5ee655bbdf1b6a63d14b88d404b913b4.jpg"  alt="Tanner Asia" />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/4863/thumbnail/5ee655bbdf1b6a63d14b88d404b913b4.jpg" alt="Tanner Asia"></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/tanner-asia.html">Tanner Asia</a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">256</span>
+                                                        <span class="mail">4</span>
+                                                </p>
+                                            </li>
+                                                                                <li class="item-fix">
+                                                <a href="/company/saishunkan-system-vietnam-co--ltd.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/3583/thumbnail/bfafc4da7bcf7a2e2e47031072505287.png"  alt="Công ty TNHH hệ thống Saishunkan Việt Nam" />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/3583/thumbnail/bfafc4da7bcf7a2e2e47031072505287.png" alt="Công ty TNHH hệ thống Saishunkan Việt Nam"></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/saishunkan-system-vietnam-co--ltd.html">Công ty TNHH hệ thống Saishunkan Việt Nam</a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">2176</span>
+                                                        <span class="mail">26</span>
+                                                </p>
+                                            </li>
+                                                                                <li >
+                                                <a href="/company/global-gsoft-limited-company.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5022/thumbnail/2c6a70c7e9e6bc75882d99344840f48b.png"  alt="Công Ty TNHH Phần Mềm Hoàn Cầu" />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5022/thumbnail/2c6a70c7e9e6bc75882d99344840f48b.png" alt="Công Ty TNHH Phần Mềm Hoàn Cầu"></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/global-gsoft-limited-company.html">Công Ty TNHH Phần Mềm Hoàn Cầu</a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">122</span>
+                                                        <span class="mail">3</span>
+                                                </p>
+                                            </li>
+                                                                                <li >
+                                                <a href="/company/enable-startup-co-ltd.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5020/thumbnail/acb24f1c7155217aeb9cc92910947d1f.jpg"  alt="Công ty MTV Công Nghệ Enable Startup" />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5020/thumbnail/acb24f1c7155217aeb9cc92910947d1f.jpg" alt="Công ty MTV Công Nghệ Enable Startup"></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/enable-startup-co-ltd.html">Công ty MTV Công Nghệ Enable Startup</a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">134</span>
+                                                        <span class="mail">0</span>
+                                                </p>
+                                            </li>
+                                                                                <li >
+                                                <a href="/company/viet-nam-mm-ltd.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/5013/thumbnail/d744bb5d576df9552b7c6f1ebf750ee4.PNG"  alt="CONG TY TNHH VIET NAM MM" />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/5013/thumbnail/d744bb5d576df9552b7c6f1ebf750ee4.PNG" alt="CONG TY TNHH VIET NAM MM"></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/viet-nam-mm-ltd.html">CONG TY TNHH VIET NAM MM</a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">144</span>
+                                                        <span class="mail">0</span>
+                                                </p>
+                                            </li>
+                                                                                <li class="last">
+                                                <a href="/company/siten-software-company.html">
+                                                    
+                                                            <img class="img-com lazy" style="width:142px" data-original="/uploads/company/4990/thumbnail/c4864e56c328a5e9878ab72f2932fe36.png"  alt=" Công ty phần mềm Siten " />
+                                                            <noscript><img id="no-js" style="width:142px" src="/uploads/company/4990/thumbnail/c4864e56c328a5e9878ab72f2932fe36.png" alt=" Công ty phần mềm Siten "></noscript>
+                                                                                                    </a>
+                                                <h3><a href="/company/siten-software-company.html"> Công ty phần mềm Siten </a></h3>
+                                                <p class="view-status">
+                                                        <span class="view">109</span>
+                                                        <span class="mail">0</span>
+                                                </p>
+                                            </li>
+                                                                </ul><!-- end list-com-same -->
+                                                                                                <p class="view-all">
+                                        <a href="/category3.html">Xem Thêm</a>
+                                    </p>
+                                                                                    </div><!-- end content -->
+                    </div><!-- end box-com-same -->
+					</div>
+</div>
+
+				
+<!--				<div style="float: right">-->
+		
+							
+<!--				</div>-->
+				<!-- end box-fb-plugin -->
+			</div>
+			<!-- end content-right -->
+			<div class="content-left">
+							<script>
+	$(document).ready(function()
+		{	
+			var maxHeightCateTree = 630;
+			var scrollBar = $("#content_cateTree");
+			scrollBar.mCustomScrollbar({
+				set_height:maxHeightCateTree,
+				scrollButtons:{
+					enable:true
+				},
+				theme:"dark-thick",
+				advanced:{
+					updateOnBrowserResize:true,
+					updateOnContentResize: true
+				}
+
+			});
+			
+			$('#box-category').mouseenter(function(){
+				$('#imgSearchCate').hide('slow');
+				$('input#id_search').show('slow');
+				$('input#id_search').focus();
+				
+			});
+			$(document).mouseup(function (e)
+			{
+				var container = $('#box-category');
+
+				if ((!container.is(e.target) // if the target of the click isn't the container...
+					&& container.has(e.target).length === 0)) // ... nor a descendant of the container
+				{
+					$('input#id_search').hide('slow');
+					$('#imgSearchCate').show('slow');
+				}
+			});
+			
+			var quickSearch = $('input#id_search').quicksearch('ul#cateTree li',{removeDiacritics:true},scrollBar,maxHeightCateTree,'cateTree');
+			$("#content_cateTree").hover(function(){
+				$(document).data({"keyboard-input":"enabled"});
+				$(this).addClass("keyboard-input");
+			},function(){
+				$(document).data({"keyboard-input":"disabled"});
+				$(this).removeClass("keyboard-input");
+			});
+			$(document).keydown(function(e){
+				if($(this).data("keyboard-input")==="enabled"){
+					var activeElem=$(".keyboard-input"),
+						activeElemPos=Math.abs($(".keyboard-input .mCSB_container").position().top),
+						pixelsToScroll=60;
+					if(e.which===38){ //scroll up
+						e.preventDefault();
+						if(pixelsToScroll>activeElemPos){
+							activeElem.mCustomScrollbar("scrollTo","top");
+						}else{
+							activeElem.mCustomScrollbar("scrollTo",(activeElemPos-pixelsToScroll),{scrollInertia:400,scrollEasing:"easeOutCirc"});
+						}
+					}else if(e.which===40){ //scroll down
+						e.preventDefault();
+						activeElem.mCustomScrollbar("scrollTo",(activeElemPos+pixelsToScroll),{scrollInertia:400,scrollEasing:"easeOutCirc"});
+					}
+				}
+			});
+		});
+
+</script>
+<div class="box-left-home box-category " id="box-category" >
+					<!--begin box-category-->
+					<h3 class="title lang_vi"> Hạng Mục 
+						<img src="http://vtown.vn/images/search-cate.png" class="imgSearchCate" id="imgSearchCate" />
+						<input placeholder="Tìm" id="id_search" class="searchCate" style="display:none"/>
+					</h3>
+					<div class="content " id="content_cateTree" >
+						<ul class="treeview " id="cateTree">
+						<li id='1'><span class=""><a href="/category1.html" title="Hỗ trợ">Hỗ trợ </a> </span>
+							<ul>
+								<li class="" ><a href="/category1/genre3.html" title="Quản trị văn phòng"> Quản trị văn phòng (23)</a> </li>
+								<li class="" ><a href="/category1/genre6.html" title="Đào tạo"> Đào tạo (50)</a> </li>
+								<li class="" ><a href="/category1/genre1.html" title="Kế toán- thuế"> Kế toán- thuế (51)</a> </li>
+								<li class="" ><a href="/category1/genre9.html" title="Biên phiên dịch"> Biên phiên dịch (35)</a> </li>
+								<li class="" ><a href="/category1/genre1506.html" title="Khảo sát thị trường"> Khảo sát thị trường (30)</a> </li>
+								<li class="" ><a href="/category1/genre4.html" title="In ấn"> In ấn (76)</a> </li>
+								<li class="" ><a href="/category1/genre8.html" title="Tuyển dụng"> Tuyển dụng (28)</a> </li>
+								<li class="" ><a href="/category1/genre7.html" title="Phương tiện di chuyển"> Phương tiện di chuyển (25)</a> </li>
+							</ul>
+						</li>
+					<li id='3'><span class=""><a href="/category3.html" title="Công nghệ">Công nghệ </a> </span>
+							<ul>
+								<li class="" ><a href="/category3/genre205.html" title="Viễn thông"> Viễn thông (55)</a> </li>
+								<li class="" ><a href="/category3/genre201.html" title="Thiết kế Web"> Thiết kế Web (122)</a> </li>
+								<li class="" ><a href="/category3/genre203.html" title="Phát triển hệ thống"> Phát triển hệ thống (209)</a> </li>
+								<li class="" ><a href="/category3/genre206.html" title="Trò chơi"> Trò chơi (16)</a> </li>
+								<li class="" ><a href="/category3/genre204.html" title="Máy chủ"> Máy chủ (48)</a> </li>
+								<li class="" ><a href="/category3/genre202.html" title="Thiết kế đồ họa"> Thiết kế đồ họa (54)</a> </li>
+							</ul>
+						</li>
+					<li id='4'><span class=""><a href="/category4.html" title="Marketing">Marketing </a> </span>
+							<ul>
+								<li class="" ><a href="/category4/genre303.html" title="Quảng cáo truyền thông"> Quảng cáo truyền thông (50)</a> </li>
+								<li class="" ><a href="/category4/genre302.html" title="PPC Ad"> PPC Ad (17)</a> </li>
+								<li class="" ><a href="/category4/genre306.html" title="Sự kiện"> Sự kiện (44)</a> </li>
+								<li class="" ><a href="/category4/genre304.html" title="Mạng xã hội"> Mạng xã hội (35)</a> </li>
+								<li class="" ><a href="/category4/genre305.html" title="Quảng cáo"> Quảng cáo (63)</a> </li>
+								<li class="" ><a href="/category4/genre301.html" title="SEO"> SEO (29)</a> </li>
+							</ul>
+						</li>
+					<li id='2'><span class=""><a href="/category2.html" title="Tư vấn thành lập DN">Tư vấn thành lập DN </a> </span>
+							<ul>
+								<li class="" ><a href="/category2/genre107.html" title="Đầu tư"> Đầu tư (73)</a> </li>
+								<li class="" ><a href="/category2/genre101.html" title="Luật Doanh Nghiệp"> Luật Doanh Nghiệp (29)</a> </li>
+								<li class="" ><a href="/category2/genre104.html" title="Nhân sự"> Nhân sự (110)</a> </li>
+								<li class="" ><a href="/category2/genre106.html" title="Thủ tục pháp lý"> Thủ tục pháp lý (69)</a> </li>
+								<li class="" ><a href="/category2/genre105.html" title="Thiết kế văn phòng"> Thiết kế văn phòng (37)</a> </li>
+								<li class="" ><a href="/category2/genre102.html" title="Dịch pháp lý"> Dịch pháp lý (48)</a> </li>
+								<li class="" ><a href="/category2/genre108.html" title="Quản lý"> Quản lý (36)</a> </li>
+							</ul>
+						</li>
+					<li id='5'><span class=""><a href="/category5.html" title="Gia công">Gia công </a> </span>
+							<ul>
+								<li class="" ><a href="/category5/genre403.html" title="Nhập liệu"> Nhập liệu (28)</a> </li>
+								<li class="" ><a href="/category5/genre402.html" title="Phòng Lab phát triển"> Phòng Lab phát triển (31)</a> </li>
+								<li class="" ><a href="/category5/genre404.html" title="Trung tâm điện thoại"> Trung tâm điện thoại (8)</a> </li>
+								<li class="" ><a href="/category5/genre405.html" title="Trung tâm dữ liệu"> Trung tâm dữ liệu (26)</a> </li>
+								<li class="" ><a href="/category5/genre401.html" title="Gia công phần mềm"> Gia công phần mềm (132)</a> </li>
+							</ul>
+						</li>
+					<li id='7'><span class=""><a href="/category7.html" title="Sản xuất">Sản xuất </a> </span>
+							<ul>
+								<li class="" ><a href="/category7/genre610.html" title="Kỹ thuật"> Kỹ thuật (131)</a> </li>
+								<li class="" ><a href="/category7/genre601.html" title="Công cụ - thiết bị"> Công cụ - thiết bị (406)</a> </li>
+								<li class="" ><a href="/category7/genre603.html" title="Thiết bị điện- điện tử"> Thiết bị điện- điện tử (182)</a> </li>
+								<li class="" ><a href="/category7/genre608.html" title="Phần cứng máy tính"> Phần cứng máy tính (10)</a> </li>
+								<li class="" ><a href="/category7/genre621.html" title="Nội thất"> Nội thất (82)</a> </li>
+								<li class="" ><a href="/category7/genre619.html" title="Dầu"> Dầu (13)</a> </li>
+								<li class="" ><a href="/category7/genre611.html" title="Gia công kim loại"> Gia công kim loại (174)</a> </li>
+								<li class="" ><a href="/category7/genre606.html" title="Khác"> Khác (257)</a> </li>
+								<li class="" ><a href="/category7/genre605.html" title="Hệ thống cơ điện lạnh"> Hệ thống cơ điện lạnh (82)</a> </li>
+								<li class="" ><a href="/category7/genre612.html" title="Đóng gói và nguyên liệu"> Đóng gói và nguyên liệu (66)</a> </li>
+								<li class="" ><a href="/category7/genre604.html" title="Xe cộ và phụ tùng"> Xe cộ và phụ tùng (177)</a> </li>
+								<li class="" ><a href="/category7/genre616.html" title="Sản xuất thủy tinh"> Sản xuất thủy tinh (12)</a> </li>
+								<li class="" ><a href="/category7/genre617.html" title="Nhựa và cao su"> Nhựa và cao su (96)</a> </li>
+								<li class="" ><a href="/category7/genre620.html" title="Gỗ"> Gỗ (30)</a> </li>
+								<li class="" ><a href="/category7/genre607.html" title="Khuôn đúc"> Khuôn đúc (70)</a> </li>
+								<li class="" ><a href="/category7/genre614.html" title="Gốm sứ"> Gốm sứ (9)</a> </li>
+								<li class="" ><a href="/category7/genre618.html" title="Than"> Than (2)</a> </li>
+								<li class="" ><a href="/category7/genre613.html" title="Thủ công"> Thủ công (24)</a> </li>
+								<li class="" ><a href="/category7/genre615.html" title="Thiết bị y tế"> Thiết bị y tế (33)</a> </li>
+								<li class="" ><a href="/category7/genre609.html" title="Rèn- đúc"> Rèn- đúc (27)</a> </li>
+							</ul>
+						</li>
+					<li id='6'><span class=""><a href="/category6.html" title="Tài chính- ngân hàng">Tài chính- ngân hàng </a> </span>
+							<ul>
+								<li class="" ><a href="/category6/genre501.html" title="Bảo hiểm"> Bảo hiểm (12)</a> </li>
+								<li class="" ><a href="/category6/genre502.html" title="Ngân hàng"> Ngân hàng (33)</a> </li>
+								<li class="" ><a href="/category6/genre504.html" title="Chứng khoán"> Chứng khoán (7)</a> </li>
+								<li class="" ><a href="/category6/genre505.html" title="Quỹ đầu tư"> Quỹ đầu tư (6)</a> </li>
+							</ul>
+						</li>
+					<li id='8'><span class=""><a href="/category8.html" title="Xây dựng">Xây dựng </a> </span>
+							<ul>
+								<li class="" ><a href="/category8/genre703.html" title="Xây dựng và phát triển đô thị"> Xây dựng và phát triển đô thị (79)</a> </li>
+								<li class="" ><a href="/category8/genre701.html" title="Xây dựng tổng hợp"> Xây dựng tổng hợp (177)</a> </li>
+								<li class="" ><a href="/category8/genre702.html" title="Thiết kế kiến trúc"> Thiết kế kiến trúc (120)</a> </li>
+								<li class="" ><a href="/category8/genre704.html" title="Vật liệu xây dựng"> Vật liệu xây dựng (149)</a> </li>
+							</ul>
+						</li>
+					<li id='9'><span class=""><a href="/category9.html" title="Hàng tiêu dùng">Hàng tiêu dùng </a> </span>
+							<ul>
+								<li class="" ><a href="/category9/genre802.html" title="Đồ uống"> Đồ uống (38)</a> </li>
+								<li class="" ><a href="/category9/genre801.html" title="Thực phẩm"> Thực phẩm (108)</a> </li>
+								<li class="" ><a href="/category9/genre804.html" title="Sản phẩm chăm sóc cá nhân"> Sản phẩm chăm sóc cá nhân (24)</a> </li>
+								<li class="" ><a href="/category9/genre803.html" title="Mỹ phẩm"> Mỹ phẩm (22)</a> </li>
+							</ul>
+						</li>
+					<li id='10'><span class=""><a href="/category10.html" title="May mặc">May mặc </a> </span>
+							<ul>
+								<li class="" ><a href="/category10/genre901.html" title="Thời trang và phụ kiện"> Thời trang và phụ kiện (86)</a> </li>
+								<li class="" ><a href="/category10/genre902.html" title="Vải sợi"> Vải sợi (39)</a> </li>
+								<li class="" ><a href="/category10/genre903.html" title="Trang phục thể thao"> Trang phục thể thao (17)</a> </li>
+							</ul>
+						</li>
+					<li id='11'><span class=""><a href="/category11.html" title="Giao thông- vận chuyển">Giao thông- vận chuyển </a> </span>
+							<ul>
+								<li class="" ><a href="/category11/genre5.html" title="Du lịch"> Du lịch (24)</a> </li>
+								<li class="" ><a href="/category11/genre1001.html" title="Vận chuyển"> Vận chuyển (90)</a> </li>
+								<li class="" ><a href="/category11/genre2.html" title="Giao nhận hàng hóa"> Giao nhận hàng hóa (115)</a> </li>
+							</ul>
+						</li>
+					<li id='12'><span class=""><a href="/category12.html" title="Khách sạn- nhà hàng">Khách sạn- nhà hàng </a> </span>
+							<ul>
+								<li class="" ><a href="/category12/genre1102.html" title="Nhà hàng"> Nhà hàng (54)</a> </li>
+								<li class="" ><a href="/category12/genre1101.html" title="Khách sạn"> Khách sạn (32)</a> </li>
+								<li class="" ><a href="/category12/genre1104.html" title="Du lịch"> Du lịch (28)</a> </li>
+								<li class="" ><a href="/category12/genre1103.html" title="Resort"> Resort (3)</a> </li>
+							</ul>
+						</li>
+					<li id='13'><span class=""><a href="/category13.html" title="Chăm sóc sức khỏe">Chăm sóc sức khỏe </a> </span>
+							<ul>
+								<li class="" ><a href="/category13/genre1206.html" title="Trung tâm chăm sóc sắc đẹp"> Trung tâm chăm sóc sắc đẹp (9)</a> </li>
+								<li class="" ><a href="/category13/genre1203.html" title="Dược phẩm"> Dược phẩm (17)</a> </li>
+								<li class="" ><a href="/category13/genre1201.html" title="Bệnh viện"> Bệnh viện (9)</a> </li>
+								<li class="" ><a href="/category13/genre1204.html" title="Trung tâm y tế"> Trung tâm y tế (9)</a> </li>
+								<li class="" ><a href="/category13/genre1202.html" title="Nha khoa"> Nha khoa (9)</a> </li>
+								<li class="" ><a href="/category13/genre1205.html" title="Da liễu"> Da liễu (3)</a> </li>
+							</ul>
+						</li>
+					<li id='14'><span class=""><a href="/category14.html" title="Bán sỉ- lẻ">Bán sỉ- lẻ </a> </span>
+							<ul>
+								<li class="" ><a href="/category14/genre1303.html" title="Thiết bị công nghệ"> Thiết bị công nghệ (125)</a> </li>
+								<li class="" ><a href="/category14/genre602.html" title="Vật liệu công nghiệp"> Vật liệu công nghiệp (192)</a> </li>
+								<li class="" ><a href="/category14/genre1301.html" title="Đại lý phân phối"> Đại lý phân phối (175)</a> </li>
+								<li class="" ><a href="/category14/genre1302.html" title="Thương mại"> Thương mại (240)</a> </li>
+							</ul>
+						</li>
+					<li id='15'><span class=""><a href="/category15.html" title="Bất động sản">Bất động sản </a> </span>
+							<ul>
+								<li class="" ><a href="/category15/genre103.html" title="Khu công nghiệp"> Khu công nghiệp (83)</a> </li>
+								<li class="" ><a href="/category15/genre1401.html" title="Văn phòng, Căn hộ, tòa nhà"> Văn phòng, Căn hộ, tòa nhà (89)</a> </li>
+							</ul>
+						</li>
+					<li id='16'><span class=""><a href="/category16.html" title="Khác">Khác </a> </span>
+							<ul>
+								<li class="" ><a href="/category16/genre503.html" title="Giáo dục"> Giáo dục (89)</a> </li>
+								<li class="" ><a href="/category16/genre1502.html" title="Thiết kế tàu biển"> Thiết kế tàu biển (4)</a> </li>
+								<li class="" ><a href="/category16/genre1501.html" title="Nông nghiệp"> Nông nghiệp (47)</a> </li>
+								<li class="" ><a href="/category16/genre1505.html" title="Lâm nghiệp"> Lâm nghiệp (9)</a> </li>
+								<li class="" ><a href="/category16/genre1504.html" title="Dịch vụ"> Dịch vụ (340)</a> </li>
+								<li class="" ><a href="/category16/genre1503.html" title="Hóa chất"> Hóa chất (95)</a> </li>
+							</ul>
+						</li>
+					</ul>
+					</div>
+				</div>
+				
+<!-- begin box-content-right-home -->
 <script type="text/javascript">
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date(); a = s.createElement(o),
-  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+function getMore(i,group){
+	var limit = 47;
+	var x = parseInt(limit / 10);
+	var y = limit % 10;
+	var nextGroup = group+1;
+	
+	if(i+y==limit){
+		$('#text-read-more-'+nextGroup).html('Rút gọn');		
+	}
+		
+	if(group <= x){
+		$('#view-more-'+group).hide();
+		$('#group-'+nextGroup).show();
+		$('#view-more-'+nextGroup).show();
+		$('html, body').animate({
+				scrollTop: $('#group-'+group).offset().top
+			}, 1000);
 
-    ga('create', 'UA-36325571-1', 'auto');
-    ga('send', 'pageview');
+	}
+	
+	if(i==limit){
+		$('#group-1').show();
+		$('html, body').animate({
+				scrollTop: $('.box-province').offset().top
+			}, 1000);
+		$('#view-more-1').show();
+		for(var i =2;i<=x+1;i++){
+			$('#group-'+i).hide();
+		}
+	}
+}
 
 </script>
+<div class="box-left-home box-category box-province">
+    <!--begin box-news-->
+    <h3 class=" title lang_vi">Tỉnh - Thành phố</h3>
+    <div class="content">
+		<ul class="treeview">
+			<li>
+				<ul id="group-1" >				
+			<li class="">
+					<!--<a title="Hồ Chí Minh" href="/area/hcm.html"></a>--> 
+					<a title="Hồ Chí Minh" href="/area/hcm.html" 
+					   class="com-name">Hồ Chí Minh (1813)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Hà Nội" href="/area/ha-noi.html"></a>--> 
+					<a title="Hà Nội" href="/area/ha-noi.html" 
+					   class="com-name">Hà Nội (854)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Bình Dương" href="/area/binh-duong.html"></a>--> 
+					<a title="Bình Dương" href="/area/binh-duong.html" 
+					   class="com-name">Bình Dương (129)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Đồng Nai" href="/area/dong-nai.html"></a>--> 
+					<a title="Đồng Nai" href="/area/dong-nai.html" 
+					   class="com-name">Đồng Nai (111)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Hải Phòng" href="/area/hai-phong.html"></a>--> 
+					<a title="Hải Phòng" href="/area/hai-phong.html" 
+					   class="com-name">Hải Phòng (59)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Bắc Ninh" href="/area/bac-ninh.html"></a>--> 
+					<a title="Bắc Ninh" href="/area/bac-ninh.html" 
+					   class="com-name">Bắc Ninh (57)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Đà Nẵng" href="/area/da-nang.html"></a>--> 
+					<a title="Đà Nẵng" href="/area/da-nang.html" 
+					   class="com-name">Đà Nẵng (55)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Hải Dương" href="/area/hai-duong.html"></a>--> 
+					<a title="Hải Dương" href="/area/hai-duong.html" 
+					   class="com-name">Hải Dương (30)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Hưng Yên" href="/area/hung-yen.html"></a>--> 
+					<a title="Hưng Yên" href="/area/hung-yen.html" 
+					   class="com-name">Hưng Yên (30)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Long An" href="/area/long-an.html"></a>--> 
+					<a title="Long An" href="/area/long-an.html" 
+					   class="com-name">Long An (22)</a>
+				</li>
+									<div style="height:32px;margin-right: 15px;" id="view-more-1">
+						<a onclick="getMore(10,1)"  href="javascript:void(0)" class="read-more-news" ><p id ="text-read-more-1">Tiếp theo</p></a>  
+					</div>
+				</ul><ul id="group-2" style="display:none">				
+			<li class="">
+					<!--<a title="Vĩnh Phúc" href="/area/vinh-phuc.html"></a>--> 
+					<a title="Vĩnh Phúc" href="/area/vinh-phuc.html" 
+					   class="com-name">Vĩnh Phúc (21)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Bà Rịa - Vũng Tàu" href="/area/ba-ria--vung-tau.html"></a>--> 
+					<a title="Bà Rịa - Vũng Tàu" href="/area/ba-ria--vung-tau.html" 
+					   class="com-name">Bà Rịa - Vũng Tàu (15)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Thanh Hóa" href="/area/thanh-hoa.html"></a>--> 
+					<a title="Thanh Hóa" href="/area/thanh-hoa.html" 
+					   class="com-name">Thanh Hóa (9)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Khánh Hòa" href="/area/khanh-hoa.html"></a>--> 
+					<a title="Khánh Hòa" href="/area/khanh-hoa.html" 
+					   class="com-name">Khánh Hòa (7)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Bình Định" href="/area/binh-dinh.html"></a>--> 
+					<a title="Bình Định" href="/area/binh-dinh.html" 
+					   class="com-name">Bình Định (6)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Quảng Nam" href="/area/quang-nam.html"></a>--> 
+					<a title="Quảng Nam" href="/area/quang-nam.html" 
+					   class="com-name">Quảng Nam (6)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Hà Nam" href="/area/ha-nam.html"></a>--> 
+					<a title="Hà Nam" href="/area/ha-nam.html" 
+					   class="com-name">Hà Nam (5)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Bình Thuận" href="/area/binh-thuan.html"></a>--> 
+					<a title="Bình Thuận" href="/area/binh-thuan.html" 
+					   class="com-name">Bình Thuận (5)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Cần Thơ" href="/area/can-tho.html"></a>--> 
+					<a title="Cần Thơ" href="/area/can-tho.html" 
+					   class="com-name">Cần Thơ (5)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Lâm Đồng" href="/area/lam-dong.html"></a>--> 
+					<a title="Lâm Đồng" href="/area/lam-dong.html" 
+					   class="com-name">Lâm Đồng (5)</a>
+				</li>
+									<div style="height:32px;margin-right: 15px;" id="view-more-2">
+						<a onclick="getMore(20,2)"  href="javascript:void(0)" class="read-more-news" ><p id ="text-read-more-2">Tiếp theo</p></a>  
+					</div>
+				</ul><ul id="group-3" style="display:none">				
+			<li class="">
+					<!--<a title="Thừa Thiên Huế" href="/area/thua-thien-hue.html"></a>--> 
+					<a title="Thừa Thiên Huế" href="/area/thua-thien-hue.html" 
+					   class="com-name">Thừa Thiên Huế (4)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Thái Bình" href="/area/thai-binh.html"></a>--> 
+					<a title="Thái Bình" href="/area/thai-binh.html" 
+					   class="com-name">Thái Bình (4)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Phú Thọ" href="/area/phu-tho.html"></a>--> 
+					<a title="Phú Thọ" href="/area/phu-tho.html" 
+					   class="com-name">Phú Thọ (4)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Nghệ An" href="/area/nghe-an.html"></a>--> 
+					<a title="Nghệ An" href="/area/nghe-an.html" 
+					   class="com-name">Nghệ An (4)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Quảng Ninh" href="/area/quang-ninh.html"></a>--> 
+					<a title="Quảng Ninh" href="/area/quang-ninh.html" 
+					   class="com-name">Quảng Ninh (3)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Bắc Giang" href="/area/bac-giang.html"></a>--> 
+					<a title="Bắc Giang" href="/area/bac-giang.html" 
+					   class="com-name">Bắc Giang (3)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Ninh Bình" href="/area/ninh-binh.html"></a>--> 
+					<a title="Ninh Bình" href="/area/ninh-binh.html" 
+					   class="com-name">Ninh Bình (3)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Tiền Giang" href="/area/tien-giang.html"></a>--> 
+					<a title="Tiền Giang" href="/area/tien-giang.html" 
+					   class="com-name">Tiền Giang (3)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Nam Định" href="/area/nam-dinh.html"></a>--> 
+					<a title="Nam Định" href="/area/nam-dinh.html" 
+					   class="com-name">Nam Định (2)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Hòa Bình" href="/area/hoa-binh.html"></a>--> 
+					<a title="Hòa Bình" href="/area/hoa-binh.html" 
+					   class="com-name">Hòa Bình (2)</a>
+				</li>
+									<div style="height:32px;margin-right: 15px;" id="view-more-3">
+						<a onclick="getMore(30,3)"  href="javascript:void(0)" class="read-more-news" ><p id ="text-read-more-3">Tiếp theo</p></a>  
+					</div>
+				</ul><ul id="group-4" style="display:none">				
+			<li class="">
+					<!--<a title="Gia Lai" href="/area/gia-lai.html"></a>--> 
+					<a title="Gia Lai" href="/area/gia-lai.html" 
+					   class="com-name">Gia Lai (2)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Đắk Lắk" href="/area/dak-lak.html"></a>--> 
+					<a title="Đắk Lắk" href="/area/dak-lak.html" 
+					   class="com-name">Đắk Lắk (2)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Tây Ninh" href="/area/tay-ninh.html"></a>--> 
+					<a title="Tây Ninh" href="/area/tay-ninh.html" 
+					   class="com-name">Tây Ninh (2)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Hà Tĩnh" href="/area/ha-tinh.html"></a>--> 
+					<a title="Hà Tĩnh" href="/area/ha-tinh.html" 
+					   class="com-name">Hà Tĩnh (2)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Bình Phước" href="/area/binh-phuoc.html"></a>--> 
+					<a title="Bình Phước" href="/area/binh-phuoc.html" 
+					   class="com-name">Bình Phước (2)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Sơn La" href="/area/son-la.html"></a>--> 
+					<a title="Sơn La" href="/area/son-la.html" 
+					   class="com-name">Sơn La (2)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Đắk Nông" href="/area/dak-nong.html"></a>--> 
+					<a title="Đắk Nông" href="/area/dak-nong.html" 
+					   class="com-name">Đắk Nông (1)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Cao Bằng" href="/area/cao-bang.html"></a>--> 
+					<a title="Cao Bằng" href="/area/cao-bang.html" 
+					   class="com-name">Cao Bằng (1)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Phú Yên" href="/area/phu-yen.html"></a>--> 
+					<a title="Phú Yên" href="/area/phu-yen.html" 
+					   class="com-name">Phú Yên (1)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Kon Tum" href="/area/kon-tum.html"></a>--> 
+					<a title="Kon Tum" href="/area/kon-tum.html" 
+					   class="com-name">Kon Tum (1)</a>
+				</li>
+									<div style="height:32px;margin-right: 15px;" id="view-more-4">
+						<a onclick="getMore(40,4)"  href="javascript:void(0)" class="read-more-news" ><p id ="text-read-more-4">Tiếp theo</p></a>  
+					</div>
+				</ul><ul id="group-5" style="display:none">				
+			<li class="">
+					<!--<a title="Tuyên Quang" href="/area/tuyen-quang.html"></a>--> 
+					<a title="Tuyên Quang" href="/area/tuyen-quang.html" 
+					   class="com-name">Tuyên Quang (1)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Quảng Ngãi" href="/area/quang-ngai.html"></a>--> 
+					<a title="Quảng Ngãi" href="/area/quang-ngai.html" 
+					   class="com-name">Quảng Ngãi (1)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Kiên Giang" href="/area/kien-giang.html"></a>--> 
+					<a title="Kiên Giang" href="/area/kien-giang.html" 
+					   class="com-name">Kiên Giang (1)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Đồng Tháp" href="/area/dong-thap.html"></a>--> 
+					<a title="Đồng Tháp" href="/area/dong-thap.html" 
+					   class="com-name">Đồng Tháp (1)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Bạc Liêu" href="/area/bac-lieu.html"></a>--> 
+					<a title="Bạc Liêu" href="/area/bac-lieu.html" 
+					   class="com-name">Bạc Liêu (1)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Thái Nguyên" href="/area/thai-nguyen.html"></a>--> 
+					<a title="Thái Nguyên" href="/area/thai-nguyen.html" 
+					   class="com-name">Thái Nguyên (1)</a>
+				</li>
+								
+			<li class="">
+					<!--<a title="Hà Tây" href="/area/ha-tay.html"></a>--> 
+					<a title="Hà Tây" href="/area/ha-tay.html" 
+					   class="com-name">Hà Tây (1)</a>
+				</li>
+									<div style="height:32px;margin-right: 15px;" id="view-more-5">
+						<a onclick="getMore(47,5)"  href="javascript:void(0)" class="read-more-news" ><p id ="text-read-more-5">Tiếp theo</p></a>  
+					</div>
+				</ul>			</li>
+			<li></li>
+		</ul>
+    </div>
+</div>
+<!-- end box-content-right-home -->
+<div class="leftzonead box-left-home box-category box-province">
+    <div class="content">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- vtown_leftcolumn -->
+        <ins class="adsbygoogle" 
+             style="display:inline-block;width:200px;height:200px;" 
+             data-ad-client="ca-pub-6565792379238507" 
+             data-ad-slot="4138895275"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div> 
+</div> 
+							<div class="box-button-recruit">
+					<ul>
+													<li><a href="/register.html" title="Đăng doanh nghiệp"><span>Đăng doanh nghiệp</span> </a></li>
+												<li><a href="/recruitment.html" title="Tuyển dụng"><span>Tuyển dụng</span> </a></li>
+					</ul>
+				</div>
+								<iframe src="http://vtown.vn/advertising/5" 
+						frameborder="0" marginwidth="0" marginheight="0" vspace="0" 
+						hspace="0" allowtransparency="true" scrolling="no" width="202" height="100"></iframe>
+					<div style="margin:10px"></div>
+						<iframe src="http://vtown.vn/advertising/6" 
+						frameborder="0" marginwidth="0" marginheight="0" vspace="0" 
+						hspace="0" allowtransparency="true" scrolling="no" width="202" height="100"></iframe>
+					<div style="margin:10px"></div>
+		
 
+ 
+				<!-- end box-button-recruit -->
+				<!--				<div class="box-fb-plugin" style="margin-top: 15px">
+					<div class="title-like-box">
+						<h3 >Facebook</h3>
+					</div>
+					<div id="fb-root"></div>
+					<script type="text/javascript">
+					(function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id))
+						return;
+						js = d.createElement(s);
+						js.id = id;
+												js.src = "//connect.facebook.net/vi_VN/all.js#xfbml=1";
+						fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));
+					</script> 
+					 end plugin fb 
+								<img src="images/fb-plugin.jpg" alt="" />
+					<div class="fb-like-box"
+					 data-href="http://www.facebook.com/vtownportal?fref=ts"
+					 data-width="199" data-show-faces="true" data-stream="false"
+					 data-show-border="true" data-header="false"></div>
+				</div>-->
+								<!-- end box-fb-plugin -->
+			</div>
+		</div>
+		<!-- end content-main-page -->
+		
+		</div>
+        <div class="footer-vt">
+            <div class="wrap-footer-vt clearfix">
+				<div class="f-item f-item-vtown">
+					<div class="title">
+						<h5>Vtown làm gì ?</h5>
+					</div><!-- end title -->
+					<div class="content">
+						<p>
+							Công ty TNHH Washin Engine. Đóng vai trò cầu nối giữa Việt Nam và Nhật Bản, công ty là một cổng thông tin điện tử hỗ trợ sự mở rộng doanh nghiệp Nhật Bản đến Việt Nam. Khi công ty Nhật muốn hoạt động tại Việt Nam, Vtown có thể cung cấp cho quí công ty những thông tin về công ty đối tác trong các lĩnh vực như kế toán, bất động sản, thiết kế nội thất, dịch vụ và các ngành công nghiệp khác. 
+						</p>
+						<a href="/contactus.html" title="Liên Hệ" ><img src="http://vtown.vn/images/email-vtown.png" alt="Liên Hệ" /></a>
+					</div><!-- end content -->
+				</div><!-- end f-item -->
+				<div class="f-item f-item-we">
+					<div class="title">
+						<h5>Washin Engine Co.,Ltd</h5>
+					</div><!-- end title -->
+					<div class="content">
+						<ul>
+							<li>264E Le Van Sy St,</li>
+							<li>Ward 14, District 3, HCMC, VietNam.</li>
+							<li class="email">Email: info@washinengine.com </li>
+						</ul>
+					</div><!-- end content -->
+<!-- div style="
+    padding-top: 3px;
+">
+    <a target="_blank" href="http://www.beyondsecurity.com/vulnerability-scanner-verification/vtown.vn">
+<img src="http://www.beyondsecurity.com/verification-images/vtown.vn/vulnerability-scanner-5.gif" alt="Vulnerability Scanner" border="0" style="
+    height: 22px;
+">
+</a>
+  </div -->
+				</div><!-- end f-item-we -->
+
+				<div class="f-item f-item-contact">
+					<div class="title">
+						<h5>Chúng tôi</h5>
+					</div><!-- end title -->
+					<div class="content">
+						<ul>
+							<li><a href="/about.html">Cơ chế Quản lý</a></li>
+							<li><a href="/private-policy.html">Chính sách thông tin</a></li>
+							<li><a href="/usage-terms.html">Điều khoản sử dụng</a></li>
+							<li><a href="/contactus.html">Liên hệ</a></li>
+							<li><a href="/sitemap.html">Sitemap</a></li>
+						</ul>
+					</div><!-- end content -->
+				</div><!-- end f-item-contact -->
+
+				<div class="f-item f-item-service">
+					<div class="title">
+						<h5>Nội dung</h5>
+					</div><!-- end title -->
+					<div class="content">
+						<ul>
+							<li><a href="/articles.html">Bài viết Mở rộng DN</a></li>
+							<li><a href="/interview.html">Câu chuyện khởi nghiệp</a></li>
+							<li><a href="/faq.html">Câu hỏi thường gặp</a></li>
+							<li><a href="/post-on-vtown.html">Đăng doanh nghiệp</a></li>
+							<li><a href="/recruitment.html">Tuyển dụng</a></li>
+						</ul>
+					</div><!-- end content -->
+				</div><!-- end f-item-service -->
+
+            </div><!-- end wrap-footer-vt -->
+			        </div><!-- end footer-vt -->
+        <div class="bottom-vt">
+            <div class="wrap-bottom-vt">
+                <p>Copyright(c) 2013 Saigon Washin Engine Co.,Ltd. All Rights Reserved.</p>
+            </div><!-- end wrap-bottom-vt -->
+	    <div class="wrap-bottom-vt">
+		<div id="webutation-pixelbadge">
+		<script type="text/javascript">
+		(function() {
+		window.domain = 'vtown.vn';
+		function async_load(){
+		 var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+		 var p = ('https:' == document.location.protocol ? 'https://' : 'http://');
+		 s.src = p+'www.webutation.net/js/load_pixelbadge.js';
+		 var x = document.getElementById('webutation-pixelbadge-link'); x.parentNode.insertBefore(s, x); }
+		if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false);
+		})();
+		</script>
+		<p>
+		<a href="http://www.webutation.net/go/review/vtown.vn" id="webutation-pixelbadge-link">vtown.vn Webutation</a>
+		</p>
+		</div>
+            </div>
+        </div><!-- end bottom-vt -->
+        <script type="text/javascript" src="http://sdk.adspruce.com/1/adspruce.js?pid=3118&sid=1" async></script>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-42rZxwSSMkRmV"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-42rZxwSSMkRmV.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+    <script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+$.get('/company/logview/2806?k=4590590526416032e7ed9e314b94cf7cmrk_2806', function(data) {	$('.result').html(data);	console.log('log OK');});
+});
+/*]]>*/
+</script>
 </body>
+	
 </html>
+
+<!-- 10 / 10.75 || 10.48 / 11 -->

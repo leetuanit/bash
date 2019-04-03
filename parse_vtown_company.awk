@@ -30,7 +30,7 @@ BEGIN {
 	}
 }
 END {
-	printf("****%s:\n", nameResult) 
-	printf("%s:\n", addrResult) 
+	printf("%s\n", nameResult) 
+	printf("%s\n", addrResult) 
 	printf("%s\n", phoneResult) 
 }

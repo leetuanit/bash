@@ -7,9 +7,6 @@ function crawl(){
 
 while read vtownUrl
 do
-	name=""
-	address=""
-	phone=""
 	crawl ${vtownUrl} | while read resultLine
 	do
 		line=`expr $line + 1`
@@ -23,4 +20,7 @@ do
 			echo $resultLine
 		fi
 	done
+	echo $name
+	echo $address
+	echo $phone
 done < "listcompany_url.txt"

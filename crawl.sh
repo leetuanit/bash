@@ -1,12 +1,26 @@
 #!/bin/bash
 working_dir=`pwd`
 function crawl(){
-	wget -qO- ${1} | awk -f ${working_dir}/parse_vtown_company.awk | while read name address phone; do
-		echo ${name}
-		echo ${address}
-		echo ${phone}
-	done
+	array=()
+	wget -qO- ${1} | awk -f ${working_dir}/parse_vtown_company.awk
 }
-while read vtownUrl; do
-	crawl ${vtownUrl}
+
+while read vtownUrl
+do
+	name=""
+	address=""
+	phone=""
+	crawl ${vtownUrl} | while read resultLine
+	do
+		line=`expr $line + 1`
+		if [[ ${line} == 1 ]]; then
+			echo $resultLine
+		fi
+		if [[ ${line} == 2 ]]; then
+			echo $resultLine
+		fi
+		if [[ ${line} == 3 ]]; then
+			echo $resultLine
+		fi
+	done
 done < "listcompany_url.txt"

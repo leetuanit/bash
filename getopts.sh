@@ -6,14 +6,14 @@ c=0
 while getopts "h:s:abc:" name; do
   case $name in
   	a) a=1
-		echo "a=$a"
-		;;
-	b) b=1
-		echo "b=$b"
-		;;
-	c) c=1
-		echo "c=$c"
-		;;
+		  echo "a=$a"
+		  ;;
+  	b) b=1
+  		echo "b=$b"
+  		;;
+  	c) c=1
+  		echo "c=$c"
+  		;;
     h) h=1
       echo "usage $h"
       let "h=5" 
@@ -23,5 +23,10 @@ while getopts "h:s:abc:" name; do
       echo $strength
       ;;
   esac
+
+  echo "\$#= $#"
+  echo "\$$= $$"
+  echo "\$?= $?"
+  echo "\$*= $*"
 done
 echo "h=$h"

@@ -20,7 +20,4 @@ do
 			echo $resultLine
 		fi
 	done
-	echo $name
-	echo $address
-	echo $phone
 done < "listcompany_url.txt"

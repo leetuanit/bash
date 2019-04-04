@@ -24,9 +24,9 @@ while getopts "h:s:abc:" name; do
       ;;
   esac
 
-  echo "\$#= $#"
-  echo "\$$= $$"
-  echo "\$?= $?"
-  echo "\$*= $*"
+  echo "\$#= $#" #The number of args input item
+  echo "\$$= $$" #current pid
+  echo "\$?= $?" #Exit code
+  echo "\$*= $*" #All args input
 done
 echo "h=$h"
